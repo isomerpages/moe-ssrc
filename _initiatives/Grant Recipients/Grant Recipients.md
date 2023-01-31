@@ -184,22 +184,34 @@ _Recipient of Social Science Research Thematic Grant_<br>
 **Year**: 2016  |  **Project Status**: Completed<br>
 **[Project Details](https://staging.d2ih14cxifahz0.amplifyapp.com/initiatives/grant-recipients/17/)**
 
-**Year**:   |  **Project Status**: <br>
+##### **Assistant Professor Benjamin Li**
+_Recipient of Social Science and Humanities Research Fellowship_<br>
+**Year**: 2021  |  **Project Status**: Ongoing<br>
 **[Project Details](https://staging.d2ih14cxifahz0.amplifyapp.com/initiatives/grant-recipients/16/)**
 
-**Year**:   |  **Project Status**: <br>
+##### **Assistant Professor Wen Yun**
+_Recipient of Social Science and Humanities Research Fellowship_<br>
+**Year**: 2021  |  **Project Status**: Ongoing<br>
 **[Project Details](https://staging.d2ih14cxifahz0.amplifyapp.com/initiatives/grant-recipients/15/)**
 
-**Year**:   |  **Project Status**: <br>
+##### **Associate Professor Graham Matthews**
+_Recipient of Social Science Research Thematic Grant_<br>
+**Year**: 2021  |  **Project Status**: Ongoing<br>
 **[Project Details](https://staging.d2ih14cxifahz0.amplifyapp.com/initiatives/grant-recipients/14/)**
 
-**Year**:   |  **Project Status**: <br>
+##### **Assistant Professor Lin Weiqiang**
+_Recipient of Social Science and Humanities Research Fellowship_<br>
+**Year**: 2018  |  **Project Status**: Ongoing<br>
 **[Project Details](https://staging.d2ih14cxifahz0.amplifyapp.com/initiatives/grant-recipients/13/)**
 
-**Year**:   |  **Project Status**: <br>
+##### **Associate Professor Liu Haoming**
+_Recipient of Social Science Research Thematic Grant_<br>
+**Year**: 2016  |  **Project Status**: Completed<br>
 **[Project Details](https://staging.d2ih14cxifahz0.amplifyapp.com/initiatives/grant-recipients/12/)**
 
-**Year**:   |  **Project Status**: <br>
+##### **Professor Ivan Png**
+_Recipient of Social Science Research Thematic Grant_<br>
+**Year**: 2016  |  **Project Status**: Ongoing<br>
 **[Project Details](https://staging.d2ih14cxifahz0.amplifyapp.com/initiatives/grant-recipients/11/)**
 
 **Year**:   |  **Project Status**: <br>
