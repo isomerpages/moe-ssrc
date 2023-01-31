@@ -11,45 +11,57 @@ _Recipient of Social Science Research Thematic Grant_<br>
 
 ##### **Associate Professor Cheng Shih-Fen**
 _Recipient of Social Science Research Thematic Grant_<br>
-**Year**2020:   |  **Project Status**Ongoing: <br>
+**Year**: 2020  |  **Project Status**: Ongoing<br>
 **[Project Details](https://staging.d2ih14cxifahz0.amplifyapp.com/initiatives/grant-recipients/51/)**
 
 ##### **Assistant Professor Charlene Chen**
 _Recipient of Social Science and Humanities Research Fellowship_<br>
-**Year**2019:   |  **Project Status**:Ongoing <br>
+**Year**: 2019  |  **Project Status**: Ongoing <br>
 **[Project Details](https://staging.d2ih14cxifahz0.amplifyapp.com/initiatives/grant-recipients/50/)**
 
 ##### **Professor Jane Margaret Jacobs**
 _Recipient of Social Science Research Thematic Grant_<br>
-**Year**2018:   |  **Project Status**:Ongoing <br>
+**Year**: 2018  |  **Project Status**: Ongoing <br>
 **[Project Details](https://staging.d2ih14cxifahz0.amplifyapp.com/initiatives/grant-recipients/49/)**
 
 ##### **Professor Lim Sun Sun**
 _Recipient of Social Science Research Thematic Grant_<br>
-**Year**2017:   |  **Project Status**:Ongoing <br>
+**Year**: 2017  |  **Project Status**: Ongoing <br>
 **[Project Details](https://staging.d2ih14cxifahz0.amplifyapp.com/initiatives/grant-recipients/48/)**
 
 ##### **Professor Teo Hock Hai**
 _Recipient of Social Science Research Thematic Grant_<br>
-**Year**2017:   |  **Project Status**:Ongoing <br>
+**Year**: 2017  |  **Project Status**: Ongoing <br>
 **[Project Details](https://staging.d2ih14cxifahz0.amplifyapp.com/initiatives/grant-recipients/47/)**
 
-**Year**:   |  **Project Status**: <br>
+##### **Assistant Professor Yoon Sungwon**
+_Recipient of Social Science Research Thematic Grant_<br>
+**Year**: 2021  |  **Project Status**: Ongoing <br>
 **[Project Details](https://staging.d2ih14cxifahz0.amplifyapp.com/initiatives/grant-recipients/46/)**
 
-**Year**:   |  **Project Status**: <br>
+##### **Professor Khong Yuen Foong**
+_Recipient of Social Science Research Thematic Grant_<br>
+**Year**: 2019 |  **Project Status**: Ongoing <br>
 **[Project Details](https://staging.d2ih14cxifahz0.amplifyapp.com/initiatives/grant-recipients/45/)**
 
-**Year**:   |  **Project Status**: <br>
+##### **Associate Professor Goh Kim Huat**
+_Recipient of Social Science Research Thematic Grant_<br>
+**Year**: 2017  |  **Project Status**: Ongoing <br>
 **[Project Details](https://staging.d2ih14cxifahz0.amplifyapp.com/initiatives/grant-recipients/44/)**
 
-**Year**:   |  **Project Status**: <br>
+##### **Associate Professor Krishna Savani**
+_Recipient of Social Science Research Thematic Grant_<br>
+**Year**: 2016  |  **Project Status**: Completed<br>
 **[Project Details](https://staging.d2ih14cxifahz0.amplifyapp.com/initiatives/grant-recipients/43/)**
 
-**Year**:   |  **Project Status**: <br>
+##### **Dr Terence Chong**
+_Recipient of Social Science Research Thematic Grant_<br>
+**Year**: 2016 |  **Project Status**: Completed<br>
 **[Project Details](https://staging.d2ih14cxifahz0.amplifyapp.com/initiatives/grant-recipients/42/)**
 
-**Year**:   |  **Project Status**: <br>
+##### **Professor Jean Yeung**
+_Recipient of Social Science Research Thematic Grant_<br>
+**Year**: 2016  |  **Project Status**: Ongoing<br>
 **[Project Details](https://staging.d2ih14cxifahz0.amplifyapp.com/initiatives/grant-recipients/41/)**
 
 **Year**:   |  **Project Status**: <br>
