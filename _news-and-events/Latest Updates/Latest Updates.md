@@ -45,7 +45,7 @@ third_nav_title: Latest Updates
 31 Aug 2020<br>
 **Results of the 2019 SSHRF call**
 
-<br clear="left">
+<br clear="left"><br clear="left">
 
 -----------------------------------------------------------
 
