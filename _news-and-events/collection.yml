@@ -2,6 +2,7 @@ collections:
   news-and-events:
     output: true
     order:
+      - Latest Updates/Resutls of the Inaugural SSRTG Call.md
       - Latest Updates/Latest Updates.md
       - Latest Updates/.keep
       - Events/Upcoming Events.md
