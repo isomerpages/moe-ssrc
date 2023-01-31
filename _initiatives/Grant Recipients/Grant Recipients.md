@@ -214,25 +214,39 @@ _Recipient of Social Science Research Thematic Grant_<br>
 **Year**: 2016  |  **Project Status**: Ongoing<br>
 **[Project Details](https://staging.d2ih14cxifahz0.amplifyapp.com/initiatives/grant-recipients/11/)**
 
-**Year**:   |  **Project Status**: <br>
+##### **Associate Professor Victoria Leong Vik Ee**
+_Recipient of Social Science and Humanities Research Fellowship_<br>
+**Year**: 2020  |  **Project Status**: Ongoing<br>
 **[Project Details](https://staging.d2ih14cxifahz0.amplifyapp.com/initiatives/grant-recipients/10/)**
 
-**Year**:   |  **Project Status**: <br>
+##### **Associate Professor Krishna Savani**
+_Recipient of Social Science Research Thematic Grant_<br>
+**Year**: 2019  |  **Project Status**: Ongoing<br>
 **[Project Details](https://staging.d2ih14cxifahz0.amplifyapp.com/initiatives/grant-recipients/9/)**
 
-**Year**:   |  **Project Status**: <br>
+##### **Professor Bao Zhiming**
+_Recipient of Social Science Research Thematic Grant_<br>
+**Year**: 2019  |  **Project Status**: Ongoing<br>
 **[Project Details](https://staging.d2ih14cxifahz0.amplifyapp.com/initiatives/grant-recipients/8/)**
 
-**Year**:   |  **Project Status**: <br>
+##### **Associate Professor Liang ZhenKai**
+_Recipient of Social Science Research Thematic Grant_<br>
+**Year**: 2017  |  **Project Status**: Ongoing<br>
 **[Project Details](https://staging.d2ih14cxifahz0.amplifyapp.com/initiatives/grant-recipients/7/)**
 
-**Year**:   |  **Project Status**: <br>
+##### **Dr Norshahril Saat**
+_Recipient of Social Science Research Thematic Grant_<br>
+**Year**: 2016  |  **Project Status**: Completed<br>
 **[Project Details](https://staging.d2ih14cxifahz0.amplifyapp.com/initiatives/grant-recipients/6/)**
 
-**Year**:   |  **Project Status**: <br>
+##### **Professor Li Chenyang**
+_Recipient of Social Science Research Thematic Grant_<br>
+**Year**: 2016  |  **Project Status**: Completed<br>
 **[Project Details](https://staging.d2ih14cxifahz0.amplifyapp.com/initiatives/grant-recipients/5/)**
 
-**Year**:   |  **Project Status**: <br>
+##### **Assistant Professor Chia Meng Tat Jack**
+_Recipient of Social Science and Humanities Research Fellowship_<br>
+**Year**: 2020  |  **Project Status**: Ongoing<br>
 **[Project Details](https://staging.d2ih14cxifahz0.amplifyapp.com/initiatives/grant-recipients/4/)**
 
 **Year**:   |  **Project Status**: <br>
