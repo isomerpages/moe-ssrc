@@ -154,23 +154,34 @@ _Recipient of Social Science Research Thematic Grant_<br>
 **Year**: 2016  |  **Project Status**: Completed<br>
 **[Project Details](https://staging.d2ih14cxifahz0.amplifyapp.com/initiatives/grant-recipients/23/)**
 
-
-**Year**:   |  **Project Status**: <br>
+##### **Assistant Professor Joelle H. Fong**
+_Recipient of Social Science and Humanities Research Fellowship_<br>
+**Year**: 2021  |  **Project Status**: Ongoing<br>
 **[Project Details](https://staging.d2ih14cxifahz0.amplifyapp.com/initiatives/grant-recipients/22/)**
 
-**Year**:   |  **Project Status**: <br>
+##### **Assistant Professor Siew Shu Qin, Cynthia**
+_Recipient of Social Science and Humanities Research Fellowship_<br>
+**Year**: 2021  |  **Project Status**: Ongoing<br>
 **[Project Details](https://staging.d2ih14cxifahz0.amplifyapp.com/initiatives/grant-recipients/21/)**
 
-**Year**:   |  **Project Status**: <br>
+##### **Associate Professor Edson C. Tandoc Jr**
+_Recipient of Social Science Research Thematic Grant_<br>
+**Year**: 2018  |  **Project Status**: Ongoing<br>
 **[Project Details](https://staging.d2ih14cxifahz0.amplifyapp.com/initiatives/grant-recipients/20/)**
 
-**Year**:   |  **Project Status**: <br>
+##### **Associate Professor Choo Hyekyung**
+_Recipient of Social Science Research Thematic Grant_<br>
+**Year**: 2017  |  **Project Status**: Ongoing<br>
 **[Project Details](https://staging.d2ih14cxifahz0.amplifyapp.com/initiatives/grant-recipients/19/)**
 
-**Year**:   |  **Project Status**: <br>
+##### **Associate Professor Song Zhaoli**
+_Recipient of Social Science Research Thematic Grant_<br>
+**Year**: 2017  |  **Project Status**: Ongoing<br>
 **[Project Details](https://staging.d2ih14cxifahz0.amplifyapp.com/initiatives/grant-recipients/18/)**
 
-**Year**:   |  **Project Status**: <br>
+##### **Assistant Professor Wang Wenru**
+_Recipient of Social Science Research Thematic Grant_<br>
+**Year**: 2016  |  **Project Status**: Completed<br>
 **[Project Details](https://staging.d2ih14cxifahz0.amplifyapp.com/initiatives/grant-recipients/17/)**
 
 **Year**:   |  **Project Status**: <br>
