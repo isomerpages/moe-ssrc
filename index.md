@@ -4,30 +4,24 @@ title: Social Science Research Council
 description: Brief site description here
 image: /images/logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
       background: /images/hero-banner.png
-      button: Contact Us
-      url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+        - title: About Us
+          description: ""
+          url: ""
+        - title: Thematic Grant
+          description: ""
+          url: ""
+        - title: Humanities Research Fellowship
+          description: ""
+          url: ""
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      title: Latest Updates
+      subtitle: ssrc
+      description: Find out more about what's happening at Social Science Research Council
+      button: more info
+      url: /news-and-events/latest-updates/
 ---
-
-
