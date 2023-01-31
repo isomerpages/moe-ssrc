@@ -1,2 +1,4 @@
 logo: /images/logo.svg
-links: []
+links:
+  - title: Who We Are
+    collection: who-we-are
