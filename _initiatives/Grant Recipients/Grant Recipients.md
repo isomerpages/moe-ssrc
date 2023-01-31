@@ -11,23 +11,27 @@ _Recipient of Social Science Research Thematic Grant_<br>
 
 ##### **Associate Professor Cheng Shih-Fen**
 _Recipient of Social Science Research Thematic Grant_<br>
-**Year**:   |  **Project Status**: <br>
+**Year**2020:   |  **Project Status**Ongoing: <br>
 **[Project Details](https://staging.d2ih14cxifahz0.amplifyapp.com/initiatives/grant-recipients/52/)**
 
 ##### **Assistant Professor Charlene Chen**
 _Recipient of Social Science and Humanities Research Fellowship_<br>
-**Year**:   |  **Project Status**: <br>
+**Year**2019:   |  **Project Status**:Ongoing <br>
 **[Project Details](https://staging.d2ih14cxifahz0.amplifyapp.com/initiatives/grant-recipients/50/)**
 
 ##### **Professor Jane Margaret Jacobs**
 _Recipient of Social Science Research Thematic Grant_<br>
-**Year**:   |  **Project Status**: <br>
+**Year**2018:   |  **Project Status**:Ongoing <br>
 **[Project Details](https://staging.d2ih14cxifahz0.amplifyapp.com/initiatives/grant-recipients/49/)**
 
-**Year**:   |  **Project Status**: <br>
+##### **Professor Lim Sun Sun**
+_Recipient of Social Science Research Thematic Grant_<br>
+**Year**2017:   |  **Project Status**:Ongoing <br>
 **[Project Details](https://staging.d2ih14cxifahz0.amplifyapp.com/initiatives/grant-recipients/48/)**
 
-**Year**:   |  **Project Status**: <br>
+##### **Professor Teo Hock Hai**
+_Recipient of Social Science Research Thematic Grant_<br>
+**Year**2017:   |  **Project Status**:Ongoing <br>
 **[Project Details](https://staging.d2ih14cxifahz0.amplifyapp.com/initiatives/grant-recipients/47/)**
 
 **Year**:   |  **Project Status**: <br>
