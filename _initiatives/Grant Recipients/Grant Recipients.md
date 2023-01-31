@@ -64,22 +64,34 @@ _Recipient of Social Science Research Thematic Grant_<br>
 **Year**: 2016  |  **Project Status**: Ongoing<br>
 **[Project Details](https://staging.d2ih14cxifahz0.amplifyapp.com/initiatives/grant-recipients/41/)**
 
-**Year**:   |  **Project Status**: <br>
+##### **Assistant Professor Anthony D. Medrano**
+_Recipient of Social Science Research Thematic Grant_<br>
+**Year**: 2020  |  **Project Status**: Ongoing<br>
 **[Project Details](https://staging.d2ih14cxifahz0.amplifyapp.com/initiatives/grant-recipients/40/)**
 
-**Year**:   |  **Project Status**: <br>
+##### **Associate Professor Alice Chan Hiu Dan**
+_Recipient of Social Science Research Thematic Grant_<br>
+**Year**: 2019  |  **Project Status**: Ongoing <br>
 **[Project Details](https://staging.d2ih14cxifahz0.amplifyapp.com/initiatives/grant-recipients/39/)**
 
-**Year**:   |  **Project Status**: <br>
+##### **Associate Professor Elaine Ho Lynn-Ee**
+_Recipient of Social Science Research Thematic Grant_<br>
+**Year**: 2019  |  **Project Status**: Ongoing<br>
 **[Project Details](https://staging.d2ih14cxifahz0.amplifyapp.com/initiatives/grant-recipients/38/)**
 
-**Year**:   |  **Project Status**: <br>
+##### **Assistant Professor Reuben Ng**
+_Recipient of Social Science and Humanities Research Fellowship_<br>
+**Year**: 2018  |  **Project Status**: Ongoing<br>
 **[Project Details](https://staging.d2ih14cxifahz0.amplifyapp.com/initiatives/grant-recipients/37/)**
 
-**Year**:   |  **Project Status**: <br>
+##### **Associate Professor Chong Ja Ian**
+_Recipient of Social Science Research Thematic Grant_<br>
+**Year**: 2016  |  **Project Status**: Completed<br>
 **[Project Details](https://staging.d2ih14cxifahz0.amplifyapp.com/initiatives/grant-recipients/36/)**
 
-**Year**:   |  **Project Status**: <br>
+##### **Professor David Taylor**
+_Recipient of Social Science Research Thematic Grant_<br>
+**Year**: 2016  |  **Project Status**: Ongoing<br>
 **[Project Details](https://staging.d2ih14cxifahz0.amplifyapp.com/initiatives/grant-recipients/35/)**
 
 **Year**:   |  **Project Status**: <br>
