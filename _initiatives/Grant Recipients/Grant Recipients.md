@@ -249,11 +249,17 @@ _Recipient of Social Science and Humanities Research Fellowship_<br>
 **Year**: 2020  |  **Project Status**: Ongoing<br>
 **[Project Details](https://staging.d2ih14cxifahz0.amplifyapp.com/initiatives/grant-recipients/4/)**
 
-**Year**:   |  **Project Status**: <br>
+##### **Dr Anne Rifkin-Graboi**
+_Recipient of Social Science Research Thematic Grant_<br>
+**Year**: 2020  |  **Project Status**: Ongoing<br>
 **[Project Details](https://staging.d2ih14cxifahz0.amplifyapp.com/initiatives/grant-recipients/3/)**
 
-**Year**:   |  **Project Status**: <br>
+##### **Associate Professor Irene Ng**
+_Recipient of Social Science Research Thematic Grant_<br>
+**Year**: 2018  |  **Project Status**: Ongoing<br>
 **[Project Details](https://staging.d2ih14cxifahz0.amplifyapp.com/initiatives/grant-recipients/2/)**
 
-**Year**:   |  **Project Status**: <br>
+##### **Dr Cassey Lee**
+_Recipient of Social Science Research Thematic Grant_<br>
+**Year**: 2017  |  **Project Status**: Ongoing<br>
 **[Project Details](https://staging.d2ih14cxifahz0.amplifyapp.com/initiatives/grant-recipients/1/)**
