@@ -2,6 +2,7 @@ collections:
   news-and-events:
     output: true
     order:
+      - Latest Updates/Latest Updates.md
       - Latest Updates/.keep
       - Events/Upcoming Events.md
       - Events/Past Events.md
