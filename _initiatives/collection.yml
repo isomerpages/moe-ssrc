@@ -2,4 +2,5 @@ collections:
   initiatives:
     output: true
     order:
+      - Graduate Research Fellowship/.keep
       - Grant Recipients/.keep
