@@ -2,6 +2,7 @@ collections:
   initiatives:
     output: true
     order:
+      - Social Science Research/Overview.md
       - Social Science Research/Eligibility.md
       - Social Science Research/Evaluation Criteria.md
       - Social Science Research/Timeline.md
