@@ -2,5 +2,6 @@ collections:
   initiatives:
     output: true
     order:
+      - Social Science and Humanities/.keep
       - SSRC Graduate Research/.keep
       - Grant Recipients/.keep
