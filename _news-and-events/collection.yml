@@ -2,6 +2,8 @@ collections:
   news-and-events:
     output: true
     order:
+      - Latest Updates/Resutls of the 2019 SSRTG Call and Themes for the 2020
+        SSRTG Call.md
       - Latest Updates/Results of the 2019 SSHRF Call.md
       - Latest Updates/Resutls of the Inaugural SSHR Fellowship Call and 2018
         SSRTG Call.md
