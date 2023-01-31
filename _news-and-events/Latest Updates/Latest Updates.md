@@ -74,6 +74,6 @@ third_nav_title: Latest Updates
 27 Apr 2017<br>
 **[Results of the Inaugural SSRTG Call](https://staging.d2ih14cxifahz0.amplifyapp.com/news-and-events/latest-updates/update1/)**
 
-<br clear="left">
+<br clear="left"><br clear="left">
 
 -----------------------------------------------------------
