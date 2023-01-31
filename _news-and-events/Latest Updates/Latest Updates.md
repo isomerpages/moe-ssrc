@@ -27,7 +27,7 @@ third_nav_title: Latest Updates
 15 Sep 2021<br>
 **[Results of the 2020 SSHRF Call and Launch of the 2021 SSHRF Call](https://staging.d2ih14cxifahz0.amplifyapp.com/news-and-events/latest-updates/update6/)**
 
-<br clear="left">
+<br clear="left"><br clear="left">
 
 -----------------------------------------------------------
 
