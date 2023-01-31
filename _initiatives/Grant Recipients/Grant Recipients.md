@@ -94,22 +94,34 @@ _Recipient of Social Science Research Thematic Grant_<br>
 **Year**: 2016  |  **Project Status**: Ongoing<br>
 **[Project Details](https://staging.d2ih14cxifahz0.amplifyapp.com/initiatives/grant-recipients/35/)**
 
-**Year**:   |  **Project Status**: <br>
+##### **Assistant Professor Kung Chien Wen**
+_Recipient of Social Science and Humanities Research Fellowship_<br>
+**Year**: 2021  |  **Project Status**: Ongoing<br>
 **[Project Details](https://staging.d2ih14cxifahz0.amplifyapp.com/initiatives/grant-recipients/34/)**
 
-**Year**:   |  **Project Status**: <br>
+##### **Associate Professor Setoh Pei Pei**
+_Recipient of Social Science and Humanities Research <br>Fellowship_<br>
+**Year**: 2019  |  **Project Status**: Ongoing<br>
 **[Project Details](https://staging.d2ih14cxifahz0.amplifyapp.com/initiatives/grant-recipients/33/)**
 
-**Year**:   |  **Project Status**: <br>
+##### **Professor Sumit Agarwal**
+_Recipient of Social Science Research Thematic Grant_<br>
+**Year**: 2019  |  **Project Status**: Ongoing<br>
 **[Project Details](https://staging.d2ih14cxifahz0.amplifyapp.com/initiatives/grant-recipients/32/)**
 
-**Year**:   |  **Project Status**: <br>
+##### **Assistant Professor Huso Yi**
+_Recipient of Social Science Research Thematic Grant_<br>
+**Year**: 2018  |  **Project Status**: Ongoing<br>
 **[Project Details](https://staging.d2ih14cxifahz0.amplifyapp.com/initiatives/grant-recipients/31/)**
 
-**Year**:   |  **Project Status**: <br>
+##### **Assistant Professor Tamra Lysaght**
+_Recipient of Social Science Research Thematic Grant_<br>
+**Year**: 2017  |  **Project Status**: Ongoing<br>
 **[Project Details](https://staging.d2ih14cxifahz0.amplifyapp.com/initiatives/grant-recipients/30/)**
 
-**Year**:   |  **Project Status**: <br>
+##### **Associate Professor Kotha Reddi**
+_Recipient of Social Science Research Thematic Grant_<br>
+**Year**: 2017  |  **Project Status**: Ongoing<br>
 **[Project Details](https://staging.d2ih14cxifahz0.amplifyapp.com/initiatives/grant-recipients/29/)**
 
 **Year**:   |  **Project Status**: <br>
