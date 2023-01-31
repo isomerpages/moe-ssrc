@@ -2,6 +2,8 @@ collections:
   news-and-events:
     output: true
     order:
+      - Latest Updates/Results of the 2020 SSRTG Call and Themes for the 2021
+        SSRTG Call.md
       - Latest Updates/Results of the 2020 SSHRF Call and Launch of the 2021
         SSHRF Call.md
       - Latest Updates/Resutls of the 2019 SSRTG Call and Themes for the 2020
