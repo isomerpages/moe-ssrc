@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Social Science Research/.keep
+      - Social Science and Humanities/Evaluation Criteria.md
       - Social Science and Humanities/Timeline.md
       - Social Science and Humanities/.keep
       - SSRC Graduate Research/Overview.md
