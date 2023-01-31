@@ -2,6 +2,7 @@ collections:
   initiatives:
     output: true
     order:
+      - Social Science Research/Evaluation Criteria.md
       - Social Science Research/Timeline.md
       - Social Science Research/.keep
       - Social Science and Humanities/Overview.md
