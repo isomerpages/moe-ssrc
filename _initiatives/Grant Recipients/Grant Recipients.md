@@ -124,23 +124,36 @@ _Recipient of Social Science Research Thematic Grant_<br>
 **Year**: 2017  |  **Project Status**: Ongoing<br>
 **[Project Details](https://staging.d2ih14cxifahz0.amplifyapp.com/initiatives/grant-recipients/29/)**
 
-**Year**:   |  **Project Status**: <br>
+##### **Associate Professor Lilian Chee**
+_Recipient of Social Science Research Thematic Grant_<br>
+**Year**: 2020  |  **Project Status**: Ongoing<br>
 **[Project Details](https://staging.d2ih14cxifahz0.amplifyapp.com/initiatives/grant-recipients/28/)**
 
-**Year**:   |  **Project Status**: <br>
+##### **Assistant Professor Laavanya Kathiravelu**
+_Recipient of Social Science and Humanities Research Fellowship_<br>
+**Year**: 2018  |  **Project Status**: Ongoing<br>
 **[Project Details](https://staging.d2ih14cxifahz0.amplifyapp.com/initiatives/grant-recipients/27/)**
 
-**Year**:   |  **Project Status**: <br>
+##### **Associate Professor Boh Wai Fong**
+_Recipient of Social Science Research Thematic Grant_<br>
+**Year**: 2017  |  **Project Status**: Ongoing<br>
 **[Project Details](https://staging.d2ih14cxifahz0.amplifyapp.com/initiatives/grant-recipients/26/)**
 
-**Year**:   |  **Project Status**: <br>
+##### **Associate Professor Roy Chua**
+_Recipient of Social Science Research Thematic Grant_<br>
+**Year**: 2017  |  **Project Status**: Ongoing<br>
 **[Project Details](https://staging.d2ih14cxifahz0.amplifyapp.com/initiatives/grant-recipients/25/)**
 
-**Year**:   |  **Project Status**: <br>
+##### **Associate Professor Esther Goh**
+_Recipient of Social Science Research Thematic Grant_<br>
+**Year**: 2016  |  **Project Status**: Completed<br>
 **[Project Details](https://staging.d2ih14cxifahz0.amplifyapp.com/initiatives/grant-recipients/24/)**
 
-**Year**:   |  **Project Status**: <br>
+##### **Associate Professor Setoh Pei Pei**
+_Recipient of Social Science Research Thematic Grant_<br>
+**Year**: 2016  |  **Project Status**: Completed<br>
 **[Project Details](https://staging.d2ih14cxifahz0.amplifyapp.com/initiatives/grant-recipients/23/)**
+
 
 **Year**:   |  **Project Status**: <br>
 **[Project Details](https://staging.d2ih14cxifahz0.amplifyapp.com/initiatives/grant-recipients/22/)**
