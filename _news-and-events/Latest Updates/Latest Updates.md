@@ -9,7 +9,7 @@ third_nav_title: Latest Updates
 21 Sep 2021<br>
 **[Announcements of the latest SSHR funding tranche FY21 to FY25 and SSRC Graduate Research Fellowship](https://staging.d2ih14cxifahz0.amplifyapp.com/news-and-events/latest-updates/update8/)**
 
-<br clear="left">
+<br clear="left"><br clear="left">
 
 -----------------------------------------------------------
 
@@ -18,7 +18,7 @@ third_nav_title: Latest Updates
 15 Sep 2021<br>
 **[Results of the 2020 SSRTG Call and Themes for the 2021 SSRTG Call](https://staging.d2ih14cxifahz0.amplifyapp.com/news-and-events/latest-updates/update7/)**
 
-<br clear="left">
+<br clear="left"><br clear="left">
 
 -----------------------------------------------------------
 
@@ -27,7 +27,7 @@ third_nav_title: Latest Updates
 15 Sep 2021<br>
 **[Results of the 2020 SSHRF Call and Launch of the 2021 SSHRF Call](https://staging.d2ih14cxifahz0.amplifyapp.com/news-and-events/latest-updates/update6/)**
 
-<br clear="left"><br clear="left">
+<br clear="left"><br clear="left"><br clear="left">
 
 -----------------------------------------------------------
 
@@ -36,7 +36,7 @@ third_nav_title: Latest Updates
 01 Sep 2020<br>
 **[Results of the 2019 SSRTG Call and Themes for the 2020 SSRTG Call](https://staging.d2ih14cxifahz0.amplifyapp.com/news-and-events/latest-updates/update5/)**
 
-<br clear="left">
+<br clear="left"><br clear="left">
 
 -----------------------------------------------------------
 
@@ -45,7 +45,7 @@ third_nav_title: Latest Updates
 31 Aug 2020<br>
 **[Results of the 2019 SSHRF call](https://staging.d2ih14cxifahz0.amplifyapp.com/news-and-events/latest-updates/update4/)**
 
-<br clear="left"><br clear="left">
+<br clear="left"><br clear="left"><br clear="left"><br clear="left">
 
 -----------------------------------------------------------
 
@@ -56,7 +56,7 @@ third_nav_title: Latest Updates
 26 May 2019<br>
 **[Results of the Inaugural SSHR Fellowship Call and 2018 SSRTG Call](https://staging.d2ih14cxifahz0.amplifyapp.com/news-and-events/latest-updates/update3/)**
 
-<br clear="left">
+<br clear="left"><br clear="left">
 
 -----------------------------------------------------------
 
@@ -65,7 +65,7 @@ third_nav_title: Latest Updates
 06 Jun 2018<br>
 **[Results of the 2017 SSRTG Call and Launch of 2018 SSRTG Call](https://staging.d2ih14cxifahz0.amplifyapp.com/news-and-events/latest-updates/update2/)**
 
-<br clear="left">
+<br clear="left"><br clear="left"><br clear="left">
 
 -----------------------------------------------------------
 
@@ -74,6 +74,6 @@ third_nav_title: Latest Updates
 27 Apr 2017<br>
 **[Results of the Inaugural SSRTG Call](https://staging.d2ih14cxifahz0.amplifyapp.com/news-and-events/latest-updates/update1/)**
 
-<br clear="left"><br clear="left">
+<br clear="left"><br clear="left"><br clear="left">
 
 -----------------------------------------------------------
