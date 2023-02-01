@@ -62,7 +62,7 @@ _Nanyang Technological University_
 
 **Professor Lim Ee-Peng**<br>
 _Director_<br>
-_Living Analytics Research Centre<br>
+_Living Analytics Research Centre_<br>
 _Singapore Management University_
 
 **Professor Lim Sun Sun**<br>
@@ -72,7 +72,7 @@ Singapore University of Technology and Design_
 
 **Professor Lionel Wee**<br>
 _Dean, Faculty of Arts and Social Sciences;_<br>
-_Co-dean, College of Humanities & Sciences<br>
+_Co-dean, College of Humanities & Sciences_<br>
 _National University of Singapore_
 
 **Professor Ralf Emmers**<br>
@@ -89,7 +89,7 @@ _Permanent Secretary_<br>
 Ministry of Culture, Community and Youth
 
 **Professor Tan Tai Yong**<br>
-_President<br>
+_President_<br>
 _Yale-NUS College_
 
 **Professor Timothy Clark**<br>
