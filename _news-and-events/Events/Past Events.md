@@ -4,10 +4,9 @@ permalink: /news-and-events/events/past-events/
 description: ""
 third_nav_title: Events
 ---
-<img src="/images/ssrtgengagementsession.jpg" style="width:50%;margin-right:45px;" align = "right">
+<img src="/images/ssrtgengagementsession.jpg" style="width:40%;margin-right:85px;" align = "right">
 
-<br clear="left">
-
+<br clear="left"><br clear="left">
 
 |  |  |
 |---|---|
