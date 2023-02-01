@@ -6,9 +6,8 @@ third_nav_title: Events
 ---
 <img src="/images/ssrtgengagementsession.jpg" style="width:40%;margin-right:85px;" align = "right">
 
-<br clear="left"><br clear="left">
-<br clear="left"><br clear="left">
-<br clear="left"><br clear="left">
+<br clear="left"><br clear="left"><br clear="left"><br clear="left">
+<br clear="left"><br clear="left"><br clear="left">
 
 |  |  |
 |---|---|
