@@ -26,7 +26,7 @@ _Social Science (Urban Studies)_<br>
 _Yale-NUS College_
 
 **Professor Danny Quah**<br>
-_Dean and Li Ka Shing Professor in Economics<br>
+_Dean and Li Ka Shing Professor in Economics_<br>
 _Lee Kuan Yew School of Public Policy_<br>
 _National University of Singapore_
 
