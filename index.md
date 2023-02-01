@@ -11,13 +11,13 @@ sections:
       key_highlights:
         - title: About Us
           description: ""
-          url: ""
+          url: /who-we-are/about-us/
         - title: Thematic Grant
           description: ""
-          url: ""
+          url: /initiatives/social-science-research/overview/
         - title: Humanities Research Fellowship
           description: ""
-          url: ""
+          url: /initiatives/social-science-and-humanities/overview/
   - infobar:
       title: Latest Updates
       subtitle: ssrc
