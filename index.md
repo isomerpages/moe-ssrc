@@ -15,6 +15,9 @@ sections:
         - title: Social Science Research Thematic Grant
           description: ""
           url: /initiatives/social-science-research/overview/
+        - title: Social Science Humanities Research Fellowship
+          description: ""
+          url: initiatives/social-science-and-humanities/overview/
   - infobar:
       title: Latest Updates
       subtitle: ssrc
