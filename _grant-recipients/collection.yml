@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Grant Recipients.md
+      - SSR Thematic Grant/Prof David Taylor.md
       - SSR Thematic Grant/.keep
       - SSHR Fellowship.md
       - Graduate Research Fellowship.md
