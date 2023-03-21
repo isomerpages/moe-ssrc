@@ -18,7 +18,6 @@ sections:
         - title: Social Science Humanities Research Fellowship
           description: ""
           url: initiatives/social-science-and-humanities/overview/
-  - infobar: {}
   - infopic:
       title: Latest SSHR funding tranche FY21 to FY25 and SSRC GRF
       subtitle: Announcements
@@ -31,4 +30,5 @@ sections:
       button: Click here
       url: initiatives/grant-recipients/
       image: /images/updates6.jpg
+  - infobar: {}
 ---
