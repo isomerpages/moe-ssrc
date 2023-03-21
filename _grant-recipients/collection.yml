@@ -2,6 +2,7 @@ collections:
   grant-recipients:
     output: true
     order:
+      - Assistant Professor Charlene Chen.md
       - Grant Recipients.md
       - SSR Thematic Grant/Associate Professor Cheng Shih Fen.md
       - SSR Thematic Grant/Prof David Taylor.md
