@@ -30,5 +30,4 @@ sections:
       button: Click here
       url: initiatives/grant-recipients/
       image: /images/updates6.jpg
-  - infobar: {}
 ---
