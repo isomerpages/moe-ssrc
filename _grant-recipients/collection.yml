@@ -2,6 +2,6 @@ collections:
   grant-recipients:
     output: true
     order:
-      - Graduate Research Fellowship.md
       - SSR Thematic Grant/.keep
       - SSHR Fellowship.md
+      - Graduate Research Fellowship.md
