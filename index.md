@@ -24,6 +24,7 @@ sections:
       button: Click here to read more
       url: news-and-events/latest-updates/update8/
       image: /images/updates7.jpg
+      alt: FY to FY25
   - infopic:
       title: Results of the 2020 SSRTG Call
       subtitle: Results
