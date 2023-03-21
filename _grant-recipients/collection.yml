@@ -1,4 +1,5 @@
 collections:
   grant-recipients:
     output: true
-    order: []
+    order:
+      - Grant Recipients/.keep
