@@ -9,15 +9,15 @@ sections:
   - hero:
       background: /images/SSRC website.png
       key_highlights:
-        - title: About Us
-          description: ""
-          url: /who-we-are/about-us/
         - title: Social Science Research Thematic Grant
           description: ""
           url: /initiatives/social-science-research/overview/
         - title: Social Science Humanities Research Fellowship
           description: ""
           url: initiatives/social-science-and-humanities/overview/
+        - title: About Us
+          description: ""
+          url: /who-we-are/about-us/
   - infopic:
       title: Latest SSHR funding tranche FY21 to FY25 and SSRC GRF
       subtitle: Announcements
