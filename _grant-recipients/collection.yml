@@ -2,4 +2,5 @@ collections:
   grant-recipients:
     output: true
     order:
+      - SSHR Fellowship.md
       - SSR Thematic Grant/.keep
