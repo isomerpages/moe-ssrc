@@ -29,6 +29,7 @@ sections:
       subtitle: Announcements
       button: Click here to read more
       url: news-and-events/latest-updates/update8/
+      image: /images/updates7.jpg
   - infopic:
       title: Infopic Title
       subtitle: Infopic Subtitle
