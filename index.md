@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/hero-banner.png
+      background: /images/SSRC website.png
       key_highlights:
         - title: About Us
           description: ""
