@@ -2,4 +2,4 @@ collections:
   grant-recipients:
     output: true
     order:
-      - SSRTG Grant Recipients/.keep
+      - SSR Thematic Grant/.keep
