@@ -2,4 +2,4 @@ collections:
   grant-recipients:
     output: true
     order:
-      - Grant Recipients/.keep
+      - SSRTG Grant Recipients/.keep
