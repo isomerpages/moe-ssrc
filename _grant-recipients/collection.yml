@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Graduate Research Fellowship/.keep
+      - SSHR Fellowship/Assistant Professor Reuben Ng.md
       - SSHR Fellowship/Assistant Professor Charlene Chen.md
       - SSHR Fellowship/.keep
       - Grant Recipients.md
