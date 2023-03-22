@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - SSHR Fellowship/.keep
-      - Assistant Professor Charlene Chen.md
       - Grant Recipients.md
       - SSR Thematic Grant/Associate Professor Elaine Ho Lynn Ee.md
       - SSR Thematic Grant/Associate Professor Alice Chan Hiu Dan.md
