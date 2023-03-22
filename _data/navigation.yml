@@ -6,3 +6,5 @@ links:
     collection: news-and-events
   - title: Initiatives
     collection: initiatives
+  - title: Projects Funded
+    resource_room: true
