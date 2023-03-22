@@ -15,9 +15,9 @@ sections:
         - title: Social Science Humanities Research Fellowship
           description: ""
           url: initiatives/social-science-and-humanities/overview/
-        - title: About Us
+        - title: Social Science Research Council Graduate Research Fellowship
           description: ""
-          url: /who-we-are/about-us/
+          url: initiatives/SSRC-graduate-research/overview/
   - infopic:
       title: Latest SSHR funding tranche FY21 to FY25 and SSRC GRF
       subtitle: Announcements
