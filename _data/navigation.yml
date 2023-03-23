@@ -8,5 +8,3 @@ links:
     collection: initiatives
   - title: Projects Awarded
     resource_room: true
-  - title: Projects Awarded
-    collection: grant-recipients
