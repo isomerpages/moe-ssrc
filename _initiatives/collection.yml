@@ -2,12 +2,12 @@ collections:
   initiatives:
     output: true
     order:
-      - SSR Thematic Grant/Grant Recipients.md
+      - SSR Thematic Grant/.keep
       - SSR Thematic Grant/Overview.md
       - SSR Thematic Grant/Eligibility.md
       - SSR Thematic Grant/Evaluation Criteria.md
       - SSR Thematic Grant/Timeline.md
-      - SSR Thematic Grant/.keep
+      - SSR Thematic Grant/Grant Recipients.md
       - SSHR Fellowship/Assistant Professor Laavanya Kathiravelu.md
       - SSHR Fellowship/Overview.md
       - SSHR Fellowship/Eligibility.md
