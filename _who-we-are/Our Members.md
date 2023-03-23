@@ -75,11 +75,6 @@ _Dean, Faculty of Arts and Social Sciences;_<br>
 _Co-dean, College of Humanities & Sciences_<br>
 _National University of Singapore_
 
-**Professor Ralf Emmers**<br>
-_Dean_<br>
-_S. Rajaratnam School of International Studies<br>
-Nanyang Technological University_
-
 **Professor Robbie Goh**<br>
 _Provost<br>
 Singapore University of Social Sciences_
@@ -90,7 +85,7 @@ Ministry of Culture, Community and Youth
 
 **Professor Tan Tai Yong**<br>
 _President_<br>
-_Yale-NUS College_
+_Singapore University of Social Sciences_
 
 **Professor Timothy Clark**<br>
 _Provost_<br>
