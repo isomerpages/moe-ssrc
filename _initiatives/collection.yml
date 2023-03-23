@@ -2,6 +2,7 @@ collections:
   initiatives:
     output: true
     order:
+      - SSR Thematic Grant/Grant Recipients.md
       - SSR Thematic Grant/Overview.md
       - SSR Thematic Grant/Eligibility.md
       - SSR Thematic Grant/Evaluation Criteria.md
