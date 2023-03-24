@@ -42,9 +42,9 @@ _Monetary Authority of Singapore_
 
 **Professor Euston Quah**<br>
 _Albert Winsemius Chair Professor_<br>
-_Nanyang Technological University and_<br>
-_President_<br>
-_Economic Society of Singapore_
+_Director, Economic Growth Centre_<br>
+_School of Social Sciences_<br>
+_Nanyang Technological University_
 
 **Mr Frederick Chew**<br>
 _Chief Executive Officer_<br>
@@ -60,8 +60,7 @@ College of Humanities, Arts and Social Sciences_ <br>
 _Nanyang Technological University_
 
 **Professor Lim Ee-Peng**<br>
-_Director_<br>
-_Living Analytics Research Centre_<br>
+_Lee Kong Chian Professor of Computer Science_<br>
 _Singapore Management University_
 
 **Professor Lim Sun Sun**<br>
