@@ -31,8 +31,8 @@ _Lee Kuan Yew School of Public Policy_<br>
 _National University of Singapore_
 
 **Professor David Chan**<br>
-_Director_<br>
-_Behavioural Sciences Initiative_<br>
+_Lee Kong Chian Professor of Psychology;<br>
+Director, Behavioural Sciences Initiative (BSI)_<br>
 _Singapore Management University_
 
 **Mr Edward Robinson**<br>
@@ -51,9 +51,8 @@ _Chief Executive Officer_<br>
 _Agency for Science, Technology and Research (A\*STAR)_
 
 **Professor Ho Teck Hua**<br>
-_Senior Deputy President, Provost and<br>
-Tan Chin Tuan Centennial Professor_<br>
-_National University of Singapore_
+*President*<br>
+_Nanyang Technological University_
 
 **Professor Joseph Liow**<br>
 _Dean<br>
@@ -66,9 +65,10 @@ _Living Analytics Research Centre_<br>
 _Singapore Management University_
 
 **Professor Lim Sun Sun**<br>
-_Head<br>
-Humanities, Arts and Social Sciences<br>
-Singapore University of Technology and Design_
+*Vice President, Partnerships and Engagement;*<br>
+*Professor of Communication & Technology*<br>
+*College of Integrative Studies*<br>
+*Singapore Management University*
 
 **Professor Lionel Wee**<br>
 _Dean, Faculty of Arts and Social Sciences;_<br>
