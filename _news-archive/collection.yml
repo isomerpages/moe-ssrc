@@ -2,6 +2,7 @@ collections:
   news-archive:
     output: true
     order:
+      - 2021/Results of the 2020 SSHRF Call and Launch of the 2021 SSHRF Call.md
       - 2021/.keep
       - 2020/Results of the 2019 SSRTG Call and Themes for the 2020 SSRTG Call.md
       - 2020/Results of the 2019 SSHRF Call.md
