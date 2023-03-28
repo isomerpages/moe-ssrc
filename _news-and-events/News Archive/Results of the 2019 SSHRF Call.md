@@ -4,10 +4,7 @@ permalink: /news-and-events/latest-updates/update4/
 description: ""
 third_nav_title: News Archive
 ---
-
-
-
-
+![](/images/updates4.jpg)
 
 The Social Science Research Council (SSRC) has awarded two promising young academics under the 2019 Social Science and Humanities Research (SSHR) Fellowship grant call.
 
