@@ -2,4 +2,5 @@ collections:
   grf-awardees:
     output: true
     order:
+      - 2021 Graduate Research Fellows.md
       - 2022 Graduate Research Fellows.md
