@@ -41,7 +41,7 @@ sections:
       image: /images/updates1.jpg
       alt: Image alt text
   - resources:
-      title: "Curious about the latest SSRC's latest projects? "
+      title: "Curious about the SSRC's latest projects? "
       subtitle: projects awarded
       button: Click here for more
 ---
