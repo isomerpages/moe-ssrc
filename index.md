@@ -29,7 +29,7 @@ sections:
       title: Results of the 2020 SSRTG Call
       subtitle: Results
       button: Click here
-      url: initiatives/grant-recipients/
+      url: news-and-events/latest-updates/update7
       image: /images/updates6.jpg
       alt: 2020 SSRTG grant call
 ---
