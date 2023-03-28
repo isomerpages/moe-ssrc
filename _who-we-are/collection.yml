@@ -2,7 +2,7 @@ collections:
   who-we-are:
     output: true
     order:
-      - Grant Recipients.md
       - About Us.md
       - Our Members.md
+      - Grant Recipients.md
       - Contact Us.md
