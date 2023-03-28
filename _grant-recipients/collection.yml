@@ -2,6 +2,7 @@ collections:
   grant-recipients:
     output: true
     order:
+      - 2022/.keep
       - Graduate Research Fellowship/.keep
       - SSHR Fellowship/Assistant Professor Laavanya Kathiravelu.md
       - SSHR Fellowship/Assistant Professor Lin Weiqiang.md
