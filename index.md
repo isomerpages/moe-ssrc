@@ -37,7 +37,7 @@ sections:
       subtitle: Researchers
       description: Learn more about our present and past awardees
       button: Click here
-      url: folders/grant-recipients
+      url: grant-recipients/
       image: /images/updates1.jpg
       alt: Image alt text
 ---
