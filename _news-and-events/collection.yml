@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Latest Updates.md
-      - 2023/.keep
       - 2022/.keep
       - 2022/Results of the 2021 SSHRF Call and Launch of the 2022 SSHRF Call.md
       - 2022/Results of the 2021 SSRTG Call and Themes for the 2022 SSRTG Call.md
