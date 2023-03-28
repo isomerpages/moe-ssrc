@@ -2,6 +2,7 @@ collections:
   news-and-events:
     output: true
     order:
+      - 2020/.keep
       - 2021/.keep
       - 2022/.keep
       - Latest Updates.md
