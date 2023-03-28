@@ -1,0 +1,4 @@
+collections:
+  ssrtg-awardees:
+    output: true
+    order: []
