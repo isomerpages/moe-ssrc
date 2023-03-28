@@ -2,7 +2,6 @@ collections:
   grant-recipients:
     output: true
     order:
-      - Social Science Research Thematic Grant.md
       - Graduate Research Fellowship/.keep
       - SSHR Fellowship/Assistant Professor Laavanya Kathiravelu.md
       - SSHR Fellowship/Assistant Professor Lin Weiqiang.md
