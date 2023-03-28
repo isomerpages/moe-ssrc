@@ -1,5 +1,4 @@
 collections:
   news-archive:
     output: true
-    order:
-      - 2021/.keep
+    order: []
