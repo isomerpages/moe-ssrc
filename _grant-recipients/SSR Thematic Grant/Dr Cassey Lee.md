@@ -4,12 +4,11 @@ permalink: /initiatives/grant-recipients/1/
 description: ""
 third_nav_title: SSR Thematic Grant
 ---
-
 |  |  |
 |---|---|
 | **Name of Recipent** | **Dr Cassey Lee**<br>_Regional Economic Studies, ISEAS – Yusof Ishak Institute_ |
 | **Project Title** | Algorithmic Pricing and Market Competition: Implications for Competition Law and Policy |
-| **Project Status** | Ongoing |
+| **Project Status** | Completed |
 | **Year Awarded** | 2017 |
 | **Type of Grant** | Social Science Research Thematic Grant |
 |
