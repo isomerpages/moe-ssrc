@@ -7,7 +7,7 @@ third_nav_title: "2020"
 #### **Results of 2020 Social Science Research Thematic Grant Call**
 ![](/images/hero-banner.png)
 
-The following projects were awarded funding during the 2020 Social Science Research Thematic Grant Call. 
+The following projects were awarded during the 2020 Social Science Research Thematic Grant Call. 
 
 
 | S/No | Principal<br>Investigator | Institution |Project Title |
