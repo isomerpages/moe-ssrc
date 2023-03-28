@@ -4,12 +4,11 @@ permalink: /initiatives/grant-recipients/7/
 description: ""
 third_nav_title: SSR Thematic Grant
 ---
-
 |  |  |
 |---|---|
 | **Name of Recipent** | **Associate Professor Liang ZhenKai**<br>_Department of Psychology, Faculty of Arts and Social Sciences, National University of Singapore (NUS)_ |
 | **Project Title** | You are what you surf: Characterising preference and decision-making styles with digital footprints |
-| **Project Status** | Ongoing |
+| **Project Status** | Completed |
 | **Year Awarded** | 2017 |
 | **Type of Grant** | Social Science Research Thematic Grant |
 |
