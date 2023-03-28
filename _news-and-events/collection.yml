@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Latest Updates.md
-      - News Archive/.keep
       - Events/.keep
       - Events/Upcoming Events.md
       - Events/Past Events.md
