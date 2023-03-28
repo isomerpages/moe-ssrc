@@ -1,6 +1,0 @@
-collections:
-  grf-awardees:
-    output: true
-    order:
-      - 2021 Fellows.md
-      - 2022 Fellows.md
