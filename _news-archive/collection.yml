@@ -1,4 +1,5 @@
 collections:
   news-archive:
     output: true
-    order: []
+    order:
+      - Results of the Inaugural SSRTG Call.md
