@@ -4,9 +4,7 @@ permalink: /news-and-events/latest-updates/update10/
 description: ""
 third_nav_title: "2022"
 ---
-
-
-
+![](/images/updates4.jpg)
 
 The Social Science Research Council (SSRC) has awarded five promising young academics under the 2021 Social Sciences and Humanities Research (SSHR) Fellowship grant call.
 
