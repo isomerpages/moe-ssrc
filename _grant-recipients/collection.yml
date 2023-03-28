@@ -2,6 +2,7 @@ collections:
   grant-recipients:
     output: true
     order:
+      - 2022/Graduate Research Fellows.md
       - 2022/.keep
       - Graduate Research Fellowship/.keep
       - SSHR Fellowship/Assistant Professor Laavanya Kathiravelu.md
