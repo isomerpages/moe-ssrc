@@ -43,5 +43,5 @@ sections:
   - resources:
       title: "Curious about the SSRC's latest projects? "
       subtitle: projects awarded
-      button: Click here for more
+      button: Find out more here
 ---
