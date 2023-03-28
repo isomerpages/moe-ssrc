@@ -1,4 +1,5 @@
 collections:
   grf-awardees:
     output: true
-    order: []
+    order:
+      - 2022 Grant Call Awardees.md
