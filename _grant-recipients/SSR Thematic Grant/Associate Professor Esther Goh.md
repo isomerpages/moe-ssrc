@@ -4,11 +4,10 @@ permalink: /initiatives/grant-recipients/24/
 description: ""
 third_nav_title: SSR Thematic Grant
 ---
-
 |  |  |
 |---|---|
 | **Name of Recipent** | **Associate Professor Esther Goh**<br>_Head of Department of Social Work, Faculty of Arts & Social Sciences, NUS_ |
-| **Project Title** | Identifying Positive Adaptive Pathways in Low-income families in Singapore\ |
+| **Project Title** | Identifying Positive Adaptive Pathways in Low-income families in Singapore |
 | **Project Status** | Completed |
 | **Year Awarded** | 2016 |
 | **Type of Grant** | Social Science Research Thematic Grant |
@@ -23,4 +22,3 @@ The team is still in the process of doing a data analysis and write-up on the fi
 
 *   Children’s voices are rarely heard in the social work assessment process, with their opinions often missing in decisions made about their lives. The findings of this project show evidence that vignettes – using carefully crafted stories – seem to enable access to children’s viewpoints regarding sensitive topics and provide insights on how they construct solutions to daily problems. This finding proposes vignettes as potentially useful tools that can enhance social work assessment, providing an avenue for children to be heard.
 *   Current research found that economic hardship is associated to lower hope in adults. However, there are lack of studies investigating family-level hardiness as a potential mediator of the impact of economic hardship. 512 mother-child dyads from low-income families were surveyed.  The inability of low-income families to adapt and reorganise their family system to their economic situation could account for the lowered hope in mothers. Children’s hope on the other hand is affected by economic hardship mediated by the entire family’s level of hardiness.
-
