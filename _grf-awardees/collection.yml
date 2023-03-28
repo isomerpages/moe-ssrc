@@ -2,4 +2,4 @@ collections:
   grf-awardees:
     output: true
     order:
-      - 2022 Grant Call Awardees.md
+      - 2022 Graduate Research Fellows.md
