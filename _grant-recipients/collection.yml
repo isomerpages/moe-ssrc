@@ -2,7 +2,6 @@ collections:
   grant-recipients:
     output: true
     order:
-      - 2022.md
       - 2021/SSRTG Recipients.md
       - 2021/.keep
       - 2021/SSHR Fellows.md
