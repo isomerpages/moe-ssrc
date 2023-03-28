@@ -6,7 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-
 |  |  |
 |---|---|
 | **Name of Recipent** | **Assistant Professor Charlene Chen**<br>_Department of Marketing and International Business, Nanyang Business School, NTU_ |
