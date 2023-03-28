@@ -37,7 +37,7 @@ sections:
       subtitle: Researchers
       description: Learn more about our present and past awardees
       button: Click here
-      url: /grant-recipients/2020/permalink/
+      url: /grant-recipients/2020/ssrtg/
       image: /images/updates1.jpg
       alt: Image alt text
   - resources:
