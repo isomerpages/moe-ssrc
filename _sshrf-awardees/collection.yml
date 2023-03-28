@@ -1,0 +1,4 @@
+collections:
+  sshrf-awardees:
+    output: true
+    order: []
