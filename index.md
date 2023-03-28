@@ -32,4 +32,12 @@ sections:
       url: news-and-events/latest-updates/update7
       image: /images/updates6.jpg
       alt: 2020 SSRTG grant call
+  - infopic:
+      title: Our Grant Recipients
+      subtitle: Researchers
+      description: Learn more about our present and past grant awardees
+      button: Click here
+      url: folders/grant-recipients
+      image: /images/updates1.jpg
+      alt: Image alt text
 ---
