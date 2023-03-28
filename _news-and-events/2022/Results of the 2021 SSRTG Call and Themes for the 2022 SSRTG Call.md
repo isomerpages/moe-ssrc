@@ -4,9 +4,7 @@ permalink: /news-and-events/latest-updates/update9/
 description: ""
 third_nav_title: "2022"
 ---
-
-
-
+![](/images/updates5.jpg)
 
 The Social Science Research Council (SSRC) has awarded three projects under the 2021 Social Science Research Thematic Grant (SSRTG) call.
 
