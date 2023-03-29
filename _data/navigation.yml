@@ -6,5 +6,5 @@ links:
     collection: news-and-events
   - title: Initiatives
     collection: initiatives
-  - title: Projects Awarded
-    resource_room: true
+  - title: Grant Recipients
+    collection: grant-recipients
