@@ -15,7 +15,7 @@ description: ""
 
 
 13 May 2022<br>
-[**Results of the 2021 SSRTG Call and Themes for the 2022 SSRTG Call**](https://cms.isomer.gov.sg/sites/moe-ssrc/folders/news-archive/subfolders/2022/editPage/Results%20of%20the%202021%20SSRTG%20Call%20and%20Themes%20for%20the%202022%20SSRTG%20Call.md)
+**[Results of the 2021 SSRTG Call and Themes for the 2022 SSRTG Call](https://cms.isomer.gov.sg/sites/moe-ssrc/folders/news-archive/subfolders/2022/editPage/Results%20of%20the%202021%20SSRTG%20Call%20and%20Themes%20for%20the%202022%20SSRTG%20Call.md)**
 
 
 <br clear="left"><br clear="left">
@@ -34,7 +34,7 @@ description: ""
 <p><a href="https://staging.d2ih14cxifahz0.amplifyapp.com/news-and-events/latest-updates/update7/"><img src="/images/updates7.jpg" style="width:40%;margin-left:15px;" align="right"></a></p>
 
 15 Sep 2021<br>
-[Results of the 2021 SSRTG Call and Themes for the 2022 SSRTG Call](https://staging.d2ih14cxifahz0.amplifyapp.com/news-and-events/latest-updates/update7/)**
+**[Results of the 2021 SSRTG Call and Themes for the 2022 SSRTG Call](https://staging.d2ih14cxifahz0.amplifyapp.com/news-and-events/latest-updates/update7/)**
 
 <br clear="left"><br clear="left">
 
