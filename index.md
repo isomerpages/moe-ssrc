@@ -44,4 +44,12 @@ sections:
       title: "Curious about the SSRC's latest projects? "
       subtitle: projects awarded
       button: Find out more here
+  - infopic:
+      title: Infopic Title
+      subtitle: Results of the 2021 SSHRF Call
+      description: Infopic description
+      button: Button Text
+      url: news-and-events/latest-updates/update10/
+      image: /images/updates4.jpg
+      alt: 2021 SSHRF Call
 ---
