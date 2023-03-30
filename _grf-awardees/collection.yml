@@ -1,0 +1,4 @@
+collections:
+  grf-awardees:
+    output: true
+    order: []
