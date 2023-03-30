@@ -2,6 +2,7 @@ collections:
   grant-recipients:
     output: true
     order:
+      - SSHR Fellows/2022.md
       - SSHR Fellows/.keep
       - 2022/.keep
       - 2022/2022 SSRTG Grant Call.md
