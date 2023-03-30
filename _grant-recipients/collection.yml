@@ -2,6 +2,7 @@ collections:
   grant-recipients:
     output: true
     order:
+      - SSRTG Awardees/.keep
       - Graduate Research Fellows/Graduate Research Fellows.md
       - Graduate Research Fellows/2022.md
       - Graduate Research Fellows/.keep
