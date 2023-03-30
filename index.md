@@ -30,8 +30,8 @@ sections:
       subtitle: Results
       button: Click here
       url: news-and-events/latest-updates/update9
-      image: /images/updates6.jpg
-      alt: 2020 SSRTG grant call
+      image: /images/updates5.jpg
+      alt: 2021 SSRTG grant call
   - infopic:
       title: Our Grant Recipients
       subtitle: Researchers
