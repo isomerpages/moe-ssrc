@@ -19,7 +19,7 @@ sections:
           description: ""
           url: initiatives/SSRC-graduate-research/overview/
   - infopic:
-      title: Infopic Title
+      title: Results of the 2021 SSHRF Call
       subtitle: Results
       description: Infopic description
       button: Button Text
