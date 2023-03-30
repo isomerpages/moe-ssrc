@@ -10,7 +10,8 @@ third_nav_title: Opportunities
 3. [NUS Development Grant](https://www.nus.edu.sg/careers/NUS-development-grant.pdf)
 4. [NUS Inauguration Grant](https://www.nus.edu.sg/careers/NUS-inauguration-grant.pdf)
 5.   [NUS Presidential Young Professorship](https://www.nus.edu.sg/careers/NUS-Presidential-Young-Professorship.pdf )
-6.   
+6.   [NUS Presidential Fellowship](https://www.nus.edu.sg/careers/NUS-Presidential-Fellowship.pdf)
+7.   [NUS Fellows Programme (Southeast Asia)](https://www.nus.edu.sg/research/funding-opportunities/NUS-fellows-programme-southeast-asia)
 
 **Nanyang Technological University**
 1. [Nanyang Assistant Professorship (NAP)](https://www.ntu.edu.sg/research/research-careers/nanyang-assistant-professorship-(nap))
