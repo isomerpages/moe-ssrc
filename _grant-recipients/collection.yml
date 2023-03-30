@@ -2,6 +2,7 @@ collections:
   grant-recipients:
     output: true
     order:
+      - Graduate Research Fellows/Graduate Research Fellows.md
       - Graduate Research Fellows/2022.md
       - Graduate Research Fellows/.keep
       - SSHR Fellows/2021 SSHR Fellows.md
