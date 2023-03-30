@@ -1,0 +1,4 @@
+collections:
+  sshr-fellows:
+    output: true
+    order: []
