@@ -19,12 +19,13 @@ sections:
           description: ""
           url: initiatives/SSRC-graduate-research/overview/
   - infopic:
-      title: Latest SSHR funding tranche FY21 to FY25 and SSRC GRF
-      subtitle: Announcements
-      button: Click here to read more
-      url: news-and-events/latest-updates/update8/
-      image: /images/updates8.jpg
-      alt: FY to FY25
+      title: Infopic Title
+      subtitle: Results
+      description: Infopic description
+      button: Button Text
+      url: news-and-events/latest-updates/update10/
+      image: /images/updates4.jpg
+      alt: 2021 SSHRF Call
   - infopic:
       title: Results of the 2021 SSRTG Call
       subtitle: Results
@@ -32,6 +33,13 @@ sections:
       url: news-and-events/latest-updates/update9
       image: /images/updates5.jpg
       alt: 2021 SSRTG grant call
+  - infopic:
+      title: Latest SSHR funding tranche FY21 to FY25 and SSRC GRF
+      subtitle: Announcements
+      button: Click here to read more
+      url: news-and-events/latest-updates/update8/
+      image: /images/updates8.jpg
+      alt: FY to FY25
   - infopic:
       title: Our Grant Recipients
       subtitle: Researchers
@@ -44,12 +52,4 @@ sections:
       title: "Curious about the SSRC's latest projects? "
       subtitle: projects awarded
       button: Find out more here
-  - infopic:
-      title: Infopic Title
-      subtitle: Results of the 2021 SSHRF Call
-      description: Infopic description
-      button: Button Text
-      url: news-and-events/latest-updates/update10/
-      image: /images/updates4.jpg
-      alt: 2021 SSHRF Call
 ---
