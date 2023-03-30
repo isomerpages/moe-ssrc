@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - Publications/.keep
-      - Opportunities/Local Universities.md
+      - Opportunities/@ Local Universities.md
       - Opportunities/.keep
