@@ -51,7 +51,7 @@ _Chief Executive Officer_<br>
 _Agency for Science, Technology and Research (A\*STAR)_
 
 **Professor Ho Teck Hua**<br>
-*Tan Chin Tuan Centennial Professor  
+*Tan Chin Tuan Centennial Professor;  
 Senior Deputy President & Provost*<br>
 _National University of Singapore_
 
