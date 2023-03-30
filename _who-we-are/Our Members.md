@@ -51,8 +51,9 @@ _Chief Executive Officer_<br>
 _Agency for Science, Technology and Research (A\*STAR)_
 
 **Professor Ho Teck Hua**<br>
-*President*<br>
-_Nanyang Technological University_
+*Tan Chin Tuan Centennial Professor  
+Senior Deputy President & Provost*<br>
+_National University of Singapore_
 
 **Professor Joseph Liow**<br>
 _Dean<br>
