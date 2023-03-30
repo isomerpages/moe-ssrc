@@ -26,10 +26,10 @@ sections:
       image: /images/updates8.jpg
       alt: FY to FY25
   - infopic:
-      title: Results of the 2020 SSRTG Call
+      title: Results of the 2021 SSRTG Call
       subtitle: Results
       button: Click here
-      url: news-and-events/latest-updates/update7
+      url: news-and-events/latest-updates/update9
       image: /images/updates6.jpg
       alt: 2020 SSRTG grant call
   - infopic:
