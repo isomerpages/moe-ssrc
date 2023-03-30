@@ -24,6 +24,7 @@ sections:
       url: news-and-events/latest-updates/update10/
       image: /images/updates4.jpg
       alt: 2021 SSHRF Call
+      button: Click here
   - infopic:
       title: Results of the 2021 SSRTG Call
       subtitle: Results
