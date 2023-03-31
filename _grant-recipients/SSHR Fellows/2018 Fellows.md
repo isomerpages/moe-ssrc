@@ -5,7 +5,7 @@ description: ""
 third_nav_title: SSHR Fellows
 ---
 #### **Results of 2018 Social Science & Humanities Research Fellowship Call**
-![](/images/updates2.jpg)
+![](/images/updates2cropped.jpg)
 
 The following fellowships were awarded during the 2018 Social Science & Humanities Research Fellowship (SSHRF) Call. 
 
