@@ -6,12 +6,11 @@ layout: post
 description: ""
 image: ""
 ---
-
 |  |  |
 |---|---|
-| **Name of Recipent** | **Associate Professor Kotha Reddi**<br>_Department of Strategy & Organisation, Lee Kong Chian School of Business, Singapore Management University_ |
+| **Name of Recipent** | **Associate Professor Kotha Reddi**<br>_Department of Strategy &amp; Organisation, Lee Kong Chian School of Business, Singapore Management University_ |
 | **Project Title** | Interdisciplinary Research Intervention for Singapore Entrepreneurs' Growth |
-| **Project Status** | Ongoing |
+| **Project Status** | Completed |
 | **Year Awarded** | 2017 |
 | **Type of Grant** | Social Science Research Thematic Grant|
 |
