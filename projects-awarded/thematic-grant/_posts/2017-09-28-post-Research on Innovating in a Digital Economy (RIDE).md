@@ -6,12 +6,11 @@ layout: post
 description: ""
 image: ""
 ---
-
 |  |  |
 |---|---|
-| **Name of Recipent** | **Professor Teo Hock Hai**<br>_Department of Information & System Analytics, School of Computing , NUS_ |
+| **Name of Recipent** | **Professor Teo Hock Hai**<br>_Department of Information &amp; System Analytics, School of Computing , NUS_ |
 | **Project Title** | Research on Innovating in a Digital Economy (RIDE) |
-| **Project Status** | Ongoing |
+| **Project Status** | Completed |
 | **Year Awarded** | 2017 |
 | **Type of Grant** | Social Science Research Thematic Grant |
 |
