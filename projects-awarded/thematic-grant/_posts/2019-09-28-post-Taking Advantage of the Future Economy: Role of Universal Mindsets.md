@@ -6,12 +6,11 @@ layout: post
 description: ""
 image: ""
 ---
-
 |  |  |
 |---|---|
 | **Name of Recipent** | **Associate Professor Krishna Savani**<br>_Provost's Chair in Business, Nanyang Business School, NTU_ |
 | **Project Title** | Taking Advantage of the Future Economy: Role of Universal Mindsets |
-| **Project Status** | Ongoing |
+| **Project Status** | Closed |
 | **Year Awarded** | 2019 |
 | **Type of Grant** | Social Science Research Thematic Grant |
 |
