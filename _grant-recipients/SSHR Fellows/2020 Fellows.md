@@ -4,9 +4,8 @@ permalink: /grant-recipients/2020/sshrf2020/
 description: ""
 third_nav_title: SSHR Fellows
 ---
-
 #### **Results of 2020 Social Science & Humanities Research Fellowship Call**
-![](/images/updates2.jpg)
+![](/images/updates2cropped.jpg)
 
 The following fellowships were awarded during the 2020 Social Science & Humanities Research Fellowship (SSHRF) Call. 
 
