@@ -4,9 +4,8 @@ permalink: /grant-recipients/2021/sshrf2021/
 description: ""
 third_nav_title: SSHR Fellows
 ---
-
 #### **Results of 2021 Social Science & Humanities Research Fellowship Call**
-![](/images/updates2.jpg)
+![](/images/updates2cropped.jpg)
 
 The following fellowships were awarded during the 2021 Social Science & Humanities Research Fellowship (SSHRF) Call. 
 
