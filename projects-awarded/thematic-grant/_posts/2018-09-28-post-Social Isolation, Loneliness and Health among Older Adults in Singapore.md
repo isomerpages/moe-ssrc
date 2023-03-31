@@ -6,12 +6,11 @@ layout: post
 description: ""
 image: ""
 ---
-
 |  |  |
 |---|---|
 | **Name of Recipent** | **Assistant Professor Huso Yi**<br>_Saw Swee Hock School of Public Health, National University of Singapore (NUS)_ |
 | **Project Title** | Social Isolation, Loneliness and Health among Older Adults in Singapore |
-| **Project Status** | Ongoing |
+| **Project Status** | Completed |
 | **Year Awarded** | 2018 |
 | **Type of Grant** | Social Science Research Thematic Grant |
 |
