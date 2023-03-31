@@ -7,12 +7,11 @@ layout: post
 description: ""
 image: ""
 ---
-
 |  |  |
 |---|---|
 | **Name of Recipent** | **Associate Professor Goh Kim Huat**<br>_Associate Professor Goh Kim Huat_ |
 | **Project Title** | Digitisation of Healthcare: Leveraging Analytics, Understanding Human Behaviours and Influencing Policies |
-| **Project Status** | Ongoing |
+| **Project Status** | Completed |
 | **Year Awarded** | 2017 |
 | **Type of Grant** | Social Science Research Thematic Grant |
 |
