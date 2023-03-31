@@ -7,12 +7,11 @@ layout: post
 description: ""
 image: ""
 ---
-
 |  |  |
 |---|---|
 | **Name of Recipent** | **Associate Professor Roy Chua**<br>_Department of Organisational Behaviour and Human Resources, Lee Kong Chian School of Business, Singapore Management University_ |
 | **Project Title** | Women in Innovation and Entrepreneurship: Understanding the barriers and opportunities in Singapore |
-| **Project Status** | Ongoing |
+| **Project Status** | Completed |
 | **Year Awarded** | 2017 |
 | **Type of Grant** | Social Science Research Thematic Grant |
 |
