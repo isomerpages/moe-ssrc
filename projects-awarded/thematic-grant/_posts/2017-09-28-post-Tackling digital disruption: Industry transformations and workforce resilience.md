@@ -7,12 +7,11 @@ layout: post
 description: ""
 image: ""
 ---
-
 |  |  |
 |---|---|
-| **Name of Recipent** | **Professor Lim Sun Sun**<br>_Humanities, Arts & Social Sciences, Singapore University of Technology and Design_ |
+| **Name of Recipent** | **Professor Lim Sun Sun**<br>_Humanities, Arts &amp; Social Sciences, Singapore University of Technology and Design_ |
 | **Project Title** | Tackling digital disruption: Industry transformations and workforce resilience|
-| **Project Status** | Ongoing |
+| **Project Status** | Completed |
 | **Year Awarded** | 2017 |
 | **Type of Grant** | Social Science Research Thematic Grant |
 |
