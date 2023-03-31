@@ -7,12 +7,11 @@ layout: post
 description: ""
 image: ""
 ---
-
 |  |  |
 |---|---|
 | **Name of Recipent** | **Associate Professor Edson C. Tandoc Jr**<br>_Wee Kim Wee School of Communication and Information, Nanyang Technological University (NTU)_ |
 | **Project Title** | Defining, Determining and Dealing with Deliberate Online Falsehoods in Singapore |
-| **Project Status** | Ongoing |
+| **Project Status** | Completed |
 | **Year Awarded** | 2018 |
 | **Type of Grant** | Social Science Research Thematic Grant |
 |
