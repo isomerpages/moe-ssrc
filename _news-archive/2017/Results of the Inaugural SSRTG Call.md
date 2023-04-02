@@ -29,6 +29,6 @@ The SSRC will launch the 2017 SSRTG call for proposals from 8 May 2017 to 28 Jul
 a\. Identities, Social Integration and Resilience;<br>
 b\. Human Development and Skills;<br>
 c\. Growth, Productivity and Innovation; and<br>
-d\.&nbsp; &nbsp;Understanding Society in the Digital Age.
+d\. Understanding Society in the Digital Age.
 
 A fourth research theme on “Understanding Society in the Digital Age” was added in recognition of the significance and impact of new digital technologies and media on our lives and society, and the potential for deeper study in this area.
