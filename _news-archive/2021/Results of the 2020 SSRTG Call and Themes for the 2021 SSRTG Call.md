@@ -4,11 +4,9 @@ permalink: /news-and-events/latest-updates/update7/
 description: ""
 third_nav_title: "2021"
 ---
-
-
 ![](/images/updates5.jpg)
 
-The Social Science Research Council (SSRC) has awarded four projects under the 2020 Social Science Research Thematic Grant (SSRTG) call.
+The Social Science Research Council (SSRC) has awarded [four](https://staging.d2ih14cxifahz0.amplifyapp.com/grant-recipients/2020/ssrtg2020/) projects under the 2020 Social Science Research Thematic Grant (SSRTG) call.
 
 #### **Results of 2020 Social Science Research Thematic Grant Call**
 The 2020 SSRTG call has awarded four projects with a total funding of about $2.8 million. These projects were selected from 39 proposals received from seven institutions, namely, National University of Singapore, Nanyang Technological University, Singapore Management University, Singapore University of Technology and Design, Singapore University of Social Sciences (SUSS), Institute of High Performance Computing, and Singapore-Eidgenossische Technische Hochschule Centre. The projects were selected based on intellectual merit and their potential impact on and contribution to society and the economy.
