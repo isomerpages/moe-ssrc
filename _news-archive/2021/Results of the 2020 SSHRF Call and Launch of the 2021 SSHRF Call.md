@@ -4,11 +4,9 @@ permalink: /news-and-events/latest-updates/update6/
 description: ""
 third_nav_title: "2021"
 ---
-
-
 ![](/images/updates4.jpg)
 
-The Social Science Research Council (SSRC) has awarded two promising young academics under the 2020 Social Sciences and Humanities Research (SSHR) Fellowship grant call.
+The Social Science Research Council (SSRC) has awarded [two](https://staging.d2ih14cxifahz0.amplifyapp.com/grant-recipients/2020/sshrf2020/) promising young academics under the 2020 Social Sciences and Humanities Research (SSHR) Fellowship grant call.
 
 #### **Results of 2020 Social Sciences and Humanities Research Fellow Grant Call**
 Following the launch of the 2020 SSHR Fellowship call, the SSRC received 13 nominations. Of these, 2 applicants were awarded, based on their career track record, and potential for academic leadership. The awardees’ research programmes are grounded in issues of strategic and policy relevance to Singapore. Each awardee will receive research funds of up to $1 million over 5 years.
