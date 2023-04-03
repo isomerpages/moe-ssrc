@@ -1,32 +1,54 @@
 ---
 layout: homepage
-title: Isomer Site
+title: Social Science Research Council
 description: Brief site description here
-image: /images/isomer-logo.svg
+image: /images/logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      background: /images/SSRC website.png
+      key_highlights:
+        - title: Social Science Research Thematic Grant
+          description: ""
+          url: /initiatives/social-science-research/overview/
+        - title: Social Science & Humanities Research Fellowship
+          description: ""
+          url: initiatives/social-science-and-humanities/overview/
+        - title: Social Science Research Council Graduate Research Fellowship
+          description: ""
+          url: initiatives/SSRC-graduate-research/overview/
+  - infopic:
+      title: Results of the 2021 SSHRF Call
+      subtitle: Results
+      url: news-and-events/latest-updates/update10/
+      image: /images/updates4.jpg
+      alt: 2021 SSHRF Call
+      button: Click here
+  - infopic:
+      title: Results of the 2021 SSRTG Call
+      subtitle: Results
+      button: Click here
+      url: news-and-events/latest-updates/update9
+      image: /images/updates5.jpg
+      alt: 2021 SSRTG grant call
+  - infopic:
+      title: Latest SSHR funding tranche FY21 to FY25 and SSRC GRF
+      subtitle: Announcements
+      button: Click here to read more
+      url: news-and-events/latest-updates/update8/
+      image: /images/updates8.jpg
+      alt: FY to FY25
+  - infopic:
+      title: Our Grant Recipients
+      subtitle: Researchers
+      description: Learn more about our present and past awardees
+      button: Click here
+      url: /grant-recipients/2021/ssrtg2021/
+      image: /images/updates1.jpg
+      alt: Image alt text
+  - resources:
+      title: "Curious about the SSRC's latest projects? "
+      subtitle: projects awarded
+      button: Find out more here
 ---
-

@@ -1,0 +1,19 @@
+collections:
+  grant-recipients:
+    output: true
+    order:
+      - SSRTG Awardees/.keep
+      - SSRTG Awardees/2021 Call.md
+      - SSRTG Awardees/2020 Call.md
+      - SSRTG Awardees/2019 Call.md
+      - SSRTG Awardees/2018 Call.md
+      - SSRTG Awardees/2017 Call.md
+      - SSRTG Awardees/2016 Call.md
+      - SSHR Fellows/.keep
+      - SSHR Fellows/2021 Fellows.md
+      - SSHR Fellows/2020 Fellows.md
+      - SSHR Fellows/2019 Fellows.md
+      - SSHR Fellows/2018 Fellows.md
+      - Graduate Research Fellows/.keep
+      - Graduate Research Fellows/2022 GRF Fellows.md
+      - Graduate Research Fellows/2021 GRF Fellows.md

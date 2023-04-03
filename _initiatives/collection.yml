@@ -1,0 +1,19 @@
+collections:
+  initiatives:
+    output: true
+    order:
+      - SSR Thematic Grant/.keep
+      - SSR Thematic Grant/Overview.md
+      - SSR Thematic Grant/Eligibility.md
+      - SSR Thematic Grant/Evaluation Criteria.md
+      - SSR Thematic Grant/Timeline.md
+      - SSHR Fellowship/Overview.md
+      - SSHR Fellowship/Eligibility.md
+      - SSHR Fellowship/Evaluation Criteria.md
+      - SSHR Fellowship/Timeline.md
+      - SSHR Fellowship/.keep
+      - Graduate Research Fellowship/Overview.md
+      - Graduate Research Fellowship/Eligibility Criteria.md
+      - Graduate Research Fellowship/Terms of the SSRC GRF.md
+      - Graduate Research Fellowship/Timeline.md
+      - Graduate Research Fellowship/.keep
