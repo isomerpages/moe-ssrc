@@ -1,7 +1,8 @@
 ---
 layout: homepage
 title: Social Science Research Council
-description: Brief site description here
+description: "The official webpage of the Singapore Social Science Research
+  Council (SSRC). "
 image: /images/logo.svg
 permalink: /
 notification: ""
