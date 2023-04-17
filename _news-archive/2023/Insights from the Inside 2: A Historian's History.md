@@ -4,8 +4,6 @@ permalink: /news-archive/2023/insightstty/
 description: ""
 third_nav_title: "2023"
 ---
-### Insights from the Inside 2: <br>A Historian’s History 
-
 ![](/images/insights_tty.jpg)
 
 The second&nbsp;_Insights from the Inside_&nbsp;engagement session was hosted by Professor Tan Tai Yong, President of the Singapore University of Social Sciences (SUSS). Prof Tan shared his personal career experience and discussed the current opportunities and challenges for Social Science and Humanities (SSH) researchers in Singapore.
