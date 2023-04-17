@@ -2,7 +2,7 @@ collections:
   news-archive:
     output: true
     order:
-      - "2023/Insights from the Inside 2: A Historian's History.md"
+      - 2023/Insights from the Inside 2 – A Historian's History.md
       - 2023/.keep
       - "2022/Insights from the Inside 1: Building a Career in Political Science
         & Regional Studies.md"
