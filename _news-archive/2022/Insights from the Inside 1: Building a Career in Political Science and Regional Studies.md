@@ -7,7 +7,7 @@ third_nav_title: "2022"
 ---
 ![](/images/8f6a5591_light.jpg)
 
-#### Building a Career in Political Science and Regional Studies
+### Building a Career in Political Science and Regional Studies
 
 The inaugural&nbsp;_Insights from the Inside_&nbsp;engagement session was hosted by Professor Joseph Liow Chin Yong, Dean of the College of Humanities and Social Sciences, NTU, on 5 September 2022.
 
