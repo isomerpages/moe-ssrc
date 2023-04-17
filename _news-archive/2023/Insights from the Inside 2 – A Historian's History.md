@@ -4,7 +4,7 @@ permalink: /news-archive/2023/insightstty/
 description: ""
 third_nav_title: "2023"
 ---
-### Insights from the Inside 2 **–** <br>A Historian’s History 
+### Insights from the Inside 2: <br>A Historian’s History 
 
 ![](/images/insights_tty.jpg)
 
