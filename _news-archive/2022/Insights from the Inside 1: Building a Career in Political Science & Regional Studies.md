@@ -5,8 +5,6 @@ permalink: /news-archive/2022/insightsjliow/
 description: ""
 third_nav_title: "2022"
 ---
-#### Insights from the Inside 1: <br>Building a Career in Political Science &amp; Regional Studies
-
 ![](/images/8f6a5591_light.jpg)
 
 The inaugural&nbsp;_Insights from the Inside_&nbsp;engagement session was hosted by Professor Joseph Liow Chin Yong, Dean of the College of Humanities and Social Sciences, NTU, on 5 September 2022.
