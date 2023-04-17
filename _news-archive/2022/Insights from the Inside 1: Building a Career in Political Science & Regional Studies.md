@@ -5,7 +5,7 @@ permalink: /news-archive/2022/insightsjliow/
 description: ""
 third_nav_title: "2022"
 ---
-#### Insights from the Inside 1: Building a Career in Political Science & Regional Studies
+#### Insights from the Inside 1 – Building a Career in Political Science & Regional Studies
 
 ![](/images/8f6a5591_light.jpg)
 
