@@ -3,7 +3,7 @@ title: Opportunities
 permalink: /resources/sshopp/
 description: ""
 ---
-This page contains a non-exhaustive list of additional scholarship and funding opportunities for the social sciences &amp; humanities at our local universities.  <br> 
+This page contains a non-exhaustive list of additional scholarship and funding opportunities for the social sciences &amp; humanities at the local universities.  <br> 
 #### **National University of Singapore (NUS)**
 
 1. [NUS Overseas Graduate Scholarships](https://www.nus.edu.sg/careers/potentialhires/applicationprocess/NUS-OGS-scheme.pdf) 
