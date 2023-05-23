@@ -2,6 +2,7 @@ collections:
   grant-recipients:
     output: true
     order:
+      - SSRTG Awardees/2022 Call.md
       - SSRTG Awardees/.keep
       - SSRTG Awardees/2021 Call.md
       - SSRTG Awardees/2020 Call.md
