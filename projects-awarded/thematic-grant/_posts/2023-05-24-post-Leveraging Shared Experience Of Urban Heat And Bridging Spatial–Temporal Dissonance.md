@@ -17,3 +17,5 @@ image: ""
 |
 
 This project aims to understand the inconsistency between awareness of Singaporeans about the risks of a changing climate and the extend to which they engage in behaviours that reduce greenhouse gas emissions.
+
+Findings will contribute to ongoing efforts to improve Singapore's resilience to climate change.
