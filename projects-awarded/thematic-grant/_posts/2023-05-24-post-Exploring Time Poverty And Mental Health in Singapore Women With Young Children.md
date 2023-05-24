@@ -8,7 +8,7 @@ image: ""
 ---
 |  |  |
 |---|---|
-| **Name of Recipent** | **Assistant Professor Yvette van der Eijk**<br> _Saw Swee Hock School of Public Health, National University of Singapore (NUS)_ |
+| **Name of Recipent** | **Assistant Professor Yvette van der Eijk**<br> _Department of Health Systems and Behavioural Sciences, Saw Swee Hock School of Public Health, National University of Singapore (NUS)_ |
 | **Project Title** | Exploring Time Poverty And Mental Health in Singapore Women With Young Children |
 | **Project Status** | Ongoing |
 | **Year Awarded** | 2022 |
