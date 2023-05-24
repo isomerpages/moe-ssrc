@@ -15,6 +15,6 @@ image: ""
 | **Type of Grant** | Social Science Research Thematic Grant |
 |
 
-New vulnerabilities are being created by the new disrupted economy. This project seeks to gain new insights on the kinds of “in-work” poverty (i.e experiencing poverty while being employed) that the working class are experiencing. It will focus on the challenges faced by less educated young workers (aged between 21 and 40) and their efforts at advancement, an area that has received less attention.&nbsp;&nbsp;
+This project is an extension of the research project awarded in the 2018 SSRTG call to gain deeper insights on the kinds of “in-work” poverty (i.e experiencing poverty while being employed) that the young working class are experiencing. 
 
-Using traditional and technology-based mixed methods, the project will gain deep and wide understanding of the lived realities of younger low-waged workers through surveys, interviews, ethnographic studies, and data inputs using a mobile application.&nbsp;&nbsp;
+The project will gain deeper and wider understanding of the lived realities of younger low-waged workers through surveys, interviews, and focus-group discussions with relevant parties such as employers, unions and government agencies. 
