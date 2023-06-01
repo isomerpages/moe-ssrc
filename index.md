@@ -19,13 +19,6 @@ sections:
           description: ""
           url: initiatives/SSRC-graduate-research/overview/
   - infopic:
-      title: Results of the 2021 SSHRF Call
-      subtitle: Results
-      url: news-and-events/latest-updates/update10/
-      image: /images/updates4.jpg
-      alt: 2021 SSHRF Call
-      button: Click here
-  - infopic:
       title: Results of the 2022 SSRTG Call
       subtitle: Results
       button: Click here
