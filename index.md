@@ -33,14 +33,6 @@ sections:
       url: news-and-events/latest-updates/update8/
       image: /images/updates8.jpg
       alt: FY to FY25
-  - infopic:
-      title: Our Grant Recipients
-      subtitle: Researchers
-      description: Learn more about our present and past awardees
-      button: Click here
-      url: /grant-recipients/2021/ssrtg2021/
-      image: /images/updates1.jpg
-      alt: Image alt text
   - resources:
       title: Curious about the SSRC's latest projects?
       subtitle: projects awarded
