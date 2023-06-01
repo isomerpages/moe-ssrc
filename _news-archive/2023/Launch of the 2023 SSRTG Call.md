@@ -4,7 +4,7 @@ permalink: /news-archive/2023/update11/
 description: ""
 third_nav_title: "2023"
 ---
-![](/images/updates5.jpg)
+![](/images/SSRC%20website.png)
 
 The 2023 Social Science Research Thematic Grant (SSRTG) Call invites proposals which address the following themes using various perspectives in the social sciences and humanities, with special focus on understanding Singapore and its place in the region (ASEAN and the rest of Asia):
 
