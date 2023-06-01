@@ -6,7 +6,7 @@ description: ""
 <p><a href="https://www.ssrc.edu.sg/news-and-events/latest-updates/update10/"><img src="/images/updates7.jpg" style="width:40%;margin-left:15px;" align="right"></a></p>
 
 22 May 2023<br>
-**[Results of the 2022 SSRTG Call and Themes for the 2023 SSRTG Call](https://www.ssrc.edu.sg/news-archive/2023/update10/)**
+**[Results of the 2022 SSRTG Call](https://www.ssrc.edu.sg/news-archive/2023/update10/)**
 
 <br clear="left"><br clear="left">
 
