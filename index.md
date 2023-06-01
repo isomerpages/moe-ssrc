@@ -24,6 +24,7 @@ sections:
       button: Click here
       url: news-and-events/latest-updates/update10
       image: /images/updates5.jpg
+      alt: Results of the 2022 SSRTG Call
   - infopic:
       title: Latest SSHR funding tranche FY21 to FY25 and SSRC GRF
       subtitle: Announcements
