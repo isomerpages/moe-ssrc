@@ -19,6 +19,8 @@ sections:
           description: ""
           url: initiatives/SSRC-graduate-research/overview/
       title: Launch of the 2023 SSRTG Call
+      button: find out more
+      url: news-archive/2023/update11/
   - infopic:
       title: Results of the 2022 SSRTG Call
       subtitle: Results
