@@ -1,8 +1,7 @@
 ---
 layout: homepage
 title: Social Science Research Council
-description: "The official webpage of the Singapore Social Science Research
-  Council (SSRC). "
+description: The official webpage of the Singapore Social Science Research Council (SSRC).
 image: /images/logo.svg
 permalink: /
 notification: ""
@@ -27,12 +26,11 @@ sections:
       alt: 2021 SSHRF Call
       button: Click here
   - infopic:
-      title: Results of the 2021 SSRTG Call
+      title: Results of the 2022 SSRTG Call
       subtitle: Results
       button: Click here
-      url: news-and-events/latest-updates/update9
+      url: news-and-events/latest-updates/update10
       image: /images/updates5.jpg
-      alt: 2021 SSRTG grant call
   - infopic:
       title: Latest SSHR funding tranche FY21 to FY25 and SSRC GRF
       subtitle: Announcements
@@ -49,7 +47,7 @@ sections:
       image: /images/updates1.jpg
       alt: Image alt text
   - resources:
-      title: "Curious about the SSRC's latest projects? "
+      title: Curious about the SSRC's latest projects?
       subtitle: projects awarded
       button: Find out more here
 ---
