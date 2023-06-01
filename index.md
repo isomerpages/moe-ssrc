@@ -23,7 +23,7 @@ sections:
       title: Results of the 2022 SSRTG Call
       subtitle: Results
       button: Click here
-      url: news-and-events/latest-updates/update10
+      url: news-archive/2023/update11
       image: /images/updates5.jpg
       alt: Results of the 2022 SSRTG Call
   - infopic:
