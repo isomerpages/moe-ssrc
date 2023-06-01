@@ -24,7 +24,7 @@ sections:
       subtitle: Results
       button: Click here
       url: /grant-recipients/2022/ssrtg2022/
-      image: /images/updates5.jpg
+      image: /images/updates1.jpg
       alt: Results of the 2022 SSRTG Call
   - infopic:
       title: Latest SSHR funding tranche FY21 to FY25 and SSRC GRF
