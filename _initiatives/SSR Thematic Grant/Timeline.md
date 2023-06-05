@@ -4,8 +4,6 @@ permalink: /initiatives/social-science-research/timeline/
 description: ""
 third_nav_title: SSR Thematic Grant
 ---
+The 2023 SSRTG Call was launched on 22 May 2023. All applications must be submitted through the respective Offices of Research (or equivalent) by **8 Sep 2023** at 5pm. 
 
-### **Social Science Research Thematic Grant**
-Results of the 2022 SSRTG Call will be announced in March 2023.
-
-The 2023 grant call will open in May 2023.
+The results of the 2022 SSRTG Call can be found [here](https://www.ssrc.edu.sg/grant-recipients/2022/ssrtg2022/).
