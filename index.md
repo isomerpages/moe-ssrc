@@ -21,7 +21,7 @@ sections:
       title: Graduate Research Fellowship
       button: find out more
       url: /initiatives/ssrc-graduate-research/timeline/
-      subtitle: Launch of 2023 GRF Call
+      subtitle: Launch of the 2023 GRF Call
   - infopic:
       title: Results of the 2022 SSRTG Call
       subtitle: Results
