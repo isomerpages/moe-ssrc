@@ -20,7 +20,7 @@ sections:
           url: initiatives/SSRC-graduate-research/overview/
       title: Graduate Research Fellowship
       button: find out more
-      url: news-archive/2023/update11/
+      url: /initiatives/ssrc-graduate-research/timeline/
       subtitle: Launch of 2023 GRF Call
   - infopic:
       title: Results of the 2022 SSRTG Call
