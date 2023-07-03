@@ -16,7 +16,7 @@ Results of the 2023 SSRC GRF Call will be announced in Feb 2024.
 |---|---|
 | NUS |  [https://nus.edu.sg/research/research-management/funding-opportunities/ssrc-grf](https://nus.edu.sg/research/research-management/funding-opportunities/ssrc-grf)|
 | NTU |  [https://www.ntu.edu.sg/research/research-careers/social-science-research-council-(ssrc)-graduate-research-fellowship-(grf)](https://www.ntu.edu.sg/research/research-careers/social-science-research-council-(ssrc)-graduate-research-fellowship-(grf))|
-| SMU |  [https://www.smu.edu.sg/research/ssrcgrfcall](https://www.smu.edu.sg/research/ssrcgrfcall) |
+| SMU |  [https://www.smu.edu.sg/call-proposals-july-2023](https://www.smu.edu.sg/call-proposals-july-2023) |
 | SUTD | [https://www.sutd.edu.sg/About/Overview/Careers-with-SUTD/SSRC-Graduate-Research-Fellowship](https://www.sutd.edu.sg/About/Overview/Careers-with-SUTD/SSRC-Graduate-Research-Fellowship) |
 
 
