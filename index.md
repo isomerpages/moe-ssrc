@@ -18,9 +18,10 @@ sections:
         - title: Social Science Research Council Graduate Research Fellowship
           description: ""
           url: initiatives/SSRC-graduate-research/overview/
-      title: Launch of the 2023 SSRTG Call
+      title: Graduate Research Fellowship
       button: find out more
       url: news-archive/2023/update11/
+      subtitle: Launch of 2023 GRF Call
   - infopic:
       title: Results of the 2022 SSRTG Call
       subtitle: Results
