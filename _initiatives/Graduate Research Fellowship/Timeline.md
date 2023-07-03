@@ -18,6 +18,6 @@ The 2023 Call for Applications will open around July 2023, via the AUs.
 | NTU |  [[https://www.ntu.edu.sg/research/research-careers/social-science-research-council-(ssrc)-graduate-research-fellowship-(grf)](https://www.ntu.edu.sg/research/research-careers/social-science-research-council-(ssrc)-graduate-research-fellowship-(grf))|
 | SMU |  [https://www.smu.edu.sg/research/ssrcgrfcall](https://www.smu.edu.sg/research/ssrcgrfcall) |
 | SUTD | [https://www.sutd.edu.sg/About/Overview/Careers-with-SUTD/SSRC-Graduate-Research-Fellowship](https://www.sutd.edu.sg/About/Overview/Careers-with-SUTD/SSRC-Graduate-Research-Fellowship) |
-|
+
 
 If you have questions, please email the SSRC Secretariat at [MOE\_SSRC\_Secretariat@moe.gov.sg](mailto:MOE_SSRC_Secretariat@moe.gov.sg).
