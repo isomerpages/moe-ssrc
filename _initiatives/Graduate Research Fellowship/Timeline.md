@@ -8,9 +8,9 @@ third_nav_title: Graduate Research Fellowship
 ### **Social Science Research Council Graduate Research Fellowship**
 The call for applications will be made once a year. Applications should be submitted to the host AUs using the SSRC GRF application form available on the respective AUs’ webpages.
 
-Results of the 2022 SSRC GRF Call will be announced in Jan 2023.
+The 2023 Call for Applications has opened on 3 July 2023 and will close on **1 September 2023**.
 
-The 2023 Call for Applications will open around July 2023, via the AUs.
+Results of the 2023 SSRC GRF Call will be announced in Feb 2024.
 
 |  |  |
 |---|---|
