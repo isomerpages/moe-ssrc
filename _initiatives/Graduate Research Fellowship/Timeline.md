@@ -19,4 +19,4 @@ Results of the 2023 SSRC GRF Call will be announced in Feb 2024.
 | SUTD | [https://www.sutd.edu.sg/About/Overview/Careers-with-SUTD/SSRC-Graduate-Research-Fellowship](https://www.sutd.edu.sg/About/Overview/Careers-with-SUTD/SSRC-Graduate-Research-Fellowship) |
 
 
-If you have questions, please email the SSRC Secretariat at [MOE\_SSRC\_Secretariat@moe.gov.sg](mailto:MOE_SSRC_Secretariat@moe.gov.sg).
+If you have any questions, please email the SSRC Secretariat at [MOE\_SSRC\_Secretariat@moe.gov.sg](mailto:MOE_SSRC_Secretariat@moe.gov.sg).
