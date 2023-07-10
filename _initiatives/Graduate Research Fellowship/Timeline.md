@@ -13,7 +13,7 @@ Results of the 2023 SSRC GRF Call will be announced in Feb 2024.
 
 |  |  |
 |---|---|
-|**University**|**Link**|
+|**Host University**|**Link**|
 | National University of Singapore |  [https://nus.edu.sg/research/research-management/funding-opportunities/ssrc-grf](https://nus.edu.sg/research/research-management/funding-opportunities/ssrc-grf)|
 | Nanyang Technological University |  [https://www.ntu.edu.sg/research/research-careers/social-science-research-council-(ssrc)-graduate-research-fellowship-(grf)](https://www.ntu.edu.sg/research/research-careers/social-science-research-council-(ssrc)-graduate-research-fellowship-(grf))|
 | Singapore Management University |  [https://www.smu.edu.sg/call-proposals-july-2023](https://www.smu.edu.sg/call-proposals-july-2023) |
