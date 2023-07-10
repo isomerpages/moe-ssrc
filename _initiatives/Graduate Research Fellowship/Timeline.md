@@ -9,7 +9,7 @@ third_nav_title: Graduate Research Fellowship
 
 The 2023 Call for Applications has opened on 3 July 2023 and will close on **1 September 2023**. Applications must be submitted to the host universities using the SSRC GRF application form available on the webpages listed below. 
 
-Results of the 2023 SSRC GRF Call will be announced in Feb 2024.
+The results of the 2023 SSRC GRF Call will be announced in February 2024.
 
 |  |  |
 |---|---|
