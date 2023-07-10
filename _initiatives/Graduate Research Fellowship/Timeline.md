@@ -4,7 +4,7 @@ permalink: /initiatives/ssrc-graduate-research/timeline/
 description: ""
 third_nav_title: Graduate Research Fellowship
 ---
-### **Social Science Research Council Graduate Research Fellowship**
+### **Timeline for Graduate Research Fellowship (GRF) Applications**
 
 
 The 2023 Call for Applications has opened on 3 July 2023 and will close on **1 September 2023**. Applications must be submitted to the host universities using the SSRC GRF application form available on the webpages listed below. 
