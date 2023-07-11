@@ -83,9 +83,9 @@ Singapore University of Social Sciences_
 _Permanent Secretary_<br>
 Ministry of Culture, Community and Youth
 
-**Professor Tan Tai Yong**<br>
-_President_<br>
-_Singapore University of Social Sciences_
+**Professor May Oo Lwin**<br>
+_Chair, Wee Kim Wee School of Communication &amp; Information_<br>
+_Nanyang Technological University_
 
 **Professor Timothy Clark**<br>
 _Provost_<br>
