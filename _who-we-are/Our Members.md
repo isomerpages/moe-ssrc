@@ -50,14 +50,13 @@ _Nanyang Technological University_
 _Chief Executive Officer_<br>
 _Agency for Science, Technology and Research (A\*STAR)_
 
-**Professor Ho Teck Hua**<br>
-*Tan Chin Tuan Centennial Professor;  
-Senior Deputy President & Provost*<br>
+**Professor Chen Tsuhan**<br>
+*Chief Scientist, AI Singapore;  
+ Deputy President (Innovation &amp; Enterprise)*<br>
 _National University of Singapore_
 
 **Professor Joseph Liow**<br>
-_Dean<br>
-College of Humanities, Arts and Social Sciences_ <br>
+_Dean, College of Humanities, Arts and Social Sciences_ <br>
 _Nanyang Technological University_
 
 **Professor Lim Ee-Peng**<br>
@@ -66,13 +65,13 @@ _Singapore Management University_
 
 **Professor Lim Sun Sun**<br>
 *Vice President, Partnerships and Engagement;*<br>
-*Professor of Communication & Technology*<br>
+*Professor of Communication &amp; Technology*<br>
 *College of Integrative Studies*<br>
 *Singapore Management University*
 
 **Professor Lionel Wee**<br>
 _Dean, Faculty of Arts and Social Sciences;_<br>
-_Co-dean, College of Humanities & Sciences_<br>
+_Co-dean, College of Humanities &amp; Sciences_<br>
 _National University of Singapore_
 
 **Professor Robbie Goh**<br>
@@ -83,9 +82,9 @@ Singapore University of Social Sciences_
 _Permanent Secretary_<br>
 Ministry of Culture, Community and Youth
 
-**Professor Tan Tai Yong**<br>
-_President_<br>
-_Singapore University of Social Sciences_
+**Professor May Oo Lwin**<br>
+_Chair, Wee Kim Wee School of Communication &amp; Information_<br>
+_Nanyang Technological University_
 
 **Professor Timothy Clark**<br>
 _Provost_<br>
