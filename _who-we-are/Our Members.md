@@ -56,8 +56,7 @@ _Agency for Science, Technology and Research (A\*STAR)_
 _National University of Singapore_
 
 **Professor Joseph Liow**<br>
-_Dean<br>
-College of Humanities, Arts and Social Sciences_ <br>
+_Dean, College of Humanities, Arts and Social Sciences_ <br>
 _Nanyang Technological University_
 
 **Professor Lim Ee-Peng**<br>
