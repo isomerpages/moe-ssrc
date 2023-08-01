@@ -2,7 +2,7 @@
 title: Leveraging Shared Experience Of Urban Heat And Bridging Spatial–Temporal
   Dissonance
 permalink: /projects/thematic-grant/harvey2022/
-date: 2023-05-24
+date: 2022-05-23
 layout: post
 description: ""
 image: ""
