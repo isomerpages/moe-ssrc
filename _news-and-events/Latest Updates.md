@@ -3,6 +3,15 @@ title: Latest Updates
 permalink: /news-and-events/latest-updates/permalink/
 description: ""
 ---
+<p><a href="https://www.ssrc.edu.sg/news-and-events/latest-updates/update9/"><img src="/images/updates6.jpg" style="width:40%;margin-left:15px;" align="right"></a></p>
+
+23 August 2023<br>
+**[Results of the 2022 SSHRF Call and Launch of the 2023 SSHRF Call](https://www.ssrc.edu.sg/news-and-events/latest-updates/update12/)**
+
+<br clear="left"><br clear="left">
+
+-----------------------------------------------------------
+
 <p><a href="https://www.ssrc.edu.sg/news-and-events/latest-updates/update10/"><img src="/images/updates7.jpg" style="width:40%;margin-left:15px;" align="right"></a></p>
 
 22 May 2023<br>
