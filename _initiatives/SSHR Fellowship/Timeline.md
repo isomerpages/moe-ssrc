@@ -5,6 +5,6 @@ description: ""
 third_nav_title: SSHR Fellowship
 ---
 ### **Social Science and Humanities Research Fellowship**
-Results of the 2022 SSHRF Call will be announced by June 2023.
+Results of the 2022 SSHRF Call can be found here.
 
-The 2023 grant call will open in Oct 2023.
+The 2023 SSHRF Call will open in Oct 2023.
