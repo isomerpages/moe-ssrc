@@ -7,7 +7,7 @@ third_nav_title: SSHR Fellows
 #### **Results of 2022 Social Science & Humanities Research Fellowship Call**
 ![](/images/updates2cropped.jpg)
 
-The following fellowships were awarded during the 2022 Social Science & Humanities Research Fellowship (SSHRF) Call. 
+Four fellowships were awarded during the 2022 Social Science & Humanities Research Fellowship (SSHRF) Call, out of the seven nominations received. 
 
 
 | S/No | Research Fellow | Institution |Project Title |
