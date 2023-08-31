@@ -18,7 +18,7 @@ sections:
         - title: Social Science Research Council Graduate Research Fellowship
           description: ""
           url: initiatives/SSRC-graduate-research/overview/
-      title: Launch of the 2023 Graduate Research Fellowship
+      title: Launch of the 2023 SSHR Fellowship
       button: find out more
       url: /initiatives/ssrc-graduate-research/timeline/
   - infopic:
