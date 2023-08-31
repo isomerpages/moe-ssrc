@@ -11,6 +11,14 @@ description: ""
 <br clear="left"><br clear="left">
 
 -----------------------------------------------------------
+<p><a href="https://www.ssrc.edu.sg/news-and-events/latest-updates/update9/"><img src="/images/updates6.jpg" style="width:40%;margin-left:15px;" align="right"></a></p>
+
+3 July 2023<br>
+**[Launch of the 2023 GRF Call](https://www.ssrc.edu.sg/initiatives/ssrc-graduate-research/timeline/)**
+
+<br clear="left"><br clear="left">
+
+-----------------------------------------------------------
 
 <p><a href="https://www.ssrc.edu.sg/news-and-events/latest-updates/update10/"><img src="/images/updates7.jpg" style="width:40%;margin-left:15px;" align="right"></a></p>
 
