@@ -26,8 +26,8 @@ sections:
       subtitle: Announcements
       button: Click here
       url: news-archive/2023/update11/
-      image: /images/updates2.jpg
-      alt: Launch of the 2022 SSHRF Call
+      image: /images/updates1.jpg
+      alt: Closing of the 2023 SSRTG Call
   - infopic:
       title: Latest SSHR funding tranche FY21 to FY25 and SSRC GRF
       subtitle: Announcements
