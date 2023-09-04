@@ -6,13 +6,11 @@ third_nav_title: "2023"
 ---
 ![](/images/updates2.jpg)
 
-The Social Science Research Council (SSRC) has awarded [four](https://www.ssrc.edu.sg/grant-recipients/2022/sshrf2022/) promising young academics under the 2022 Social Sciences and Humanities Research (SSHR) Fellowship grant call.
+The Social Science Research Council (SSRC) has awarded [four](https://www.ssrc.edu.sg/grant-recipients/2022/sshrf2022/) promising young academics under the 2022 Social Sciences and Humanities Research (SSHR) Fellowship grant call. Each awardee will receive research funds of up to S$1 million over 5 years.
 
-#### **Results of 2022 Social Sciences and Humanities Research Fellow Grant Call**
-Following the launch of the 2022 SSHR Fellowship call, the SSRC received 7 nominations. Of these, [four applicants](https://www.ssrc.edu.sg/grant-recipients/2022/sshrf2022/) were awarded, based on their career track record, and potential for academic leadership. The awardees’ research programmes are grounded in issues of strategic and policy relevance to Singapore. Each awardee will receive research funds of up to $1 million over 5 years.
+The SSRC received a total of seven nominations from the universities in 2022, and decided to award four fellowships based on the nominee's career track record and potential for academic leadership. The awardees’ research programmes were grounded in issues of strategic and policy relevance to Singapore. 
 
-#### **Launch of 2023 Social Sciences and Humanities Research Fellowship Grant Call**
-The call for applications will open on 9 October 2023 and close in January 2024.
+The 2023 Call for SSHR Fellowship nominations will open on 9 October 2023 and close in January 2024.
 
 |  Process |   Timeline  |
 |---|---|
