@@ -6,7 +6,7 @@ third_nav_title: "2023"
 ---
 ![](/images/SSRC%20website.png)
 
-**[Reminder] Applications to the 2023 SSRTG Call will be closed on 8 September at 5.00PM.**
+**[Reminder] Applications to the 2023 SSRTG Call will  close on 8 September at 5.00PM.**
 
 The 2023 Social Science Research Thematic Grant (SSRTG) Call invites proposals which address the following themes using various perspectives in the social sciences and humanities, with special focus on understanding Singapore and its place in the region (ASEAN and the rest of Asia):
 
