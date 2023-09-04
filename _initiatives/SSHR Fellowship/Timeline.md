@@ -6,7 +6,9 @@ third_nav_title: SSHR Fellowship
 ---
 ### **Launch of 2023 Social Science and Humanities Research (SSHR) Fellowship**
 
-The 2023 Call for SSHR Fellowship applications will open in October 2023 and close in January 2024.
+The 2023 Call for SSHR Fellowship applications will open in October 2023 and close in January 2024. 
+
+The results of the previous 2022 SSHRF Call can be found [here](https://www.ssrc.edu.sg/grant-recipients/2022/sshrf2022/).
 
 |  Process |   Timeline  |
 |---|---|
@@ -17,6 +19,5 @@ The 2023 Call for SSHR Fellowship applications will open in October 2023 and clo
 |  Announcement of awardees |   July 2024 |
 |
 
-The results of the 2022 SSHRF Call can be found [here](https://www.ssrc.edu.sg/grant-recipients/2022/sshrf2022/).
 
 If you have any questions, please email the SSRC Secretariat at [MOE\_SSRC\_Secretariat@moe.gov.sg](mailto:MOE_SSRC_Secretariat@moe.gov.sg).
