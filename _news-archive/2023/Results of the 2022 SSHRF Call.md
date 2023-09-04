@@ -19,7 +19,7 @@ The SSRC received a total of seven nominations from the universities in 2022, an
 
 ##### Launch of 2023 SSHRF Call 
 
-The 2023 Call for SSHR Fellowship nominations will open on 9 October 2023 and close in January 2024.
+The 2023 Call for SSHR Fellowship nominations will open on 9 October 2023 and close in **January 2024**.
 
 |  Process |   Timeline  |
 |---|---|
