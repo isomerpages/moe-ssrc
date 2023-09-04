@@ -22,12 +22,12 @@ sections:
       button: find out more
       url: initiatives/social-science-and-humanities/timeline/
   - infopic:
-      title: Launch of the 2023 SSRTG Call
+      title: Results of the 2022 SSRTG Call
       subtitle: Announcements
       button: Click here
-      url: news-archive/2023/update11/
-      image: /images/updates1.jpg
-      alt: Launch of the 2023 SSRTG Call
+      url: grant-recipients/2022/sshrf2022/
+      image: /images/updates2.jpg
+      alt: Launch of the 2022 SSHRF Call
   - infopic:
       title: Latest SSHR funding tranche FY21 to FY25 and SSRC GRF
       subtitle: Announcements
