@@ -18,3 +18,5 @@ The 2023 Call for SSHR Fellowship applications will open in October 2023 and clo
 |
 
 The results of the 2022 SSHRF Call can be found [here](https://www.ssrc.edu.sg/grant-recipients/2022/sshrf2022/).
+
+If you have any questions, please email the SSRC Secretariat at [MOE\_SSRC\_Secretariat@moe.gov.sg](mailto:MOE_SSRC_Secretariat@moe.gov.sg).
