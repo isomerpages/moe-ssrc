@@ -6,7 +6,7 @@ description: ""
 <p><a href="https://www.ssrc.edu.sg/news-and-events/latest-updates/update9/"><img src="/images/updates2.jpg" style="width:40%;margin-left:15px;" align="right"></a></p>
 
 23 August 2023<br>
-**[Launch of the 2023 SSHRF Call](https://www.ssrc.edu.sg/initiatives/social-science-and-humanities/timeline/)**
+**[Results of the 2023 SSHRF Call](https://www.ssrc.edu.sg/grant-recipients/2022/sshrf2022/)**
 
 <br clear="left"><br clear="left">
 
