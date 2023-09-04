@@ -16,6 +16,6 @@ Four fellowships were awarded during the 2022 Social Science & Humanities Resear
 | 3 |  Asst Prof Lim Eng Hui Alvin | NUS |*[Archipelagic Mappings and Performance Routes, Routers, and Networks (1840–1940)](https://www.ssrc.edu.sg/projects-awarded/research-fellowships/alvin2022)*|
 | 4 |  Asst Prof Edmund Lee Wei Jian | NTU |*[Towards Successful Ageing: Leveraging A Community-Engaged Digital Health Technologies Ecosystem in Promoting Physical Activity and Well-Being Among Future and Current Seniors](https://www.ssrc.edu.sg/projects-awarded/research-fellowships/edmund2022)*|
 
-A total of seven nominations from the universities were received for the 2022 Call, with the four fellowships awarded based on the nominee’s career track record and potential for academic leadership. The awardees’ research programmes were also grounded in issues of strategic and policy relevance to Singapore.
+A total of seven nominations from the universities were received for the 2022 Call, with the four awardees chosen based on their career track record and potential for academic leadership. The awardees’ research programmes were also grounded in issues of strategic and policy relevance to Singapore.
 
 The 2023 SSHRF Call for nominations will [open](https://www.ssrc.edu.sg/initiatives/social-science-and-humanities/timeline/) on 9 October 2023 and close in January 2024.
