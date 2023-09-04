@@ -4,9 +4,9 @@ permalink: /initiatives/social-science-and-humanities/timeline/
 description: ""
 third_nav_title: SSHR Fellowship
 ---
-### **Launch of 2023 Social Science and Humanities Research Fellowship**
+### **Launch of 2023 Social Science and Humanities Research (SSHR) Fellowship**
 
-The call for fellowship applications will open in October 2023 and close in January 2024.
+The 2023 Call for SSHR Fellowship applications will open in October 2023 and close in January 2024.
 
 |  Process |   Timeline  |
 |---|---|
