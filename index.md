@@ -20,7 +20,7 @@ sections:
           url: initiatives/SSRC-graduate-research/overview/
       title: Launch of the 2023 SSHR Fellowship
       button: find out more
-      url: /initiatives/ssrc-graduate-research/timeline/
+      url: initiatives/social-science-and-humanities/timeline/
   - infopic:
       title: Launch of the 2023 SSRTG Call
       subtitle: Announcements
