@@ -22,10 +22,10 @@ sections:
       button: find out more
       url: grant-recipients/2022/sshrf2022/
   - infopic:
-      title: Results of the 2022 SSRTG Call
+      title: Closing of 2023 SSRTG Call Applications
       subtitle: Announcements
       button: Click here
-      url: grant-recipients/2022/sshrf2022/
+      url: news-archive/2023/update11/
       image: /images/updates2.jpg
       alt: Launch of the 2022 SSHRF Call
   - infopic:
