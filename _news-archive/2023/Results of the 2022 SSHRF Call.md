@@ -17,7 +17,7 @@ The Social Science Research Council (SSRC) has awarded [four](https://www.ssrc.e
 
 The SSRC received a total of seven nominations from the universities in 2022, and decided to award four fellowships based on the nominee's career track record and potential for academic leadership. The awardees’ research programmes were grounded in issues of strategic and policy relevance to Singapore. 
 
-###### Launch of 2023 SSHR Fellowship
+##### Launch of 2023 SSHRF Call 
 
 The 2023 Call for SSHR Fellowship nominations will open on 9 October 2023 and close in January 2024.
 
