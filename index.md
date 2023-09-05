@@ -18,16 +18,16 @@ sections:
         - title: Social Science Research Council Graduate Research Fellowship
           description: ""
           url: initiatives/SSRC-graduate-research/overview/
-      title: Launch of the 2023 Graduate Research Fellowship
+      title: Results of the 2023 SSHR Fellowship
       button: find out more
-      url: /initiatives/ssrc-graduate-research/timeline/
+      url: grant-recipients/2022/sshrf2022/
   - infopic:
-      title: Launch of the 2023 SSRTG Call
+      title: Closing of 2023 SSRTG Call Applications
       subtitle: Announcements
       button: Click here
       url: news-archive/2023/update11/
       image: /images/updates1.jpg
-      alt: Launch of the 2023 SSRTG Call
+      alt: Closing of the 2023 SSRTG Call
   - infopic:
       title: Latest SSHR funding tranche FY21 to FY25 and SSRC GRF
       subtitle: Announcements
