@@ -1,6 +1,6 @@
 ---
-title: Results of the 2023 SSHRF Call
-permalink: /news-archive/2023/update13/
+title: Results of the 2022 SSHRF Call
+permalink: /news-archive/2023/update12/
 description: ""
 third_nav_title: "2023"
 ---
@@ -20,5 +20,3 @@ The 2023 Call for SSHR Fellowship nominations will open on 9 October 2023 and cl
 |  Interview of shortlisted applicants |   April to May 2024 |
 |  Announcement of awardees |   July 2024 |
 |
-
-
