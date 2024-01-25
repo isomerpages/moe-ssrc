@@ -1,0 +1,8 @@
+collections:
+  news-and-events:
+    output: true
+    order:
+      - Latest Updates.md
+      - Events/.keep
+      - Events/Upcoming Events.md
+      - Events/Past Events.md

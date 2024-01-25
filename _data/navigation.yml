@@ -1,0 +1,12 @@
+logo: /images/logo.svg
+links:
+  - title: Who We Are
+    collection: who-we-are
+  - title: News & Events
+    collection: news-and-events
+  - title: Initiatives
+    collection: initiatives
+  - title: Grant Recipients
+    collection: grant-recipients
+  - title: Resources
+    collection: resources

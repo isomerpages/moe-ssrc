@@ -1,0 +1,6 @@
+collections:
+  resources:
+    output: true
+    order:
+      - Opportunities.md
+      - Publications/.keep
