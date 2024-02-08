@@ -80,4 +80,3 @@ variant: tiptap
 <br><em>Co-dean, College of Humanities &amp; Sciences</em> 
 <br><em>National University of Singapore</em>
 </p>
-<p></p>
