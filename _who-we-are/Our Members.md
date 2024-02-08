@@ -5,21 +5,21 @@ description: ""
 variant: tiptap
 ---
 <h4><strong>Composition of the Social Science Research Council</strong></h4>
-<p><strong>Chairman</strong> 
-<br>Mr Peter Ho
-<br><em>Senior Advisor</em> 
-<br><em>Centre for Strategic Futures</em>
-</p>
-<p><strong>Deputy Chairman</strong> 
-<br>Professor Chan Heng Chee
+<p><strong><u>Chairman</u></strong> 
+<br><strong>Mr Peter Ho </strong>
+<br>Senior Advisor
+<br>Centre for Strategic Futures</p>
+<p><strong><u>Deputy Chairman</u></strong><u> </u>
+<br><strong>Professor Chan Heng Chee</strong> 
 <br><em>Chairman of the Board of Trustees</em> 
 <br><em>ISEAS-YII</em>
 </p>
-<p><strong>Advisor</strong> 
-<br>Professor Wang Gungwu
+<p><strong><u>Advisor</u></strong><u> </u>
+<br><strong>Professor Wang Gungwu </strong>
 <br><em>University Professor</em> 
 <br><em>National University of Singapore</em>
 </p>
+<p></p>
 <h4><strong>Members</strong></h4>
 <p><strong>Professor David Chan</strong> 
 <br><em>Lee Kong Chian Professor of Psychology;<br>Director, Behavioural Sciences Initiative (BSI)</em> 
