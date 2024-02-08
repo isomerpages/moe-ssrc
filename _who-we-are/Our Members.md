@@ -12,7 +12,7 @@ variant: tiptap
 <p>Deputy Chairman
 <br><strong>Professor Chan Heng Chee</strong> 
 <br><em>Chairman of the Board of Trustees</em> 
-<br><em>ISEAS-Yusof Ishak Institute </em>
+<br><em>ISEAS-Yusof Ishak Institute</em>
 </p>
 <p>Advisor
 <br><strong>Professor Wang Gungwu </strong>
