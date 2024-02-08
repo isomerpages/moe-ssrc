@@ -5,16 +5,16 @@ description: ""
 variant: tiptap
 ---
 <h4><strong>Composition of the Social Science Research Council</strong></h4>
-<p><strong><u>Chairman</u></strong> 
+<p>Chairman
 <br><strong>Mr Peter Ho </strong>
 <br>Senior Advisor
 <br>Centre for Strategic Futures</p>
-<p><strong><u>Deputy Chairman</u></strong><u> </u>
+<p>Deputy Chairman
 <br><strong>Professor Chan Heng Chee</strong> 
 <br><em>Chairman of the Board of Trustees</em> 
 <br><em>ISEAS-YII</em>
 </p>
-<p><strong><u>Advisor</u></strong><u> </u>
+<p>Advisor
 <br><strong>Professor Wang Gungwu </strong>
 <br><em>University Professor</em> 
 <br><em>National University of Singapore</em>
