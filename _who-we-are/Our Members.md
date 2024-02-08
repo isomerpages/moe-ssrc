@@ -2,90 +2,81 @@
 title: Our Members
 permalink: /who-we-are/our-members/
 description: ""
+variant: tiptap
 ---
-#### **Composition of the Social Science Research Council**
-**Chairman**<br>
-Mr Peter Ho<br>
-_Senior Advisor_<br>
-_Centre for Strategic Futures_
-
-**Deputy Chairman**<br>
-Professor Chan Heng Chee<br>
-_Chairman of the Board of Trustees_<br>
-_ISEAS-YII_
-
-**Advisor**<br>
-Professor Wang Gungwu<br>
-_University Professor_<br>
-_National University of Singapore_
-
-#### **Members**
-**Professor Chua Beng Huat**<br>
-_Professor_<br>
-_Social Science (Urban Studies)_<br>
-_Yale-NUS College_
-
-**Professor Danny Quah**<br>
-_Dean and Li Ka Shing Professor in Economics_<br>
-_Lee Kuan Yew School of Public Policy_<br>
-_National University of Singapore_
-
-**Professor David Chan**<br>
-_Lee Kong Chian Professor of Psychology;<br>
-Director, Behavioural Sciences Initiative (BSI)_<br>
-_Singapore Management University_
-
-**Mr Edward Robinson**<br>
-_Deputy Managing Director (Economic Policy) and<br>
-Chief Economist_<br>
-_Monetary Authority of Singapore_
-
-**Professor Euston Quah**<br>
-_Albert Winsemius Chair Professor_<br>
-_Director, Economic Growth Centre_<br>
-_School of Social Sciences_<br>
-_Nanyang Technological University_
-
-**Mr Frederick Chew**<br>
-_Chief Executive Officer_<br>
-_Agency for Science, Technology and Research (A\*STAR)_
-
-**Professor Chen Tsuhan**<br>
-*Chief Scientist, AI Singapore;  
- Deputy President (Innovation &amp; Enterprise)*<br>
-_National University of Singapore_
-
-**Professor Joseph Liow**<br>
-_Dean, College of Humanities, Arts and Social Sciences_ <br>
-_Nanyang Technological University_
-
-**Professor Lim Ee-Peng**<br>
-_Lee Kong Chian Professor of Computer Science_<br>
-_Singapore Management University_
-
-**Professor Lim Sun Sun**<br>
-*Vice President, Partnerships and Engagement;*<br>
-*Professor of Communication &amp; Technology*<br>
-*College of Integrative Studies*<br>
-*Singapore Management University*
-
-**Professor Lionel Wee**<br>
-_Dean, Faculty of Arts and Social Sciences;_<br>
-_Co-dean, College of Humanities &amp; Sciences_<br>
-_National University of Singapore_
-
-**Professor Robbie Goh**<br>
-_Provost<br>
-Singapore University of Social Sciences_
-
-**Ms Tan Gee Keow**<br>
-_Permanent Secretary_<br>
-Ministry of Culture, Community and Youth
-
-**Professor May Oo Lwin**<br>
-_Chair, Wee Kim Wee School of Communication &amp; Information_<br>
-_Nanyang Technological University_
-
-**Professor Timothy Clark**<br>
-_Provost_<br>
-_Singapore Management University_
+<h4><strong>Composition of the Social Science Research Council</strong></h4>
+<p>Chairman
+<br><strong>Mr Peter Ho </strong>
+<br>Senior Advisor
+<br>Centre for Strategic Futures</p>
+<p>Deputy Chairman
+<br><strong>Professor Chan Heng Chee</strong> 
+<br><em>Chairman of the Board of Trustees</em> 
+<br><em>ISEAS-Yusof Ishak Institute</em>
+</p>
+<p>Advisor
+<br><strong>Professor Wang Gungwu </strong>
+<br><em>University Professor</em> 
+<br><em>National University of Singapore</em>
+</p>
+<p></p>
+<h4><strong>Members</strong></h4>
+<p><strong>Professor David Chan</strong> 
+<br><em>Lee Kong Chian Professor of Psychology;<br>Director, Behavioural Sciences Initiative (BSI)</em> 
+<br><em>Singapore Management University</em>
+</p>
+<p><strong>Professor Chen Tsuhan</strong> 
+<br><em>Chief Scientist, AI Singapore;<br>Deputy President (Innovation &amp; Enterprise)</em> 
+<br><em>National University of Singapore</em>
+</p>
+<p><strong>Mr Frederick Chew</strong> 
+<br><em>Chief Executive Officer</em> 
+<br><em>Agency for Science, Technology and Research (A*STAR)</em>
+</p>
+<p><strong>Professor Chua Beng Huat</strong> 
+<br><em>Professor</em> 
+<br><em>Social Science (Urban Studies)</em> 
+<br><em>Yale-NUS College</em>
+</p>
+<p><strong>Professor Timothy Clark</strong> 
+<br><em>Provost</em> 
+<br><em>Singapore Management University</em>
+</p>
+<p><strong>Professor Robbie Goh</strong> 
+<br><em>Provost<br>Singapore University of Social Sciences</em>
+</p>
+<p><strong>Professor Joseph Liow</strong> 
+<br><em>Dean, College of Humanities, Arts and Social Sciences</em> 
+<br><em>Nanyang Technological University</em>
+</p>
+<p><strong>Professor May Oo Lwin</strong> 
+<br><em>Chair, Wee Kim Wee School of Communication &amp; Information</em> 
+<br><em>Nanyang Technological University</em>
+</p>
+<p><strong>Professor Ivan Png</strong> 
+<br><em>Distinguished Professor</em> 
+<br><em>National University of Singapore</em>
+</p>
+<p><strong>Professor Danny Quah</strong> 
+<br><em>Dean and Li Ka Shing Professor in Economics</em> 
+<br><em>Lee Kuan Yew School of Public Policy</em> 
+<br><em>National University of Singapore</em>
+</p>
+<p><strong>Professor Euston Quah</strong> 
+<br><em>Albert Winsemius Chair Professor</em> 
+<br><em>Director, Economic Growth Centre</em> 
+<br><em>School of Social Sciences</em> 
+<br><em>Nanyang Technological University</em>
+</p>
+<p><strong>Mr Edward Robinson</strong> 
+<br><em>Deputy Managing Director (Economic Policy) and<br>Chief Economist</em> 
+<br><em>Monetary Authority of Singapore</em>
+</p>
+<p><strong>Ms Tan Gee Keow</strong> 
+<br><em>Permanent Secretary</em> 
+<br>Ministry of Culture, Community and Youth</p>
+<p><strong>Professor Lionel Wee</strong> 
+<br><em>Dean, Faculty of Arts and Social Sciences;</em> 
+<br><em>Co-dean, College of Humanities &amp; Sciences</em> 
+<br><em>National University of Singapore</em>
+</p>
