@@ -3,4 +3,5 @@ collections:
     output: true
     order:
       - Opportunities.md
+      - Publications/Dummy Page (DO NOT MERGE).md
       - Publications/.keep
