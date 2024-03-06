@@ -18,7 +18,7 @@ sections:
         - title: Social Science Research Council Graduate Research Fellowship
           description: ""
           url: initiatives/SSRC-graduate-research/overview/
-      title: Results of the 2022 SSHR Fellowship
+      title: Results of the 2023 Graduate Research Fellowship
       button: find out more
       url: grant-recipients/2022/sshrf2022/
   - infopic:
