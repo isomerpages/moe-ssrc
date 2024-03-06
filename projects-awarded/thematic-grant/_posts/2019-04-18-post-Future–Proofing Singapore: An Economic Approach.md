@@ -5,12 +5,13 @@ date: 2019-04-18
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 |  |  |
 |---|---|
 | **Name of Recipent** | **Professor Sumit Agarwal**<br>_School of Business, NUS_ |
 | **Project Title** | Future-Proofing Singapore: An Economic Approach |
-| **Project Status** | Ongoing |
+| **Project Status** | Completed |
 | **Year Awarded** | 2019 |
 | **Type of Grant** | Social Science Research Thematic Grant |
 |
