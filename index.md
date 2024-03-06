@@ -22,10 +22,10 @@ sections:
       button: find out more
       url: grant-recipients/2022/sshrf2022/
   - infopic:
-      title: Closing of 2023 SSRTG Call Applications
+      title: Results of the 2022 SSHR Fellowship
       subtitle: Announcements
       button: Click here
-      url: news-archive/2023/update11/
+      url: grant-recipients/2022/sshrf2022/
       image: /images/updates1.jpg
       alt: Closing of the 2023 SSRTG Call
   - infopic:
