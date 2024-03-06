@@ -5,12 +5,13 @@ date: 2018-05-21
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 |  |  |
 |---|---|
 | **Name of Recipent** | **Associate Professor Irene Ng**<br>_Department of Social Work, Faculty of Arts and Social Sciences, National University of Singapore (NUS)_ |
 | **Project Title** | In-Work Poverty and the Challenges of Getting By among the Young |
-| **Project Status** | Ongoing |
+| **Project Status** | Completed |
 | **Year Awarded** | 2018 |
 | **Type of Grant** | Social Science Research Thematic Grant |
 |
