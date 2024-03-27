@@ -22,19 +22,19 @@ sections:
       button: find out more
       url: grant-recipients/2022/sshrf2022/
   - infopic:
+      title: Launch of the 2024 Ideas Festival
+      subtitle: Announcements
+      button: Click to find out more
+      url: https://www.ideasfestival.edu.sg/ideas-festival-launch/
+      image: /images/Launch_Event.jpg
+      alt: Ideas Fest
+  - infopic:
       title: Results of the 2022 SSHR Fellowship
       subtitle: Announcements
       button: Click here
       url: grant-recipients/2022/sshrf2022/
       image: /images/updates1.jpg
       alt: Closing of the 2023 SSRTG Call
-  - infopic:
-      title: Latest SSHR funding tranche FY21 to FY25 and SSRC GRF
-      subtitle: Announcements
-      button: Click here to read more
-      url: news-and-events/latest-updates/update8/
-      image: /images/updates8.jpg
-      alt: FY to FY25
   - resources:
       title: Curious about the SSRC's latest projects?
       subtitle: projects awarded
