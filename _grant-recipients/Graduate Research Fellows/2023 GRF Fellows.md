@@ -10,13 +10,13 @@ third_nav_title: Graduate Research Fellows
 Project |</p>
 <p>| -------- | -------- | -------- |-------- |-------- |</p>
 <p>| 1 | NUS | Kok Bing Cai | University of North Carolina at Chapel Hill
-| Meta-Learning for Heterogeneous, Ordinal Time Series</p>
+| Meta-Learning for Heterogeneous, Ordinal Time Series |</p>
 <p>|2| NUS | Denis Lan | University of Oxford | What Computational Mechanisms
 Underlie Human Spatial Planning? |</p>
 <p>|3| NUS | He Zhou Zhou | Columbia University | Temporal Dynamics of Beliefs
 about Social Regulation |</p>
 <p>|4| NUS | Norashiqin Toh | Tsinghua University | Regime Complexity in
-the Mekong Subregion</p>
+the Mekong Subregion |</p>
 <p>|5| NTU | Jeremy Goh | University of Warwick | When Chinese Commercial
 Banks Go Overseas: The Case of Southeast Asia |</p>
 <p>|6| NTU | Daniel Denian Lee | University of Cambridge | Fake Speech: Generating
