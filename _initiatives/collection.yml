@@ -2,11 +2,11 @@ collections:
   initiatives:
     output: true
     order:
-      - SSR Thematic Grant/.keep
-      - SSR Thematic Grant/Overview.md
-      - SSR Thematic Grant/Eligibility.md
-      - SSR Thematic Grant/Evaluation Criteria.md
-      - SSR Thematic Grant/Timeline.md
+      - SSHR Thematic Grant/.keep
+      - SSHR Thematic Grant/Overview.md
+      - SSHR Thematic Grant/Eligibility.md
+      - SSHR Thematic Grant/Evaluation Criteria.md
+      - SSHR Thematic Grant/Timeline.md
       - SSHR Fellowship/Overview.md
       - SSHR Fellowship/Eligibility.md
       - SSHR Fellowship/Evaluation Criteria.md
