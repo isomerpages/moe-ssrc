@@ -22,7 +22,7 @@ sections:
       button: find out more
       url: grant-recipients/2022/sshrf2022/
   - infopic:
-      title: "Launch of the Ideas Festival 2024 "
+      title: Launch of the Ideas Festival 2024
       subtitle: Announcements
       button: Click to find out more
       url: https://www.ideasfestival.edu.sg/ideas-festival-launch/
