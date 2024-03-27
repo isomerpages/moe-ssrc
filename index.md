@@ -26,7 +26,7 @@ sections:
       subtitle: Announcements
       button: Find out more
       url: https://www.ideasfestival.edu.sg/ideas-festival-launch/
-      image: /images/Launch_Event.jpg
+      image: /images/Launch_Event_resized.jpg
       alt: Ideas Fest
   - infopic:
       title: Results of the 2022 SSHR Fellowship
