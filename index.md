@@ -24,7 +24,7 @@ sections:
   - infopic:
       title: Launch of the Ideas Festival 2024
       subtitle: Announcements
-      button: Click to find out more
+      button: Find out more
       url: https://www.ideasfestival.edu.sg/ideas-festival-launch/
       image: /images/Launch_Event.jpg
       alt: Ideas Fest
