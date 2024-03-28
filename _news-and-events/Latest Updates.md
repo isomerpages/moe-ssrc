@@ -13,7 +13,7 @@ variant: markdown
 
 -----------------------------------------------------------
 
-<p><a href="https://www.ssrc.edu.sg/news-and-events/latest-updates/update9/"><img src="/images/Launch_Event_resized.jpg" style="width:40%;margin-left:15px;" align="right"></a></p>
+<p><a href="https://www.ssrc.edu.sg/news-and-events/latest-updates/update9/"><img src="/images/Launch_Event_2.jpg" style="width:40%;margin-left:15px;" align="right"></a></p>
 
 20 March 2024<br>
 **[Launch of the Ideas Festival](https://www.ideasfestival.edu.sg/ideas-festival-launch/)**
