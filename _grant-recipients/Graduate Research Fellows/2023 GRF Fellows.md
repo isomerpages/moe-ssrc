@@ -1,6 +1,6 @@
 ---
 title: 2023 GRF Fellows
-permalink: /2023-grf-fellows/
+permalink: /grant-recipients/2023/grf2023/
 variant: markdown
 description: ""
 third_nav_title: Graduate Research Fellows
