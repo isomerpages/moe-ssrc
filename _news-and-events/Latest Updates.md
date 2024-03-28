@@ -2,7 +2,25 @@
 title: Latest Updates
 permalink: /news-and-events/latest-updates/permalink/
 description: ""
+variant: markdown
 ---
+<p><a href="https://www.ssrc.edu.sg/news-and-events/latest-updates/update9/"><img src="/images/updates5.jpg" style="width:40%;margin-left:15px;" align="right"></a></p>
+
+27 March 2024<br>
+**[Results of the 2023 GRF Call](https://www.ssrc.edu.sg/grant-recipients/2023-grf-fellows/)**
+
+<br clear="left"><br clear="left">
+
+-----------------------------------------------------------
+
+<p><a href="https://www.ssrc.edu.sg/news-and-events/latest-updates/update9/"><img src="/images/Launch_Event_resized.jpg" style="width:40%;margin-left:15px;" align="right"></a></p>
+
+20 March 2024<br>
+**[Launch of the Ideas Festival](https://www.ideasfestival.edu.sg/ideas-festival-launch/)**
+
+<br clear="left"><br clear="left">
+
+-----------------------------------------------------------
 <p><a href="https://www.ssrc.edu.sg/news-and-events/latest-updates/update9/"><img src="/images/updates2.jpg" style="width:40%;margin-left:15px;" align="right"></a></p>
 
 23 August 2023<br>
