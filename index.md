@@ -20,7 +20,7 @@ sections:
           url: initiatives/SSRC-graduate-research/overview/
       title: Results of the 2023 Graduate Research Fellowship
       button: find out more
-      url: /2023-grf-fellows/
+      url: /grant-recipients/2023/grf2023/
   - infopic:
       title: Launch of the Ideas Festival 2024
       subtitle: Announcements
