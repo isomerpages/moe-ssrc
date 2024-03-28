@@ -2,9 +2,8 @@
 title: Overview
 permalink: /initiatives/social-science-research/overview/
 description: ""
-third_nav_title: SSR Thematic Grant
+third_nav_title: SSHR Thematic Grant
 ---
-
 ### **Social Science Research Thematic Grant**
 The Social Science Research Thematic Grant (SSRTG) is the first major initiative by the Social Science Research Council (SSRC) aimed at boosting research in areas of strategic relevance to Singapore and Asia.  
   
@@ -15,8 +14,8 @@ Three tiers of funding are available:
 **Type A: S$100,000 to S$1m for up to 3 years**<br>
 For smaller-scale investigator-led research in areas of strategic relevance to encourage broader-based research participation in areas of thematic interest
 
-**Type B: >S$1m to S$5m over 3 – 5 years**
+**Type B: &gt;S$1m to S$5m over 3 – 5 years**
 
-**Type C: >S$5m to S$10m over 3 – 5 years**
+**Type C: &gt;S$5m to S$10m over 3 – 5 years**
 
 For larger-scale research where research performers are encouraged to collaborate to pursue more ambitious inter-disciplinary research on issues of cross-cutting interests

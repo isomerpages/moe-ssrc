@@ -6,12 +6,13 @@ date: 2020-06-08
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 |  |  |
 |---|---|
 | **Name of Recipent** | **Assistant Professor Anthony D. Medrano**<br>_Social Sciences (Environmental Studies), Yale-NUS_ |
 | **Project Title** | Linking the Digital Humanities to Biodiversity History in Singapore and Southeast Asia |
-| **Project Status** | Ongoing |
+| **Project Status** | Completed |
 | **Year Awarded** | 2020 |
 | **Type of Grant** | Social Science Research Thematic Grant |
 |

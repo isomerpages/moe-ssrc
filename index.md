@@ -18,23 +18,23 @@ sections:
         - title: Social Science Research Council Graduate Research Fellowship
           description: ""
           url: initiatives/SSRC-graduate-research/overview/
-      title: Results of the 2022 SSHR Fellowship
+      title: Results of the 2023 Graduate Research Fellowship
       button: find out more
-      url: grant-recipients/2022/sshrf2022/
+      url: /2023-grf-fellows/
   - infopic:
-      title: Closing of 2023 SSRTG Call Applications
+      title: Launch of the Ideas Festival 2024
+      subtitle: Announcements
+      button: Find out more
+      url: https://www.ideasfestival.edu.sg/ideas-festival-launch/
+      image: /images/Launch_Event_resized.jpg
+      alt: Ideas Fest
+  - infopic:
+      title: Results of the 2022 SSHR Fellowship
       subtitle: Announcements
       button: Click here
-      url: news-archive/2023/update11/
+      url: grant-recipients/2022/sshrf2022/
       image: /images/updates1.jpg
       alt: Closing of the 2023 SSRTG Call
-  - infopic:
-      title: Latest SSHR funding tranche FY21 to FY25 and SSRC GRF
-      subtitle: Announcements
-      button: Click here to read more
-      url: news-and-events/latest-updates/update8/
-      image: /images/updates8.jpg
-      alt: FY to FY25
   - resources:
       title: Curious about the SSRC's latest projects?
       subtitle: projects awarded

@@ -2,9 +2,8 @@
 title: Eligibility
 permalink: /initiatives/social-science-research/eligibility/
 description: ""
-third_nav_title: SSR Thematic Grant
+third_nav_title: SSHR Thematic Grant
 ---
-
 ### **Social Science Research Thematic Grant**
 Principal Investigators (PI) and co-PIs must hold a primary full-time appointment (defined as a minimum commitment of nine months per year) in the eligible Host Institution, at time of application.
 
