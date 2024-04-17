@@ -7,7 +7,7 @@ variant: markdown
 <p><a href="https://www.ssrc.edu.sg/news-and-events/latest-updates/update9/"><img src="/images/updates5.jpg" style="width:40%;margin-left:15px;" align="right"></a></p>
 
 27 March 2024<br>
-**[Results of the 2023 GRF Call](https://www.ssrc.edu.sg/grant-recipients/2023-grf-fellows/)**
+**[Results of the 2023 GRF Call](https://www.ssrc.edu.sg/grant-recipients/2023/grf2023/)**
 
 <br clear="left"><br clear="left">
 
