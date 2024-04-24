@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Latest Updates.md
+      - Events/Previous Events.md
       - Events/.keep
       - Events/Upcoming Events.md
       - Events/Past Events.md
