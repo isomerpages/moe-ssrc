@@ -20,7 +20,7 @@ sections:
           url: initiatives/SSRC-graduate-research/overview/
       title: Launch of the 2024 SSHR-Thematic Grant Call
       button: find out more
-      url: /grant-recipients/2023/grf2023/
+      url: /launch-of-the-2024-sshr-tg-call/
   - infopic:
       title: Launch of the Ideas Festival 2024
       subtitle: Announcements
