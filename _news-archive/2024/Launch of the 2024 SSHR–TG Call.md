@@ -71,6 +71,19 @@ histories and cultures of Singapore and / or the region, including how
 these may have evolved over time and shape contemporary society.</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Open Category</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>This is an open category to examine any topics of interest that are not
+covered by Themes 1 - 4, relevant to Singapore and the region, and approached
+using perspectives from the social sciences and humanities.</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
