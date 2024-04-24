@@ -29,7 +29,7 @@ sections:
       image: /images/Launch_Event.jpg
       alt: Ideas Fest
   - infopic:
-      title: Results of the 2022 SSHR Fellowship
+      title: Results of the 2023 Graduate Research Fellowship
       subtitle: Announcements
       button: Click here
       url: grant-recipients/2022/sshrf2022/
