@@ -32,7 +32,7 @@ sections:
       title: Results of the 2023 Graduate Research Fellowship
       subtitle: Announcements
       button: Click here
-      url: grant-recipients/2022/sshrf2022/
+      url: grant-recipients/2023/grf2023/
       image: /images/updates1.jpg
       alt: Closing of the 2023 SSRTG Call
   - resources:
