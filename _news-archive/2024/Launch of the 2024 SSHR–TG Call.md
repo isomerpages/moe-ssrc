@@ -9,10 +9,11 @@ third_nav_title: "2024"
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SSRC website.png">
 </div>
-<p>The 2024 Grant Call invites proposals which address the following themes
-using various perspectives in the social sciences and humanities, with
-special focus on understanding Singapore and its place in the region (ASEAN
-and the rest of Asia):</p>
+<p>The 2024 Social Science &amp; Humanities Research Thematic Grant (SSHR-TG)
+Call invites proposals which address the following themes using various
+perspectives in the social sciences and humanities, with special focus
+on understanding Singapore and its place in the region (ASEAN and the rest
+of Asia):</p>
 <table>
 <tbody>
 <tr>
