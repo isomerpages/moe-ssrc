@@ -2,15 +2,15 @@ collections:
   grant-recipients:
     output: true
     order:
-      - SSRTG Awardees/2023 Call.md
-      - SSRTG Awardees/2022 Call.md
-      - SSRTG Awardees/.keep
-      - SSRTG Awardees/2021 Call.md
-      - SSRTG Awardees/2020 Call.md
-      - SSRTG Awardees/2019 Call.md
-      - SSRTG Awardees/2018 Call.md
-      - SSRTG Awardees/2017 Call.md
-      - SSRTG Awardees/2016 Call.md
+      - SSHR TG Awardees/2023 Call.md
+      - SSHR TG Awardees/2022 Call.md
+      - SSHR TG Awardees/.keep
+      - SSHR TG Awardees/2021 Call.md
+      - SSHR TG Awardees/2020 Call.md
+      - SSHR TG Awardees/2019 Call.md
+      - SSHR TG Awardees/2018 Call.md
+      - SSHR TG Awardees/2017 Call.md
+      - SSHR TG Awardees/2016 Call.md
       - SSHR Fellows/2022 Fellows.md
       - SSHR Fellows/.keep
       - SSHR Fellows/2021 Fellows.md
