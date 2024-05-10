@@ -14,7 +14,10 @@ Call invites proposals which address the following themes using various
 perspectives in the social sciences and humanities, with special focus
 on understanding Singapore and its place in the region (ASEAN and the rest
 of Asia):</p>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
