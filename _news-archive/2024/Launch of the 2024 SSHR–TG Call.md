@@ -90,5 +90,5 @@ using perspectives from the social sciences and humanities.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>All applications must be submitted through the respective Offices of Research (or equivalent) by 8 Sep 2024 at 5pm.</strong> The
+<p><strong>All applications must be submitted through the respective Offices of Research (or equivalent) by 2 Aug 2024 at 5pm.</strong> The
 results of the previous 2023 SSRTG Call can be found <a href="https://www.ssrc.edu.sg/grant-recipients/2023/ssrtg2023/" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
