@@ -5,6 +5,7 @@ date: 2017-05-08
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 |  |  |
 |---|---|
@@ -13,7 +14,7 @@ image: ""
 | **Project Status** | Completed |
 | **Year Awarded** | 2017 |
 | **Type of Grant** | Social Science Research Thematic Grant |
-|
+|**Funding Type** | A |
 
 Strengthening enterprise capabilities to innovate and scale up, and developing strong digital capabilities are two of the seven economic strategies recommended by Singapore’s Committee on the Future Economy for Singapore moving forward.&nbsp;
 
