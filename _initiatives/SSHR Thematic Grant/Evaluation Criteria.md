@@ -3,8 +3,9 @@ title: Evaluation Criteria
 permalink: /initiatives/social-science-research/evaluation-criteria/
 description: ""
 third_nav_title: SSHR Thematic Grant
+variant: markdown
 ---
-### **Social Science Research Thematic Grant**
+### **Social Science & Humanities Research Thematic Grant**
 Submitted proposals will be evaluated based on the following criteria:  
   
 **Relevance**: Relevance to the grant call’s thematic focus  
