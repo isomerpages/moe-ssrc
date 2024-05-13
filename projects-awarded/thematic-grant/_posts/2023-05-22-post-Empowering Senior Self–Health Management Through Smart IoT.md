@@ -20,8 +20,7 @@ Singapore is facing a significant challenge: an ageing society. By 2030, it is e
 daily routines of seniors. 
 
 This project will primarily focus on relatively healthier
-seniors (aged 60 and above), who do not have serious health conditions requiring intensive medical treatment. Focusing on this demographic, our aim is to align with Singapore's proactive embrace of the 'prevention is better than cure' approach, as reflected in various health initiatives targeting seniors. However, as evidenced by the
-low adoption rate and lack of sustained use of health technology among seniors, health promotion initiatives that focus solely on the availability and distribution of the technology would not be sufficient to elicit the sustained and desired impact.
+seniors (aged 60 and above), who do not have serious health conditions requiring intensive medical treatment. Focusing on this demographic, the project aims is to align with Singapore's proactive embrace of the 'prevention is better than cure' approach, as reflected in various health initiatives targeting seniors. However, as evidenced by the low adoption rate and lack of sustained use of health technology among seniors, health promotion initiatives that focus solely on the availability and distribution of the technology would not be sufficient to elicit the sustained and desired impact.
 
 The proposed study's primary contributions are twofold: 1) it provides a theory-based approach to designing an IoT application that fosters sustained usage of smart health IoT systems for self-guided health management among seniors, considering both technological (i.e., application design) and individual (i.e., psychological
 reactance) factors; and 2) ultimately aims to reduce the necessity for repetitive and costly human interventions in motivating and sustaining self-guided health management among seniors.
