@@ -17,6 +17,8 @@ variant: markdown
 | **Funding Type** | A |
 |
 
-The study aims to explore time poverty and its associated mental health impacts in Singaporean women with children aged 0 - 7 years.  
+Green Research and Development (R&amp;D), which focuses on developing clean technologies, is key to the Green transition. Similar to other investments, Green R&amp;D projects undertaken by innovating firms are profit-driven and therefore interact with business cycles and macroeconomic policies. Additionally, the cyclicality of R&amp;D projects may vary between Green R&amp;D and Brown R&amp;D, the latter pertaining to traditional polluting technologies. Therefore, business cycles might alter innovating firms’ choices between Green and Brown projects.
 
-The study will provide new insights to support women's development initiatives and improved mental well-being and family policies in Singapore.
+The proposed research project investigates the interaction between business cycles, Green Innovations, and sustainable economic growth. Using firm-level R&amp;D data from Singapore, the United States (U.S.), and Europe, this project seeks to gain insights into the nature of R&amp;D decisions for both Green and Brown technologies. 
+
+Theoretically, the project aims to develop a novel medium-term business cycle model that explores the implications of the newly uncovered nature of R&amp;D decisions, which has important implications for the Green transition, and provide an additional model that distinguishes between Green and Brown R&amp;D. The model will be extended to an open economy model and calibrated to the Singaporean economy. 
