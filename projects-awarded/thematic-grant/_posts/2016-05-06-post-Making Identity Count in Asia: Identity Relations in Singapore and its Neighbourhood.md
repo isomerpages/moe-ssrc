@@ -6,6 +6,7 @@ date: 2016-05-06
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 |  |  |
 |---|---|
@@ -14,7 +15,7 @@ image: ""
 | **Project Status** | Completed |
 | **Year Awarded** | 2016 |
 | **Type of Grant** | Social Science Research Thematic Grant |
-|
+|**Funding Type** | A |
 
 The project seeks to establish Singapore’s identity relations with its neighbours in the Association of Southeast Asian Nations (ASEAN), and selected East Asian territories such as Hong Kong, Taiwan, and South Korea. It also undertakes an in-depth examination of Singapore’s national identity, including how the concept of national identity differs among different communities, and the implications on national resilience and social integration.
 
