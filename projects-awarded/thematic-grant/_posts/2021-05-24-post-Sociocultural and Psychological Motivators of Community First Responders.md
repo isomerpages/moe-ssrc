@@ -5,6 +5,7 @@ date: 2021-05-24
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 |  |  |
 |---|---|
@@ -13,7 +14,7 @@ image: ""
 | **Project Status** | Ongoing |
 | **Year Awarded** | 2021 |
 | **Type of Grant** | Social Science Research Thematic Grant |
-|
+|**Funding Type** | A |
 
 The study aims to investigate demographic, socio-cultural, psychological and process-related factors which influence individuals’ commitment to volunteering as Community First Responders.  
 
