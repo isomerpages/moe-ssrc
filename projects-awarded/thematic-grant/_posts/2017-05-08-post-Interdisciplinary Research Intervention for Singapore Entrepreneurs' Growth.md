@@ -5,6 +5,7 @@ date: 2017-05-08
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 |  |  |
 |---|---|
@@ -13,7 +14,7 @@ image: ""
 | **Project Status** | Completed |
 | **Year Awarded** | 2017 |
 | **Type of Grant** | Social Science Research Thematic Grant|
-|
+|**Funding Type** | A |
 
 New start-ups generally face challenges such as recruitment and resource procurement due to the lack of a “track record”. This situation is exacerbated for Singapore start-ups looking to venture to overseas markets. In addition to the lack of social and financial capital, these start-ups may lack a sufficient understanding of the overseas regulatory framework.
 
