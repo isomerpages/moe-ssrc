@@ -10,10 +10,11 @@ variant: markdown
 |  |  |
 |---|---|
 | **Name of Recipent** | **Assistant Professor Zhang Donghai**<br> _Department of Economics, Faculty of Arts and Social Sciences, National University of Singapore_ |
-| **Project Title** | Exploring Time Poverty And Mental Health in Singapore Women With Young Children |
+| **Project Title** | Medium-term Business Cycles, Green Innovations, and Sustainable Growth |
 | **Project Status** | Ongoing |
-| **Year Awarded** | 2022 |
+| **Year Awarded** | 2023 |
 | **Type of Grant** | Social Science Research Thematic Grant |
+| **Funding Type** | A |
 |
 
 The study aims to explore time poverty and its associated mental health impacts in Singaporean women with children aged 0 - 7 years.  
