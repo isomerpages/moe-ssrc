@@ -6,6 +6,7 @@ date: 2016-05-06
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 |  |  |
 |---|---|
@@ -14,7 +15,7 @@ image: ""
 | **Project Status** | Completed |
 | **Year Awarded** | 2016 |
 | **Type of Grant** | Social Science Research Thematic Grant |
-|
+|**Funding Type** | A |
 
 When immigrants come to a new country, they will need to learn its norms and values. The project will examine cultural learning as a key mechanism that helps immigrants identify, integrate, and experience less conflict with the new culture.&nbsp;&nbsp;
 
