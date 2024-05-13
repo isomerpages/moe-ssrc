@@ -6,6 +6,7 @@ date: 2017-05-08
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 |  |  |
 |---|---|
@@ -14,7 +15,7 @@ image: ""
 | **Project Status** | Completed |
 | **Year Awarded** | 2017 |
 | **Type of Grant** | Social Science Research Thematic Grant |
-|
+|**Funding Type** | A |
 
 An ageing population has profound impact on society and economy, such as rising healthcare costs and decreasing economic productivity. The effective harnessing of information technology can potentially alleviate these two pressing issues.
 
