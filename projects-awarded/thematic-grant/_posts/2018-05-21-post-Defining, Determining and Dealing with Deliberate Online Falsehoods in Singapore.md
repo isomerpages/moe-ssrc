@@ -6,6 +6,7 @@ date: 2018-05-21
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 |  |  |
 |---|---|
@@ -14,7 +15,7 @@ image: ""
 | **Project Status** | Completed |
 | **Year Awarded** | 2018 |
 | **Type of Grant** | Social Science Research Thematic Grant |
-|
+|**Funding Type** | A |
 
 While there has been significant research on the rising global challenge of deliberate online falsehoods (DOFs), information gaps remain. This project seeks to examine factors that facilitate the spread of DOFs and understand
 
