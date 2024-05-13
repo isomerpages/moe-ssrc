@@ -5,6 +5,7 @@ date: 2017-05-08
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 |  |  |
 |---|---|
@@ -13,7 +14,7 @@ image: ""
 | **Project Status** | Completed |
 | **Year Awarded** | 2017 |
 | **Type of Grant** | Social Science Research Thematic Grant |
-|
+|**Funding Type** | A |
 
 Low-income binational families typically face additional challenges as a result of differential socio-economic status and social needs being brought into the marital and familial structure by local and foreign spouses. Understanding how such challenges affect the social functioning and integration of such families into Singapore is important in minimising the socio-economic vulnerabilities of these families, and better supporting their integration into Singapore.&nbsp;&nbsp;
 
