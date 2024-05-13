@@ -5,6 +5,7 @@ date: 2018-05-21
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 |  |  |
 |---|---|
@@ -13,7 +14,7 @@ image: ""
 | **Project Status** | Completed |
 | **Year Awarded** | 2018 |
 | **Type of Grant** | Social Science Research Thematic Grant |
-|
+|**Funding Type** | A |
 
 One issue faced by older adults is social isolation and loneliness. These increase physical and mental morbidity and mortality, and are risk factors for poor health outcomes and low social cohesion in the community. With a growing ageing population in Singapore, it is important to enhance our knowledge of social connections and health in the social-ecological context to address the unmet needs of older adults who are at risk of loneliness, and to increase the effectiveness of community activities designed for social engagement of older adults in Singapore.
 
