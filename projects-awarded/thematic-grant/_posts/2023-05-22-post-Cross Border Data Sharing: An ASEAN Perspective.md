@@ -15,7 +15,6 @@ variant: markdown
 | **Year Awarded** | 2023 |
 | **Type of Grant** | Social Science Research Thematic Grant |
 | **Funding Type** | A |
-|
 
 With the advancement of data-intensive technologies (AI in particular), cross-border data flows have become an increasingly important topic in the international policy arena and its importance has been recognized by policymakers in Singapore. The future of the global economy is likely to be shaped by the interplay of globalization and localization of data, and therefore, the cross-border data flows call for a systematic investigation.
 
