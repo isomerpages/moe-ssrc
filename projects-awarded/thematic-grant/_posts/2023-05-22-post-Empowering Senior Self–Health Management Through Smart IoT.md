@@ -16,8 +16,12 @@ variant: markdown
 | **Type of Grant** | Social Science Research Thematic Grant |
 |**Funding Type** | A |
 
-The research aims to identify the assemblages of institutions, practices and instruments required to ensure the effective and inclusive governance of Nature-based Carbon Sinks (NCS) in Southeast Asia.&nbsp; This would help to fully realise the potential of NCS in supplying climate mitigation, and its associated co-benefits without undermining key sustainable development goals.
+Singapore is facing a significant challenge: an ageing society. By 2030, it is expected that almost one in four Singaporeans will be over 65 years old. Smart Internet of Things (IoT), a network of smart devices connected through the Internet, like smart wearables and smart scales has significant potential to enable costefficient self-directed health management that can be seamlessly integrated into the
+daily routines of seniors. 
 
-The research project aims to (i) develop theoretical and policy linkages between human responsibilities for, and dependencies upon NCS; (ii) determine the optimal arrangements for governing NCS across a range of spatial and administrative scales; and (iii) and locate the most appropriate technologies and strategies of governance within the socio-spatial contexts and institutional cultures that shape the success or failure of particular NCS.  
+This project will primarily focus on relatively healthier
+seniors (aged 60 and above), who do not have serious health conditions requiring intensive medical treatment. Focusing on this demographic, our aim is to align with Singapore's proactive embrace of the 'prevention is better than cure' approach, as reflected in various health initiatives targeting seniors. However, as evidenced by the
+low adoption rate and lack of sustained use of health technology among seniors, health promotion initiatives that focus solely on the availability and distribution of the technology would not be sufficient to elicit the sustained and desired impact.
 
-Findings from this study will contribute to Singapore’s ongoing efforts to adapt and build resilience to climate change challenges.
+The proposed study's primary contributions are twofold: 1) it provides a theory-based approach to designing an IoT application that fosters sustained usage of smart health IoT systems for self-guided health management among seniors, considering both technological (i.e., application design) and individual (i.e., psychological
+reactance) factors; and 2) ultimately aims to reduce the necessity for repetitive and costly human interventions in motivating and sustaining self-guided health management among seniors.
