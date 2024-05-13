@@ -5,6 +5,7 @@ date: 2016-05-06
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 |  |  |
 |---|---|
@@ -13,7 +14,7 @@ image: ""
 | **Project Status** | Completed |
 | **Year Awarded** | 2016 |
 | **Type of Grant** | Social Science Research Thematic Grant |
-|
+|**Funding Type** | A |
 
 In Singapore’s ethnically diverse community, promoting intergroup harmony is essential.&nbsp;As racial biases are known to be firmly entrenched and resistant to change once we enter adulthood, it is crucial to understand the nature and early development of such biases in order to develop early prevention and intervention strategies.&nbsp; The project aims to investigate the development of race preferences in Singaporean children with the goal of gaining knowledge about the major contributors to pro-in-group behaviour during childhood, as well as key insights about the relationship between identity development and social attitude formation.&nbsp;&nbsp;
 
