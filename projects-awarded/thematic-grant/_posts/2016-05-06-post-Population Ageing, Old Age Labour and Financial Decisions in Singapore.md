@@ -5,6 +5,7 @@ date: 2016-05-06
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 |  |  |
 |---|---|
@@ -13,7 +14,7 @@ image: ""
 | **Project Status** | Completed |
 | **Year Awarded** | 2016 |
 | **Type of Grant** | Social Science Research Thematic Grant |
-|
+|**Funding Type** | A |
 
 Singapore’s population is ageing as a result of increased life expectancy and declining fertility. Similar to other developed countries. Singapore’s labour force participation rate of elderly men declined slightly in the 1980s and 1990s.&nbsp;Whether or not Singapore can successfully overcome these challenges would, in part, depend on an understanding of household financial decisions concerning retirement.&nbsp;&nbsp;
 
