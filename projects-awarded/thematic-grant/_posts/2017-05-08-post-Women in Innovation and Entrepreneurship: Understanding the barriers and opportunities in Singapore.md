@@ -6,6 +6,7 @@ date: 2017-05-08
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 |  |  |
 |---|---|
@@ -14,7 +15,7 @@ image: ""
 | **Project Status** | Completed |
 | **Year Awarded** | 2017 |
 | **Type of Grant** | Social Science Research Thematic Grant |
-|
+||**Funding Type** | A |
 
 Under-representation of women in sectors where innovation and creativity are highly valued is evident in Singapore. This project seeks to understand women’s performance and under-representation in such sectors by focusing on the intra- and inter-personal behaviours and dynamics of women innovators and entrepreneurs in Singapore and aims to develop interventions to resolve these barriers.
 
