@@ -5,6 +5,7 @@ date: 2016-05-06
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 |  |  |
 |---|---|
@@ -13,7 +14,7 @@ image: ""
 | **Project Status** | Completed |
 | **Year Awarded** | 2016 |
 | **Type of Grant** | Social Science Research Thematic Grant |
-|
+|**Funding Type** | A |
 
 As turmoil and conflict become increasingly common, harmony has become absent in the general mindset of societies. In light of this vacuum in both philosophical and public discourse, this project aims to develop a theory of harmony that encompasses social, political, environmental, and philosophical dimensions, and which is rooted in the various rich cultural traditions of the world.&nbsp;
 
