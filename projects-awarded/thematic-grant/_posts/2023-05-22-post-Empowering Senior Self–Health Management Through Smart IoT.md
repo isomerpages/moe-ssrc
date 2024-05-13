@@ -9,7 +9,7 @@ variant: markdown
 ---
 |  |  |
 |---|---|
-| **Name of Recipent** | **Associate Professor Kang Hyunjin**<br>_Wee Kim Wee School of Communication, Nanyang Technological University of Singapore_|
+| **Name of Recipent** | **Associate Professor Kang Hyunjin**<br>_Wee Kim Wee School of Communication, Nanyang Technological University_|
 | **Project Title** | Empowering Senior Self–Health Management Through Smart IoT |
 | **Project Status** | Ongoing |
 | **Year Awarded** | 2023 |
