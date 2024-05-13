@@ -10,22 +10,15 @@ variant: markdown
 |  |  |
 |---|---|
 | **Name of Recipent** | **Assistant Professor Deng Liuchun**<br>_Assistant Professor of Economics, Yale-NUS College_ |
-| **Project Title** | Sustainable Governance of Transboundary Environmental Commons in Southeast Asia |
-| **Project Status** | Completed |
-| **Year Awarded** | 2016 |
+| **Project Title** | Cross Border Data Sharing: An ASEAN Perspective |
+| **Project Status** | Ongoing |
+| **Year Awarded** | 2023 |
 | **Type of Grant** | Social Science Research Thematic Grant |
+| **Funding Type** | A |
 |
 
-As a small, island city-state, Singapore is economically, environmentally, and politically interconnected, with regional neighbours in Southeast Asia.&nbsp; The resilience and reliability of these interconnections have facilitated economic growth, regional stability, and cordial diplomatic relations. However, development benefits in the region have not come without costs; rising living standards are associated with increasing rates of resource extraction, reduced environmental quality, and impoverishment of biodiversity that have negative ramifications for exposed population groups.&nbsp;
+With the advancement of data-intensive technologies (AI in particular), cross-border data flows have become an increasingly important topic in the international policy arena and its importance has been recognized by policymakers in Singapore. The future of the global economy is likely to be shaped by the interplay of globalization and localization of data, and therefore, the cross-border data flows call for a systematic investigation.
 
-In light of the above challenges, this project seeks to:&nbsp;
+This project proposes to study the global structure of cross-border data flows, and theoretically and empirically study the international data coalitions (country clubs in which data can freely flow across borders) and the pattern of cross-border data flows. To clarify the nature of international data coalitions, the project will build a game-theoretic model to formally study how different regimes of data governance can arise and interact. 
 
-*   First, identify the drivers and impacts associated with two major transboundary environmental challenges impacting land, water, and atmosphere in Southeast Asia i.e. biomass burning and haze, and hydropower development and water resources;&nbsp;
-    
-
-*   Second, to examine these transboundary challenges in the context of governance of transboundary environmental commons, or common pool resources, within the Association of Southeast Asian Nations (ASEAN), as well as the identification of relevant best practices worldwide; and
-    
-
-*   Third, to develop the concept of transboundary environmental commons within ASEAN.&nbsp;&nbsp;
-
-The project also aims to contribute to environmental sustainability within ASEAN, as well as provide an evidence-based foundation for policy-making and implementation at both national and ASEAN levels that enhances Singapore’s reputation as a responsible neighbour and a leader in sustainability sciences.
+Due to the scarcity of data, there is no model-based quantitative analysis of cross-border data flows. This project plans to confront this data challenge and obtain both direct and indirect measures (proxies) of cross-border data flows. Using the country-level data, the team will then develop and apply a tractable framework to quantitatively examine the correlates and potential determinants of cross-border data flows.
