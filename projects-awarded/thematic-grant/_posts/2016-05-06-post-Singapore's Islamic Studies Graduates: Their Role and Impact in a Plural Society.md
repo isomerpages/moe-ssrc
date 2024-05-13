@@ -6,6 +6,7 @@ date: 2016-05-06
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 |  |  |
 |---|---|
@@ -14,7 +15,7 @@ image: ""
 | **Project Status** | Completed |
 | **Year Awarded** | 2016 |
 | **Type of Grant** | Social Science Research Thematic Grant |
-|
+|**Funding Type** | A |
 
 The project seeks to understand the roles played by Islamic studies graduates who have pursued higher religious education locally and abroad, in shaping religious orientations, beliefs, practices, and religious discourse within the local Muslim community; as well as the extent to which they serve as cultural brokers in contextualising religious teachings that facilitate the community’s adjustment to and integration with Singapore’s multi-ethnic, multi-religious society.&nbsp;&nbsp;
 
