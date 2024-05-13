@@ -5,6 +5,7 @@ date: 2019-04-18
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 |  |  |
 |---|---|
@@ -13,6 +14,6 @@ image: ""
 | **Project Status** | Ongoing |
 | **Year Awarded** | 2019 |
 | **Type of Grant** | Social Science Research Thematic Grant |
-|
+|**Funding Type** | A |
 
 This project seeks to investigate early literacy among young Chinese readers in Singapore and aims to (a) develop ways to identify poor readers at an early age to allow for intervention; and (b) develop and evaluate support programs for these readers through a series of cross-sectional and longitudinal experiments.
