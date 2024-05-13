@@ -6,6 +6,7 @@ date: 2016-05-06
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 |  |  |
 |---|---|
@@ -14,7 +15,7 @@ image: ""
 | **Project Status** | Completed |
 | **Year Awarded** | 2016 |
 | **Type of Grant** | Social Science Research Thematic Grant |
-|
+|**Funding Type** | A |
 
 The project seeks to understand the growth of Christianity in Southeast Asia, specifically, Indonesia, Malaysia, Philippines, Singapore, and Vietnam, and its impact on these multi-cultural and multi-religious societies, as well as the role of religion in shaping political and public discourse. The study will be the first of its kind to involve a comprehensive survey of contemporary Christianity in Southeast Asia, and will also examine the transnational connections that have influenced the growth of Christian churches in each locality.&nbsp;
 
