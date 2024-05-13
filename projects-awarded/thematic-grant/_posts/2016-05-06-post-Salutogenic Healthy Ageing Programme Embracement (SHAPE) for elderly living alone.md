@@ -6,6 +6,7 @@ date: 2016-05-06
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 |  |  |
 |---|---|
@@ -14,7 +15,7 @@ image: ""
 | **Project Status** | Completed |
 | **Year Awarded** | 2016 |
 | **Type of Grant** | Social Science Research Thematic Grant |
-|
+|**Funding Type** | A |
 
 In view of Singapore’s ageing population and its significant impact on health resources and social safety nets, this project seeks to&nbsp; develop and evaluate an evidence-based intervention to achieve better health outcomes and quality of life for elderly living alone, through healthy ageing.&nbsp;Such a programme could reduce healthcare costs in the long run, given that dependent elderly place a large financial burden on healthcare services and society at large.&nbsp;Hence, this study has the potential to benefit the elderly by improving support services, as well as informing eldercare policies on healthy ageing.
 
