@@ -5,6 +5,7 @@ date: 2016-05-06
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 |  |  |
 |---|---|
@@ -13,7 +14,7 @@ image: ""
 | **Project Status** | Completed |
 | **Year Awarded** | 2016 |
 | **Grant** | Social Science Research Thematic Grant |
-|
+|**Funding Type** | B |
 
 SPIRE (Service Productivity and Innovation Research) responds to the national productivity challenge, particularly in service industries. The inter-disciplinary project draws scholars with diverse expertise, including data analytics, optimisation, stochastic modelling, applied microeconomics, and behavioural science.&nbsp;
 

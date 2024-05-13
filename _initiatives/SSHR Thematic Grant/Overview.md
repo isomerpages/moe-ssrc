@@ -3,11 +3,10 @@ title: Overview
 permalink: /initiatives/social-science-research/overview/
 description: ""
 third_nav_title: SSHR Thematic Grant
+variant: markdown
 ---
-### **Social Science Research Thematic Grant**
-The Social Science Research Thematic Grant (SSRTG) is the first major initiative by the Social Science Research Council (SSRC) aimed at boosting research in areas of strategic relevance to Singapore and Asia.  
-  
-Launched in May 2016, SSRTG is also the first major grant dedicated to supporting social science and humanities research in Singapore. For a start, the Ministry of Education (MOE) has set aside S$50m for the SSRTG from 2016 to 2020.  
+### **Social Science &amp; Humanities Research Thematic Grant**
+The Social Science &amp; Humanities Research Thematic Grant (SSHR-TG) is the first major initiative launched in 2016 by the Social Science Research Council (SSRC) aimed at boosting SSH research in areas of strategic relevance to Singapore and Asia.  
   
 Three tiers of funding are available:
 

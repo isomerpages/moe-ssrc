@@ -5,6 +5,7 @@ date: 2016-05-06
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 |  |  |
 |---|---|
@@ -13,7 +14,7 @@ image: ""
 | **Project Status** | Completed |
 | **Year Awarded** | 2016 |
 | **Type of Grant** | Social Science Research Thematic Grant |
-|
+|**Funding Type** | B |
 
 As a small, island city-state, Singapore is economically, environmentally, and politically interconnected, with regional neighbours in Southeast Asia.&nbsp; The resilience and reliability of these interconnections have facilitated economic growth, regional stability, and cordial diplomatic relations. However, development benefits in the region have not come without costs; rising living standards are associated with increasing rates of resource extraction, reduced environmental quality, and impoverishment of biodiversity that have negative ramifications for exposed population groups.&nbsp;
 

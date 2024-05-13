@@ -5,6 +5,7 @@ date: 2019-04-18
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 |  |  |
 |---|---|
@@ -13,7 +14,7 @@ image: ""
 | **Project Status** | Ongoing |
 | **Year Awarded** | 2019 |
 | **Type of Grant** | Social Science Research Thematic Grant |
-|
+|**Funding Type** | B |
 
 Strong social networks can reduce social isolation and enhance the well-being of older adults. Urban design, housing policy and eldercare programmes promote the creation of such social networks for “ageing-in-place”. However, this idea of ‘ageing in place’ can be limiting because older adults’ social networks are neither restricted to their own neighbourhoods nor to their family and neighbours. Other friendships and work relationships are also an important part of older adults’ social networks.  
   

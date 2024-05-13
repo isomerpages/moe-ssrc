@@ -5,6 +5,7 @@ date: 2020-06-08
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 |  |  |
 |---|---|
@@ -13,7 +14,7 @@ image: ""
 | **Project Status** | Ongoing |
 | **Year Awarded** | 2020 |
 | **Type of Grant** | Social Science Research Thematic Grant |
-|
+|**Funding Type** | A |
 
 Along with the rest of the world, Singapore’s COVID-19 circuit breaker response included a clear and quick adoption of work-from-home.&nbsp;Suddenly, societies world-wide were confronted with unforeseen challenges and unexpected silver linings. In Singapore, home-based work (HBW) presents specific challenges particular to the high-density, high-rise environment that accounts for the majority of housing. Our city planning makes clear demarcations between spaces designed and zoned for work and those designed and zoned for living, where houses and housing estates have always been designed for unpaid home life, and not paid work.
 

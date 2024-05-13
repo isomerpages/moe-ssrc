@@ -5,6 +5,7 @@ date: 2019-04-18
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 |  |  |
 |---|---|
@@ -13,7 +14,7 @@ image: ""
 | **Project Status** | Ongoing |
 | **Year Awarded** | 2019 |
 | **Type of Grant** | Social Science Research Thematic Grant |
-|
+|**Funding Type** | A |
 
 Cognition and language are intimately connected. How dementia is manifested in language is a matter of intense research around the world by neuropsychologists, linguists and more recently, by specialists in artificial intelligence who comb through language data for telltale signs of cognitive impairment. Formulaic expressions, word recall, propositional density are among the linguistic features that have been investigated in relation to cognitive impairment.
 

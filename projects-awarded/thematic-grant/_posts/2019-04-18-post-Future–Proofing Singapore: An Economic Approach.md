@@ -14,7 +14,7 @@ variant: markdown
 | **Project Status** | Completed |
 | **Year Awarded** | 2019 |
 | **Type of Grant** | Social Science Research Thematic Grant |
-|
+|**Funding Type** | A |
 
 The project aims to use an economic approach to evaluate impacts of up-to-date policies on welfare, mobility, and consumption. It looks into the effectiveness of the Silver Support Scheme, the impact of housing policy on intergenerational mobility, the effect of fiscal policy on private consumption, as well as the impact of COVID-19 on small &amp; medium-sized enterprises and general population. The project proposes a new longitudinal survey to collect data on residents’ consumption and money management behaviours.
 

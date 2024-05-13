@@ -14,7 +14,7 @@ variant: markdown
 | **Project Status** | Completed |
 | **Year Awarded** | 2018 |
 | **Type of Grant** | Social Science Research Thematic Grant |
-|
+|**Funding Type** | B |
 
 New vulnerabilities are being created by the new disrupted economy. This project seeks to gain new insights on the kinds of “in-work” poverty (i.e experiencing poverty while being employed) that the working class are experiencing. It will focus on the challenges faced by less educated young workers (aged between 21 and 40) and their efforts at advancement, an area that has received less attention.&nbsp;&nbsp;
 

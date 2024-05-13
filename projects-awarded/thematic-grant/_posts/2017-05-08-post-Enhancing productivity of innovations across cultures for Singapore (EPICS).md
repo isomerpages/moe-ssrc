@@ -5,6 +5,7 @@ date: 2017-05-08
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 |  |  |
 |---|---|
@@ -13,7 +14,7 @@ image: ""
 | **Project Status** | Completed |
 | **Year Awarded** | 2017 |
 | **Type of Grant** | Social Science Research Thematic Grant |
-|
+|**Funding Type** | B |
 
 Innovation is key to remain competitive in a fast-changing economy. To develop innovations and harness them effectively in the market, there is a need to understand how a national culture influences innovation processes at various levels such as national markets, companies’ strategies, innovation teams, and among individuals.&nbsp;
 

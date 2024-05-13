@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/SSRC website.png
       key_highlights:
-        - title: Social Science Research Thematic Grant
+        - title: Social Science & Humanities Research Thematic Grant
           description: ""
           url: /initiatives/social-science-research/overview/
         - title: Social Science & Humanities Research Fellowship
@@ -18,9 +18,16 @@ sections:
         - title: Social Science Research Council Graduate Research Fellowship
           description: ""
           url: initiatives/SSRC-graduate-research/overview/
-      title: Results of the 2023 Graduate Research Fellowship
+      title: Launch of the 2024 SSHR-Thematic Grant Call
       button: find out more
-      url: /grant-recipients/2023/grf2023/
+      url: news-archive/2024/update13/
+  - infopic:
+      title: Results of the 2023 SSRTG Call
+      subtitle: Announcements
+      button: Click here
+      url: grant-recipients/2023/ssrtg2023/
+      image: /images/updates1.jpg
+      alt: Closing of the 2023 SSRTG Call
   - infopic:
       title: Launch of the Ideas Festival 2024
       subtitle: Announcements
@@ -28,13 +35,6 @@ sections:
       url: https://www.ideasfestival.edu.sg/ideas-festival-launch/
       image: /images/Launch_Event.jpg
       alt: Ideas Fest
-  - infopic:
-      title: Results of the 2022 SSHR Fellowship
-      subtitle: Announcements
-      button: Click here
-      url: grant-recipients/2022/sshrf2022/
-      image: /images/updates1.jpg
-      alt: Closing of the 2023 SSRTG Call
   - resources:
       title: Curious about the SSRC's latest projects?
       subtitle: projects awarded

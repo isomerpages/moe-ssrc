@@ -5,6 +5,7 @@ date: 2021-05-24
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 |  |  |
 |---|---|
@@ -13,7 +14,7 @@ image: ""
 | **Project Status** | Ongoing |
 | **Year Awarded** | 2021 |
 | **Type of Grant** | Social Science Research Thematic Grant |
-|
+|**Funding Type** | B |
 
 The research aims to identify the assemblages of institutions, practices and instruments required to ensure the effective and inclusive governance of Nature-based Carbon Sinks (NCS) in Southeast Asia.&nbsp; This would help to fully realise the potential of NCS in supplying climate mitigation, and its associated co-benefits without undermining key sustainable development goals.
 

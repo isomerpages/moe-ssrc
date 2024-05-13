@@ -4,6 +4,15 @@ permalink: /news-and-events/latest-updates/permalink/
 description: ""
 variant: markdown
 ---
+<p><a href="https://www.ssrc.edu.sg/news-and-events/latest-updates/update9/"><img src="/images/updates1.jpg" style="width:40%;margin-left:15px;" align="right"></a></p>
+
+13 May 2024<br>
+**[Launch of the 2024 SSHR-TG Call](https://www.ssrc.edu.sg/news-archive/2024/update13/)**
+
+<br clear="left"><br clear="left">
+
+-----------------------------------------------------------
+
 <p><a href="https://www.ssrc.edu.sg/news-and-events/latest-updates/update9/"><img src="/images/updates5.jpg" style="width:40%;margin-left:15px;" align="right"></a></p>
 
 27 March 2024<br>

@@ -6,6 +6,7 @@ date: 2017-05-08
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 |  |  |
 |---|---|
@@ -14,7 +15,7 @@ image: ""
 | **Project Status** | Completed |
 | **Year Awarded** | 2017 |
 | **Type of Grant** | Social Science Research Thematic Grant |
-|
+|**Funding Type** | B |
 
 In the face of rapid digital advancement, there is a need to understand how technology is transforming work and industries, and how governments and businesses tackle this disruption.
 

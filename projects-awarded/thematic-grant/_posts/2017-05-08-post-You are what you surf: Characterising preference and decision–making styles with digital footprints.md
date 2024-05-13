@@ -6,6 +6,7 @@ date: 2017-05-08
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 |  |  |
 |---|---|
@@ -14,7 +15,7 @@ image: ""
 | **Project Status** | Completed |
 | **Year Awarded** | 2017 |
 | **Type of Grant** | Social Science Research Thematic Grant |
-|
+|**Funding Type** | A |
 
 Social media’s tremendous growth has resulted in the availability of digital data which can provide meaningful insights to social media users’ preferences and decision making styles.&nbsp;
 

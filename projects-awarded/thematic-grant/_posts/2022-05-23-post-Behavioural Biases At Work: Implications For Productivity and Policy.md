@@ -5,6 +5,7 @@ date: 2022-05-23
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 |  |  |
 |---|---|
@@ -13,7 +14,7 @@ image: ""
 | **Project Status** | Ongoing |
 | **Year Awarded** | 2022 |
 | **Type of Grant** | Social Science Research Thematic Grant |
-|
+|**Funding Type** | B |
 
 This project aims to examine the effects of behavioural biases on decision-making in the workplace, in the contexts of food manufacturing and personal transportation industries.
 

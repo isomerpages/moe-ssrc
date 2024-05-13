@@ -2,6 +2,8 @@ collections:
   news-archive:
     output: true
     order:
+      - 2024/Launch of the 2024 SSHR–TG Call.md
+      - 2024/.keep
       - 2023/Results of the 2022 SSHRF Call.md
       - 2023/Launch of the 2023 SSRTG Call.md
       - "2023/Insights from the Inside 2: A Historian's History.md"

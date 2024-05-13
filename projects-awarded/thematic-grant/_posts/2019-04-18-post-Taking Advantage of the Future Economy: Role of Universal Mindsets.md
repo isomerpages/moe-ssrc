@@ -5,6 +5,7 @@ date: 2019-04-18
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 |  |  |
 |---|---|
@@ -13,7 +14,7 @@ image: ""
 | **Project Status** | Closed |
 | **Year Awarded** | 2019 |
 | **Type of Grant** | Social Science Research Thematic Grant |
-|
+|**Funding Type** | A |
 
 The future economy is characterized by an increased use of new technologies that keep changing over time given a rapid pace of innovation hence a workforce that is ready to learn new skills and innovate as the situation demands is needed to keep up with these constant changes.
 

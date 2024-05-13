@@ -5,6 +5,7 @@ date: 2020-06-08
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 |  |  |
 |---|---|
@@ -13,7 +14,7 @@ image: ""
 | **Project Status** | Ongoing |
 | **Year Awarded** | 2020 |
 | **Type of Grant** | Social Science Research Thematic Grant |
-|
+|**Funding Type** | A |
 
 COVID-19 and the associated “Circuit Breaker” represent forms of adversity. Unfortunately, adversity predicts caregiving practices, which, in turn, affect children’s social relationships, psychological well-being, and school performance. Still, although such “big picture” associations are well-documented, in normal circumstances, it is hard to identify responses to specific and newly-encountered adversity because stressors are usually chronic and interrelated.
 
