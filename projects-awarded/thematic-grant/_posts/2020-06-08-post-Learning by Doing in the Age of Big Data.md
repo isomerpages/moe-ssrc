@@ -5,6 +5,7 @@ date: 2020-06-08
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 |  |  |
 |---|---|
@@ -13,7 +14,7 @@ image: ""
 | **Project Status** | Ongoing |
 | **Year Awarded** | 2020 |
 | **Type of Grant** | Social Science Research Thematic Grant |
-|
+|**Funding Type** | A |
 
 "“Learning by doing” (LBD) is the phenomenon where a worker’s productivity rises with cumulative production experience. As LBD requires no additional investment in hiring or equipment investment, it is viewed by many as an important channel for firms to achieve productivity growth. Unfortunately, although conceptually simple and intuitive, the sources and enablers of LBD remain a mystery; as a result, even when a firm intends to facilitate LBD among its employees, it is not clear how to effectively achieve it. This challenge originates from the difficulty in quantifying and isolating the effects of LBD, and even in a few instances where the measurement of LBD effects (in terms of productivity) is made possible by natural events, these measurements are typically only at the aggregate level.
 
