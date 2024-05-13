@@ -5,6 +5,7 @@ date: 2018-05-21
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 |  |  |
 |---|---|
@@ -13,7 +14,7 @@ image: ""
 | **Project Status** | Completed |
 | **Year Awarded** | 2018 |
 | **Type of Grant** | Social Science Research Thematic Grant |
-|
+|**Funding Type** | A |
 
 Historic maps offer a unique insight into the past, both for scholars and the general public. Such maps are much more than a representation of the earth’s surface. They also tell us about the priorities of those making and using the maps. Historic maps offer both a cartographic record of a place in time, as well as an insight into social, political, and economic assertions being made about that place. This is especially so with the early maritime trade and colonial maps of Southeast Asia, which delineate routes, resources, and settlements.&nbsp;&nbsp;
 
