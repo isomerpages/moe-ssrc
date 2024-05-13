@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/SSRC website.png
       key_highlights:
-        - title: Social Science Research Thematic Grant
+        - title: Social Science & Humanities Research Thematic Grant
           description: ""
           url: /initiatives/social-science-research/overview/
         - title: Social Science & Humanities Research Fellowship
