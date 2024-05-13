@@ -5,6 +5,7 @@ date: 2017-05-08
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 |  |  |
 |---|---|
@@ -13,7 +14,7 @@ image: ""
 | **Project Status** | Completed |
 | **Year Awarded** | 2017 |
 | **Type of Grant** | Social Science Research Thematic Grant |
-|
+|**Funding Type** | A |
 
 Health research requires a large amount of individual data to produce significant results. Translating the results into effective health interventions requires the data and analysis to be shared to accelerate innovation and avoid duplicative work. Hence, a sound governance structure for data sharing is needed to protect data providers and promote public trust.&nbsp;
 
