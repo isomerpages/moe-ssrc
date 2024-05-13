@@ -5,6 +5,7 @@ date: 2017-05-08
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 |  |  |
 |---|---|
@@ -13,7 +14,7 @@ image: ""
 | **Project Status** | Completed |
 | **Year Awarded** | 2017 |
 | **Type of Grant** | Social Science Research Thematic Grant |
-|
+|**Funding Type** | B |
 
 Rapid technological change in today’s digital world makes it necessary for Singapore firms to leverage emerging digital-enabled technologies to remain competitive and capture new markets.
 
