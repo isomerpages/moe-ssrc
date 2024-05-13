@@ -5,6 +5,7 @@ date: 2016-05-06
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 |  |  |
 |---|---|
@@ -13,7 +14,7 @@ image: ""
 | **Project Status** | Completed |
 | **Year Awarded** | 2016 |
 | **Type of Grant** | Social Science Research Thematic Grant |
-|
+|**Funding Type** | A |
 
 The project is the first academic longitudinal study on how multi-stressed low-income families in Singapore adapt to extreme financial constraints. While studies conducted by economists typically underscore the risks of poverty to the families and the potential danger of social instability if income divide remains unchecked, this study adopts an innovative approach to studying low-income families by looking not merely at the risks of poverty, but the strengths of their adaptive behaviour as well.
 
