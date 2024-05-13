@@ -16,6 +16,4 @@ variant: markdown
 | **Type of Grant** | Social Science Research Thematic Grant |
 | **Funding Type** | B |
 
-The study aims to explore time poverty and its associated mental health impacts in Singaporean women with children aged 0 - 7 years.  
-
-The study will provide new insights to support women's development initiatives and improved mental well-being and family policies in Singapore.
+This project aims to fill important gaps in the bioethics, social science and science policy literature with an innovative design that integrates established empirical and theoretical methodologies to develop a Singapore-specific process for co-designing practical solutions to the ethical and societal challenges of new technologies.
