@@ -29,10 +29,10 @@ sections:
       image: /images/Launch_Event.jpg
       alt: Ideas Fest
   - infopic:
-      title: Results of the 2023 Graduate Research Fellowship
+      title: Results of the 2023 SSRTG Call
       subtitle: Announcements
       button: Click here
-      url: grant-recipients/2023/grf2023/
+      url: grant-recipients/2023/ssrtg2023/
       image: /images/updates1.jpg
       alt: Closing of the 2023 SSRTG Call
   - resources:
