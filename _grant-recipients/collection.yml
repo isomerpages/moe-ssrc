@@ -2,7 +2,6 @@ collections:
   grant-recipients:
     output: true
     order:
-      - SSHR TG Awardees/Example Title.md
       - SSHR TG Awardees/2023 Call.md
       - SSHR TG Awardees/2022 Call.md
       - SSHR TG Awardees/.keep
