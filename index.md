@@ -18,9 +18,17 @@ sections:
         - title: Social Science Research Council Graduate Research Fellowship
           description: ""
           url: initiatives/SSRC-graduate-research/overview/
-      title: Launch of the 2024 SSHR-Thematic Grant Call
+      title: Launch of the 2024 Graduate Research Fellowship Call
       button: find out more
-      url: news-archive/2024/update13/
+      url: initiatives/ssrc-graduate-research/timeline/
+  - infopic:
+      title: Launch of the 2024 Graduate Research Fellowship Call
+      subtitle: Announcements
+      id: infopic
+      button: CLICK HERE
+      url: initiatives/ssrc-graduate-research/timeline/
+      image: /images/updates7.jpg
+      alt: Image alt text
   - infopic:
       title: Results of the 2023 SSRTG Call
       subtitle: Announcements
@@ -28,13 +36,6 @@ sections:
       url: grant-recipients/2023/ssrtg2023/
       image: /images/updates1.jpg
       alt: Closing of the 2023 SSRTG Call
-  - infopic:
-      title: Launch of the Ideas Festival 2024
-      subtitle: Announcements
-      button: Find out more
-      url: https://www.ideasfestival.edu.sg/ideas-festival-launch/
-      image: /images/Launch_Event.jpg
-      alt: Ideas Fest
   - resources:
       title: Curious about the SSRC's latest projects?
       subtitle: projects awarded
