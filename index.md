@@ -22,6 +22,14 @@ sections:
       button: find out more
       url: news-archive/2024/update13/
   - infopic:
+      title: Launch of the 2024 Graduate Research Fellowship Call
+      subtitle: Announcements
+      id: infopic
+      button: CLICK HERE
+      url: https://www.ssrc.edu.sg/initiatives/ssrc-graduate-research/timeline/
+      image: /images/updates7.jpg
+      alt: Image alt text
+  - infopic:
       title: Results of the 2023 SSRTG Call
       subtitle: Announcements
       button: Click here
