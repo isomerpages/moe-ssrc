@@ -26,7 +26,7 @@ sections:
       subtitle: Announcements
       id: infopic
       button: CLICK HERE
-      url: https://www.ssrc.edu.sg/initiatives/ssrc-graduate-research/timeline/
+      url: initiatives/ssrc-graduate-research/timeline/
       image: /images/updates7.jpg
       alt: Image alt text
   - infopic:
