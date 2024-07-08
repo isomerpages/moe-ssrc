@@ -40,7 +40,7 @@ the webpages listed below.</p>
 <p>National University of Singapore</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://nus.edu.sg/research/research-management/funding-opportunities/ssrc-grf" rel="noopener noreferrer nofollow" target="_blank">https://nus.edu.sg/research/research-management/funding-opportunities/ssrc-grf</a>
+<p><em>(to be updated)</em>
 </p>
 </td>
 </tr>
