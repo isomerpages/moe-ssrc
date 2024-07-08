@@ -22,3 +22,8 @@ an opportunity to be mentored by an experienced researcher in the local
 Autonomous Universities (AUs). This will broaden the potential pipeline
 of Singaporean researchers who may eventually take up appointments within
 the local research ecosystem.</p>
+<p><a href="/files/SSRC_GRF_Infosheet__2024_.pdf" rel="noopener noreferrer nofollow" target="_blank">SSRC GRF Infosheet</a>
+</p>
+<p><a href="/files/SSRC_GRF_Non_Fundable_Items__2024_.pdf" rel="noopener noreferrer nofollow" target="_blank">SSRC GRF Non-Fundable Items</a>
+</p>
+<p></p>
