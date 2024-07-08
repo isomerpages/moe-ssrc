@@ -26,8 +26,7 @@ seminars) within the AU and with SSRC members; and</p>
 host AU.</p>
 </li>
 </ol>
-<p><sup>1</sup><em>The participating AUs are Nanyang Technological University, National University of Singapore, Singapore Management University and Singapore University of Technology &amp; Design.</em>
-</p>
+<p></p>
 <ol start="2" data-tight="true" class="tight">
 <li>
 <p>The SSRC GRF is bond-free, and host AUs are not obliged to hire GRF awardees
@@ -59,4 +58,6 @@ are not obtained, withdrawn or suspended.</p>
 AU at any point in time.</p>
 </li>
 </ol>
+<p><sup>1</sup><em>The participating AUs are Nanyang Technological University, National University of Singapore, Singapore Management University and Singapore University of Technology &amp; Design.</em>
+</p>
 <p></p>
