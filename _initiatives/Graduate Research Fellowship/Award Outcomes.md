@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Graduate Research Fellowship
 ---
-<h1>Social Science Research Council Graduate Research Fellowship</h1>
+<h3>Social Science Research Council Graduate Research Fellowship</h3>
 <ol data-tight="true" class="tight">
 <li>
 <p>SSRC GRF applicants in the last year of their PhD programme may be offered
