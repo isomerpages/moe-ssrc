@@ -40,7 +40,7 @@ the webpages listed below.</p>
 <p>National University of Singapore</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>(to be updated)</em>
+<p><em>(To be updated)</em>
 </p>
 </td>
 </tr>
