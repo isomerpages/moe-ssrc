@@ -36,13 +36,6 @@ sections:
       url: grant-recipients/2023/ssrtg2023/
       image: /images/updates1.jpg
       alt: Closing of the 2023 SSRTG Call
-  - infopic:
-      title: Launch of the Ideas Festival 2024
-      subtitle: Announcements
-      button: Find out more
-      url: https://www.ideasfestival.edu.sg/ideas-festival-launch/
-      image: /images/Launch_Event.jpg
-      alt: Ideas Fest
   - resources:
       title: Curious about the SSRC's latest projects?
       subtitle: projects awarded
