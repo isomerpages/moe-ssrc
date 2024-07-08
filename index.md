@@ -18,9 +18,9 @@ sections:
         - title: Social Science Research Council Graduate Research Fellowship
           description: ""
           url: initiatives/SSRC-graduate-research/overview/
-      title: Launch of the 2024 SSHR-Thematic Grant Call
+      title: Launch of the 2024 Graduate Research Fellowship Call
       button: find out more
-      url: news-archive/2024/update13/
+      url: initiatives/ssrc-graduate-research/timeline/
   - infopic:
       title: Launch of the 2024 Graduate Research Fellowship Call
       subtitle: Announcements
