@@ -58,7 +58,7 @@ the webpages listed below.</p>
 <p>Singapore Management University</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.smu.edu.sg/call-proposals-july-2023" rel="noopener noreferrer nofollow" target="_blank">https://www.smu.edu.sg/call-proposals-july-2023</a>
+<p><a href="https://www.smu.edu.sg/call-proposals-july-2024" rel="noopener noreferrer nofollow" target="_blank">https://www.smu.edu.sg/call-proposals-july-2024</a>
 </p>
 </td>
 </tr>
