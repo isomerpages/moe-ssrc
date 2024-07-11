@@ -40,7 +40,7 @@ the webpages listed below.</p>
 <p>National University of Singapore</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://nus.infoready4.com/#bulletinboardDetail/1798992</a>
+<p><a href="https://nus.infoready4.com/#bulletinboardDetail/1798992" rel="noopener noreferrer nofollow" target="_blank">https://nus.infoready4.com/#bulletinboardDetail/1798992</a>
 </p>
 </td>
 </tr>
