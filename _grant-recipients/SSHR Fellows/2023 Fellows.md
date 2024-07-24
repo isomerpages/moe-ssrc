@@ -17,4 +17,4 @@ Two fellowships were awarded during the 2023 Social Science & Humanities Researc
 
 The Social Science Research Council (SSRC) received a total of five nominations from the universities in 2023, and decided to award two fellowships based on the nominee’s career track record and potential for academic leadership. The awardees’ research programmes were also grounded in issues of strategic and policy relevance to Singapore.
 
-The 2024 SSHRF Call for nominations will in October 2024 and close in January 2025.
+The 2024 SSHRF Call for nominations will open in October 2024 and close in January 2025.
