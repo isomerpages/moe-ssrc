@@ -22,6 +22,12 @@ sections:
       button: find out more
       url: initiatives/ssrc-graduate-research/timeline/
   - infopic:
+      title: Results of the 2023 SSHRF Call
+      subtitle: Announcements
+      button: Click here
+      url: 2023-fellows/
+      image: /images/updates1.jpg
+  - infopic:
       title: Launch of the 2024 Graduate Research Fellowship Call
       subtitle: Announcements
       id: infopic
@@ -29,13 +35,6 @@ sections:
       url: initiatives/ssrc-graduate-research/timeline/
       image: /images/updates7.jpg
       alt: Image alt text
-  - infopic:
-      title: Results of the 2023 SSRTG Call
-      subtitle: Announcements
-      button: Click here
-      url: grant-recipients/2023/ssrtg2023/
-      image: /images/updates1.jpg
-      alt: Closing of the 2023 SSRTG Call
   - resources:
       title: Curious about the SSRC's latest projects?
       subtitle: projects awarded
