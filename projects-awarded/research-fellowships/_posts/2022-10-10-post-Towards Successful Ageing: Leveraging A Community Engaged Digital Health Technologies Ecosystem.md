@@ -6,12 +6,13 @@ date: 2022-10-10
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 |  |  |
 |---|---|
 | **Name of Recipent** | **Assistant Professor Edmund Lee Wei Jian**<br>_Wee Kim Wee School of Communication and Information, Nanyang Technological University_ |
 | **Project Title** | Towards Successful Ageing: Leveraging A Community-Engaged Digital Health Technologies Ecosystem in Promoting Physical Activity and Well-Being Among Future and Current Seniors |
-| **Project Status** | Ongoing |
+| **Project Status** | Closed |
 | **Year Awarded** | 2022 |
 | **Type of Grant** | Social Science and Humanities Research Fellowship |
 |
