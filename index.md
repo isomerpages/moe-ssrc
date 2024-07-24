@@ -26,7 +26,7 @@ sections:
       subtitle: Announcements
       button: Click here
       url: /2023-fellows/
-      image: /images/updates1.jpg
+      image: /images/updates2.jpg
       alt: Result of the 2023 SSHRF Call
   - infopic:
       title: Launch of the 2024 Graduate Research Fellowship Call
