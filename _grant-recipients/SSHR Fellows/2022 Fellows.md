@@ -3,6 +3,7 @@ title: 2022 Fellows
 permalink: /grant-recipients/2022/sshrf2022/
 description: ""
 third_nav_title: SSHR Fellows
+variant: markdown
 ---
 #### **Results of the 2022 Social Science & Humanities Research Fellowship Call**
 ![](/images/updates2cropped.jpg)
@@ -17,5 +18,3 @@ Four fellowships were awarded during the 2022 Social Science & Humanities Resear
 | 4 |  Asst Prof Edmund Lee Wei Jian | NTU |*[Towards Successful Ageing: Leveraging A Community-Engaged Digital Health Technologies Ecosystem in Promoting Physical Activity and Well-Being Among Future and Current Seniors](https://www.ssrc.edu.sg/projects-awarded/research-fellowships/edmund2022)*|
 
 The Social Science Research Council (SSRC) received a total of seven nominations from the universities in 2022, and decided to award four fellowships based on the nominee’s career track record and potential for academic leadership. The awardees’ research programmes were also grounded in issues of strategic and policy relevance to Singapore.
-
-The 2023 SSHRF Call for nominations will [open](https://www.ssrc.edu.sg/initiatives/social-science-and-humanities/timeline/) on 9 October 2023 and close in January 2024.
