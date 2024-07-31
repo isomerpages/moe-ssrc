@@ -17,13 +17,12 @@ to Singapore and Asia.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Funding Tiers</p>
+<h4><strong>Funding Tiers</strong></h4>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><sup>There are three tiers of funding available:</sup>
-</p>
+<p>There are three tiers of funding available:</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -79,8 +78,7 @@ to Singapore and Asia.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Eligibility</strong>
-</p>
+<h4><strong>Eligibility</strong></h4>
 </td>
 </tr>
 <tr>
@@ -218,8 +216,7 @@ proposal and approved as part of the grant.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Evaluation Criteria</strong>
-</p>
+<h4><strong>Evaluation Criteria</strong></h4>
 </td>
 </tr>
 <tr>
@@ -318,7 +315,7 @@ proposal and approved as part of the grant.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Timeline</p>
+<h4>Timeline</h4>
 </th>
 </tr>
 <tr>
