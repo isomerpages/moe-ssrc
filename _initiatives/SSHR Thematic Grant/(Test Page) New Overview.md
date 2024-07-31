@@ -17,7 +17,7 @@ to Singapore and Asia.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<h4>Funding</h4>
+<h4>Funding Tiers</h4>
 </th>
 </tr>
 <tr>
