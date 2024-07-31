@@ -94,79 +94,98 @@ the eligible Host Institution, at time of application.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p>The eligible Host institutions are:</p>
+<p><sup>The eligible Host institutions are:</sup>
+</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1</p>
+<p><sup>1</sup>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National University of Singapore (NUS)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Nanyang Technological University (NTU)</p>
+<p><sup>National University of Singapore (NUS)</sup>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3</p>
+<p><sup>2</sup>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore Institute of Technology (SIT)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Singapore Management University (SMU)</p>
+<p><sup>Nanyang Technological University (NTU)</sup>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5</p>
+<p><sup>3</sup>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore University of Social Sciences (SUSS)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>6</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Singapore University of Technology and Design (SUTD)</p>
+<p><sup>Singapore Institute of Technology (SIT)</sup>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7</p>
+<p><sup>4</sup>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ISEAS-Yusof Ishak Institute (ISEAS)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>8</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Agency for Science, Technology and Research (A*STAR)</p>
+<p><sup>Singapore Management University (SMU)</sup>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>9</p>
+<p><sup>5</sup>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore-Eidgenössische Technische Hochschule Centre</p>
+<p><sup>Singapore University of Social Sciences (SUSS)</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><sup>6</sup>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><sup>Singapore University of Technology and Design (SUTD)</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><sup>7</sup>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><sup>ISEAS-Yusof Ishak Institute (ISEAS)</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><sup>8</sup>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><sup>Agency for Science, Technology and Research (A*STAR)</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><sup>9</sup>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><sup>Singapore-Eidgenössische Technische Hochschule Centre</sup>
+</p>
 </td>
 </tr>
 </tbody>
