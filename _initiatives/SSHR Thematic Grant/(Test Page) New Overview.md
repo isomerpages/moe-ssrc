@@ -232,8 +232,7 @@ proposal and approved as part of the grant.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p><sup>Submitted proposals will be evaluated based on the following criteria:</sup>
-</p>
+<p>Submitted proposals will be evaluated based on the following criteria:</p>
 </td>
 </tr>
 <tr>
@@ -324,11 +323,11 @@ proposal and approved as part of the grant.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><sup>The 2024 SSHR-TG Call was launched on 13 May 2024. All applications must be submitted through the respective Offices of Research (or equivalent) by 2 Aug 2024 at 5pm.</sup>
-</p>
+<p>The 2024 SSHR-TG Call was launched on 13 May 2024. All applications must
+be submitted through the respective Offices of Research (or equivalent)
+by 2 Aug 2024 at 5pm.</p>
 <p></p>
-<p><sup>The results of the 2023 SSRTG Call can be found </sup><a href="https://www.ssrc.edu.sg/grant-recipients/2023/ssrtg2023/" rel="noopener noreferrer nofollow" target="_blank"><u><sup>here</sup></u></a><sup>.</sup>
-</p>
+<p>The results of the 2023 SSRTG Call can be found <a href="https://www.ssrc.edu.sg/grant-recipients/2023/ssrtg2023/" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
 </td>
 </tr>
 </tbody>
