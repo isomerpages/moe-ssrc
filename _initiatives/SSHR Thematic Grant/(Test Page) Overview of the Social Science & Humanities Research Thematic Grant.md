@@ -31,7 +31,7 @@ to Singapore and Asia.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong><sup>Type A: S$100,000 to S$1 million / 3 – 5 years</sup></strong>
+<p><strong>Type A: S$100,000 to S$1 million / 3 – 5 years</strong>
 </p>
 </td>
 </tr>
@@ -43,7 +43,7 @@ to Singapore and Asia.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong><sup>Type B: S$1 million to S$5 million / 3 – 5 years</sup></strong>
+<p><strong>Type B: S$1 million to S$5 million / 3 – 5 years</strong>
 </p>
 </td>
 </tr>
@@ -55,7 +55,7 @@ to Singapore and Asia.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong><sup>Type C: S$5 million to S$10 million / 3 – 5 years</sup></strong>
+<p><strong>Type C: S$5 million to S$10 million / 3 – 5 years</strong>
 </p>
 </td>
 </tr>
