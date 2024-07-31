@@ -97,92 +97,74 @@ the eligible Host Institution, at time of application.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><sup>1</sup>
-</p>
+<p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><sup>National University of Singapore (NUS)</sup>
-</p>
+<p>National University of Singapore (NUS)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><sup>2</sup>
-</p>
+<p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><sup>Nanyang Technological University (NTU)</sup>
-</p>
+<p>Nanyang Technological University (NTU)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><sup>3</sup>
-</p>
+<p>3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><sup>Singapore Institute of Technology (SIT)</sup>
-</p>
+<p>Singapore Institute of Technology (SIT)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><sup>4</sup>
-</p>
+<p>4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><sup>Singapore Management University (SMU)</sup>
-</p>
+<p>Singapore Management University (SMU)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><sup>5</sup>
-</p>
+<p>5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><sup>Singapore University of Social Sciences (SUSS)</sup>
-</p>
+<p>Singapore University of Social Sciences (SUSS)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><sup>6</sup>
-</p>
+<p>6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><sup>Singapore University of Technology and Design (SUTD)</sup>
-</p>
+<p>Singapore University of Technology and Design (SUTD)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><sup>7</sup>
-</p>
+<p>7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><sup>ISEAS-Yusof Ishak Institute (ISEAS)</sup>
-</p>
+<p>ISEAS-Yusof Ishak Institute (ISEAS)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><sup>8</sup>
-</p>
+<p>8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><sup>Agency for Science, Technology and Research (A*STAR)</sup>
-</p>
+<p>Agency for Science, Technology and Research (A*STAR)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><sup>9</sup>
-</p>
+<p>9</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><sup>Singapore-Eidgenössische Technische Hochschule Centre</sup>
-</p>
+<p>Singapore-Eidgenössische Technische Hochschule Centre</p>
 </td>
 </tr>
 </tbody>
