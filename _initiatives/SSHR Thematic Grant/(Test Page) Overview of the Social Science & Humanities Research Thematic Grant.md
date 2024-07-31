@@ -86,17 +86,15 @@ to Singapore and Asia.</p>
 <p>Principal Investigators (PI) and co-PIs must hold a primary full-time
 appointment (defined as a minimum commitment of nine months per year) in
 the eligible Host Institution, at time of application.</p>
+<p></p>
+<p><strong>The eligible Host Institutions are:</strong>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
 <col>
 </colgroup>
 <tbody>
-<tr>
-<th rowspan="1" colspan="2">
-<p>The eligible Host institutions are:</p>
-</th>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><sup>1</sup>
