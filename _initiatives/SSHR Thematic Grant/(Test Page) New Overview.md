@@ -166,5 +166,15 @@ the cost-effectiveness and value-for-money of the research</p>
 </ol>
 </div>
 </details>
+<details class="isomer-details">
+<summary>Timeline</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>The 2024 SSHR-TG Call was launched on 13 May 2024. All applications must
+be submitted through the respective Offices of Research (or equivalent)
+by <strong>2 Aug 2024</strong> at 5pm.</p>
+<p></p>
+<p>The results of the 2023 SSRTG Call can be found <a href="https://www.ssrc.edu.sg/grant-recipients/2023/ssrtg2023/" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
+</div>
+</details>
 </div>
 <p></p>
