@@ -280,7 +280,6 @@ the cost-effectiveness and value-for-money of the research</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 </td>
 </tr>
 </tbody>
