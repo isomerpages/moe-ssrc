@@ -31,37 +31,38 @@ to Singapore and Asia.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>Type A: S$100,000 to S$1 million / 3 – 5 years</strong>
+<p><strong><sup>Type A: S$100,000 to S$1 million / 3 – 5 years</sup></strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>For smaller-scale investigator-led research in areas of strategic relevance</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p><strong>Type B: S$1 million to S$5 million / 3 – 5 years</strong>
+<p><sup>For smaller-scale investigator-led research in areas of strategic relevance</sup>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>For medium-scale investigator-led research in areas of strategic relevance</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p><strong>Type C: S$5 million to S$10 million / 3 – 5 years</strong>
+<p><strong><sup>Type B: S$1 million to S$5 million / 3 – 5 years</sup></strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>For large-scale research where research performers are encouraged to collaborate
-to pursue more ambitious inter-disciplinary research on issues of cross-cutting
-interests</p>
+<p><sup>For medium-scale investigator-led research in areas of strategic relevance</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong><sup>Type C: S$5 million to S$10 million / 3 – 5 years</sup></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><sup>For large-scale research where research performers are encouraged to collaborate to pursue more ambitious inter-disciplinary research on issues of cross-cutting interests</sup>
+</p>
 </td>
 </tr>
 </tbody>
