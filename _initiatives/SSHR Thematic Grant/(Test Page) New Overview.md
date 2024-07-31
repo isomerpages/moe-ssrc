@@ -315,7 +315,7 @@ proposal and approved as part of the grant.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<h4>Timeline</h4>
+<h4><strong>Timeline</strong></h4>
 </th>
 </tr>
 <tr>
