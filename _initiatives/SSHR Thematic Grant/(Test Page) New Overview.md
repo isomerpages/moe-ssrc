@@ -127,5 +127,44 @@ on overseas fieldwork must be specifically provided for in the research
 proposal and approved as part of the grant.</p>
 </div>
 </details>
+<details class="isomer-details">
+<summary>Evaluation Criteria</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Submitted proposals will be evaluated based on the following criteria:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>Relevance</strong>: Relevance to the grant call’s thematic focus</p>
+</li>
+<li>
+<p><strong>Potential Impact</strong>: Potential benefits of the research
+to Singapore</p>
+</li>
+<li>
+<p><strong>Synergy</strong>: Synergies with existing research capabilities
+in the broader research landscape in Singapore</p>
+</li>
+<li>
+<p><strong>Capability-building</strong>: Potential to boost and catalyse
+the development of local social science and humanities research capabilities
+in Singapore</p>
+</li>
+<li>
+<p><strong>Technical Merit</strong>: Scientific and intellectual rigour,
+potential to create new and important knowledge, appropriateness of the
+research design and methods, and the effective use of innovative and inter-disciplinary
+approaches</p>
+</li>
+<li>
+<p><strong>Quality of Research Team</strong>: Capabilities and track record
+of the proposed research team</p>
+</li>
+<li>
+<p><strong>Execution</strong>: Coherence in the proposed execution plans,
+feasibility of carrying out the research within the given timeframe, and
+the cost-effectiveness and value-for-money of the research</p>
+</li>
+</ol>
+</div>
+</details>
 </div>
 <p></p>
