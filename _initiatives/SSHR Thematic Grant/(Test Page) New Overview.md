@@ -23,54 +23,42 @@ to Singapore and Asia.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>There are three tiers of funding available:</p>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Funding Type</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Quantum / Duration</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Description</p>
-</th>
+<td rowspan="1" colspan="2">
+<p><strong>Type A: S$100,000 to S$1 million /  3 – 5 years</strong>
+</p>
+</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Type A</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>S$100,000 to S$1 million / 3 – 5 years</p>
-</td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>For smaller-scale investigator-led research in areas of strategic relevance</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Type B</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>S$1 million to S$5 million / 3 – 5 years</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
+<td rowspan="1" colspan="2">
+<p><strong>Type B: S$1 million to S$5 million / 3 – 5 years</strong>
+</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Type C</p>
+<td rowspan="1" colspan="2">
+<p>For medium-scale investigator-led research in areas of strategic relevance</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>S$5 million to S$10 million / 3 – 5 years</p>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Type C: S$5 million to S$10 million / 3 – 5 years</strong>
+</p>
 </td>
-<td rowspan="1" colspan="1">
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
 <p>For large-scale research where research performers are encouraged to collaborate
 to pursue more ambitious inter-disciplinary research on issues of cross-cutting
 interests</p>
@@ -80,6 +68,13 @@ interests</p>
 </table>
 </td>
 </tr>
+</tbody>
+</table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <h4>Eligibility</h4>
@@ -176,7 +171,6 @@ the eligible Host Institution, at time of application.</p>
 </tbody>
 </table>
 <p></p>
-<p></p>
 <p>Prospective applicants may contact the Office of Research (or equivalent)
 in their respective Host Institutions for more information on the application
 process.</p>
@@ -193,6 +187,13 @@ on overseas fieldwork must be specifically provided for in the research
 proposal and approved as part of the grant.</p>
 </td>
 </tr>
+</tbody>
+</table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <h4>Evaluation Criteria</h4>
