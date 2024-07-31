@@ -17,12 +17,13 @@ to Singapore and Asia.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<h4>Funding Tiers</h4>
+<p>Funding Tiers</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>There are three tiers of funding available:</p>
+<p><sup>There are three tiers of funding available:</sup>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
