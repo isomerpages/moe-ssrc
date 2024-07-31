@@ -79,14 +79,13 @@ to Singapore and Asia.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<h4>Eligibility</h4>
+<p>Eligibility</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Principal Investigators (PI) and co-PIs must hold a primary full-time
-appointment (defined as a minimum commitment of nine months per year) in
-the eligible Host Institution, at time of application.</p>
+<p><sup>Principal Investigators (PI) and co-PIs must hold a primary full-time appointment (defined as a minimum commitment of nine months per year) in the eligible Host Institution, at time of application.</sup>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -192,20 +191,14 @@ the eligible Host Institution, at time of application.</p>
 </tbody>
 </table>
 <p></p>
-<p>Prospective applicants may contact the Office of Research (or equivalent)
-in their respective Host Institutions for more information on the application
-process.</p>
+<p><sup>Prospective applicants may contact the Office of Research (or equivalent) in their respective Host Institutions for more information on the application process.</sup>
+</p>
 <p></p>
-<p>The SSHR-TG allows for joint submissions from eligible Host Institutions,
-subject to the eligibility of the applicants. Host Institutions that are
-eligible to apply for and receive the SSHR-TG may work in partnership or
-collaboration with any other organisations locally or overseas, subject
-to the conditions of the SSHR-TG.</p>
+<p><sup>The SSHR-TG allows for joint submissions from eligible Host Institutions, subject to the eligibility of the applicants. Host Institutions that are eligible to apply for and receive the SSHR-TG may work in partnership or collaboration with any other organisations locally or overseas, subject to the conditions of the SSHR-TG.</sup>
+</p>
 <p></p>
-<p>Unless expressly allowed by MOE, the funds or any part thereof shall not
-be channelled to fund research and development activities overseas. Expenditure
-on overseas fieldwork must be specifically provided for in the research
-proposal and approved as part of the grant.</p>
+<p><sup>Unless expressly allowed by MOE, the funds or any part thereof shall not be channelled to fund research and development activities overseas. Expenditure on overseas fieldwork must be specifically provided for in the research proposal and approved as part of the grant.</sup>
+</p>
 </td>
 </tr>
 </tbody>
