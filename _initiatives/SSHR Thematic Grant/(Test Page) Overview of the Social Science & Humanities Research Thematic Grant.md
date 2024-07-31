@@ -94,8 +94,7 @@ the eligible Host Institution, at time of application.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p><sup>The eligible Host institutions are:</sup>
-</p>
+<p>The eligible Host institutions are:</p>
 </th>
 </tr>
 <tr>
