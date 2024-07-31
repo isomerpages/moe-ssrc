@@ -79,7 +79,8 @@ to Singapore and Asia.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Eligibility</p>
+<p><strong>Eligibility</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -210,7 +211,8 @@ to Singapore and Asia.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<h4>Evaluation Criteria</h4>
+<p><strong>Evaluation Criteria</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -222,74 +224,79 @@ to Singapore and Asia.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="2">
-<p>Submitted proposals will be evaluated based on the following criteria:</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Relevance</strong>: Relevance to the grant call’s thematic focus</p>
+<td rowspan="1" colspan="2">
+<p><sup>Submitted proposals will be evaluated based on the following criteria:</sup>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2</p>
+<p><sup>1</sup>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Potential Impact</strong>: Potential benefits of the research
-to Singapore</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Synergy</strong>: Synergies with existing research capabilities
-in the broader research landscape in Singapore</p>
+<p><strong><sup>Relevance</sup></strong><sup>: Relevance to the grant call’s thematic focus</sup>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4</p>
+<p><sup>2</sup>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Capability-building</strong>: Potential to boost and catalyse
-the development of local social science and humanities research capabilities
-in Singapore</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Technical Merit</strong>: Scientific and intellectual rigour,
-potential to create new and important knowledge, appropriateness of the
-research design and methods, and the effective use of innovative and inter-disciplinary
-approaches</p>
+<p><strong><sup>Potential Impact</sup></strong><sup>: Potential benefits of the research to Singapore</sup>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6</p>
+<p><sup>3</sup>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Quality of Research Team</strong>: Capabilities and track record
-of the proposed research team</p>
+<p><strong><sup>Synergy</sup></strong><sup>: Synergies with existing research capabilities in the broader research landscape in Singapore</sup>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7</p>
+<p><sup>4</sup>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Execution</strong>: Coherence in the proposed execution plans,
-feasibility of carrying out the research within the given timeframe, and
-the cost-effectiveness and value-for-money of the research</p>
+<p><strong><sup>Capability-building</sup></strong><sup>: Potential to boost and catalyse the development of local social science and humanities research capabilities in Singapore</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><sup>5</sup>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><sup>Technical Merit</sup></strong><sup>: Scientific and intellectual rigour, potential to create new and important knowledge, appropriateness of the research design and methods, and the effective use of innovative and inter-disciplinary approaches</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><sup>6</sup>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><sup>Quality of Research Team</sup></strong><sup>: Capabilities and track record of the proposed research team</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><sup>7</sup>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><sup>Execution</sup></strong><sup>: Coherence in the proposed execution plans, feasibility of carrying out the research within the given timeframe, and the cost-effectiveness and value-for-money of the research</sup>
+</p>
 </td>
 </tr>
 </tbody>
