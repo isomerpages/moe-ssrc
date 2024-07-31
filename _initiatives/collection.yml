@@ -2,7 +2,8 @@ collections:
   initiatives:
     output: true
     order:
-      - SSHR Thematic Grant/(Test Page) New Overview.md
+      - SSHR Thematic Grant/(Test Page) Overview of the Social Science &
+        Humanities Research Thematic Grant.md
       - SSHR Thematic Grant/.keep
       - SSHR Thematic Grant/Overview.md
       - SSHR Thematic Grant/Eligibility.md
