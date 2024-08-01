@@ -403,4 +403,6 @@ the webpages listed below.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>If you have any questions, please email the SSRC Secretariat at&nbsp;
+<a href="mailto:MOE_SSRC_Secretariat@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>MOE_SSRC_Secretariat@moe.gov.sg</u>
+</a>.</p>
