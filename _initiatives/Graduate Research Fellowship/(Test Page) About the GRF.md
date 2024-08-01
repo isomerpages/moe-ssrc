@@ -372,7 +372,7 @@ the webpages listed below.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Link</strong>
+<p><strong>Application Link</strong>
 </p>
 </td>
 </tr>
@@ -381,7 +381,7 @@ the webpages listed below.</p>
 <p>National University of Singapore</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://nus.infoready4.com/#bulletinboardDetail/1798992" rel="noopener noreferrer nofollow" target="_blank"><u>https://nus.infoready4.com/#bulletinboardDetail/1798992</u></a>
+<p><a href="https://nus.infoready4.com/#bulletinboardDetail/1798992" rel="noopener noreferrer nofollow" target="_blank">Apply here</a>
 </p>
 </td>
 </tr>
@@ -390,7 +390,7 @@ the webpages listed below.</p>
 <p>Nanyang Technological University</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.ntu.edu.sg/research/research-careers/social-science-research-council-(ssrc)-graduate-research-fellowship-(grf)" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.ntu.edu.sg/research/research-careers/social-science-research-council-(ssrc)-graduate-research-fellowship-(grf)</u></a>
+<p><a href="https://www.ntu.edu.sg/research/research-careers/social-science-research-council-(ssrc)-graduate-research-fellowship-(grf)" rel="noopener noreferrer nofollow" target="_blank">Apply here</a>
 </p>
 </td>
 </tr>
@@ -399,7 +399,7 @@ the webpages listed below.</p>
 <p>Singapore Management University</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.smu.edu.sg/call-proposals-july-2024" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.smu.edu.sg/call-proposals-july-2024</u></a>
+<p><a href="https://www.smu.edu.sg/call-proposals-july-2024" rel="noopener noreferrer nofollow" target="_blank">Apply here</a>
 </p>
 </td>
 </tr>
@@ -408,7 +408,7 @@ the webpages listed below.</p>
 <p>Singapore University of Technology and Design</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.sutd.edu.sg/About/Overview/Careers-with-SUTD/SSRC-Graduate-Research-Fellowship" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.sutd.edu.sg/About/Overview/Careers-with-SUTD/SSRC-Graduate-Research-Fellowship</u></a>
+<p><a href="https://www.sutd.edu.sg/About/Overview/Careers-with-SUTD/SSRC-Graduate-Research-Fellowship" rel="noopener noreferrer nofollow" target="_blank">Apply here</a>
 </p>
 </td>
 </tr>
