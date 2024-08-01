@@ -133,10 +133,83 @@ career progression in becoming an independent researcher</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<h4><strong>Timeline</strong></h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>The 2023 Call for SSHR Fellowship applications will open in October 2023
+and <strong>close in January 2024</strong>.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Process</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Timeline</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Opening date for applications</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>October 2023</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Closing date for applications</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>January 2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Evaluation of applications by SSRC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>February to May 2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Interview of shortlisted applicants</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>April to May 2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Announcement of awardees</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>July 2024</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>The results of the previous 2023 SSHRF Call can be found <a href="https://www.ssrc.edu.sg/grant-recipients/2022/sshrf2022/" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
