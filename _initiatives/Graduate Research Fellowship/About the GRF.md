@@ -315,6 +315,12 @@ are not obtained, withdrawn or suspended.</p>
 AU at any point in time.</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><sup>1</sup><em>The participating AUs are Nanyang Technological University, National University of Singapore, Singapore Management University and Singapore University of Technology &amp; Design.</em>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 </td>
