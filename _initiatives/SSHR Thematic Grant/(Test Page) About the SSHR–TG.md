@@ -10,17 +10,20 @@ third_nav_title: SSHR Thematic Grant
 is the first major initiative launched in 2016 by the Social Science Research
 Council (SSRC) aimed at boosting SSH research in areas of strategic relevance
 to Singapore and Asia.</p>
-<p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="2024 Grant Call" src="/images/SSRC website.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">2024 Thematic Grant Call [Closing 2 Aug]</div><div class="isomer-card-description">Find out more about the thematic areas for the latest grant call.</div><div class="isomer-card-link">Click here</div></div></a>
+<p>The SSRC is proud to have supported research and researchers, whose innovative
+approaches have advanced our understanding of the key issues facing Singapore
+and Singaporeans today. The projects supported span a variety of disciplines
+across the social sciences, humanities and even business fields.</p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="2024 Grant Call" src="/images/SSRC website.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">2024 Thematic Grant Call [Closing 2 Aug]</div><div class="isomer-card-description">Find out more about the thematic areas for the latest grant call</div><div class="isomer-card-link">Click here</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Past Awardees" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Past Awardees" src="/images/updates3.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Our Awardees</div>
-<div class="isomer-card-description">Find out more about our awardees and their projects!</div>
+<div class="isomer-card-description">Find out more about our past awardees and their diverse projects</div>
 <div class="isomer-card-link">Click here</div>
 </div>
 </a>
