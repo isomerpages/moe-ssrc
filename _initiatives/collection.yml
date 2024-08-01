@@ -2,9 +2,9 @@ collections:
   initiatives:
     output: true
     order:
-      - SSHR Thematic Grant/(Test Page) Themes for the 2024 SSHR–TG Call.md
-      - SSHR Thematic Grant/(Test Page) Consolidated Overview of the SSRTG.md
       - SSHR Thematic Grant/.keep
+      - SSHR Thematic Grant/(Test Page) Consolidated Overview of the SSRTG.md
+      - SSHR Thematic Grant/(Test Page) Themes for the 2024 SSHR–TG Call.md
       - SSHR Thematic Grant/Overview.md
       - SSHR Thematic Grant/Eligibility.md
       - SSHR Thematic Grant/Evaluation Criteria.md
