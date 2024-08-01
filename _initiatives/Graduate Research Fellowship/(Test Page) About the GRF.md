@@ -186,8 +186,9 @@ All applications for the award will compete on an equal basis.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -196,7 +197,7 @@ All applications for the award will compete on an equal basis.</p>
 <td rowspan="1" colspan="1">
 <p>1</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>The terms of the SSRC GRF are as follows:</p>
 </td>
 </tr>
@@ -205,7 +206,10 @@ All applications for the award will compete on an equal basis.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>a) Tenable for a period of two (2) years;</p>
+<p>a)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tenable for a period of two (2) years;</p>
 </td>
 </tr>
 <tr>
@@ -213,7 +217,10 @@ All applications for the award will compete on an equal basis.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>b) Tenable for research in any social science and humanities discipline,
+<p>b)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tenable for research in any social science and humanities discipline,
 although research on local issues of relevance is encouraged;</p>
 </td>
 </tr>
@@ -222,9 +229,12 @@ although research on local issues of relevance is encouraged;</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>c) Two categories of award: (A) Up to SGD 10,000 per award for doctoral
-students and (B) SGD 20,000 per award for postdoctoral fellows. The award
-may be used for travel or other research-related expenses;</p>
+<p>c)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Two categories of award: (A) Up to SGD 10,000 per award for doctoral students
+and (B) SGD 20,000 per award for postdoctoral fellows. The award may be
+used for travel or other research-related expenses;</p>
 </td>
 </tr>
 <tr>
@@ -232,10 +242,13 @@ may be used for travel or other research-related expenses;</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>d) Awardees will be assigned a mentor who is an experienced researcher
-in local Autonomous Universities (AUs)<sup>1</sup>&nbsp;based on their
-proposed area of research, who can provide access to valuable academic
-and career guidance;</p>
+<p>d)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Awardees will be assigned a mentor who is an experienced researcher in
+local Autonomous Universities (AUs)<sup>1</sup>&nbsp;based on their proposed
+area of research, who can provide access to valuable academic and career
+guidance;</p>
 </td>
 </tr>
 <tr>
@@ -243,7 +256,10 @@ and career guidance;</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>e) Awardees will be required to return to Singapore at least once during
+<p>e)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Awardees will be required to return to Singapore at least once during
 the tenure of award to participate in engagement activities (e.g. research
 seminars) within the AU and with SSRC members; and</p>
 </td>
@@ -253,15 +269,18 @@ seminars) within the AU and with SSRC members; and</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>f) Awardees must comply with reporting requirements stipulated by the
-host AU.</p>
+<p>f)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Awardees must comply with reporting requirements stipulated by the host
+AU.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>2</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>The SSRC GRF is bond-free, and host AUs are not obliged to hire GRF awardees
 as faculty members beyond the GRF tenure.</p>
 </td>
@@ -270,7 +289,7 @@ as faculty members beyond the GRF tenure.</p>
 <td rowspan="1" colspan="1">
 <p>3</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>SSRC GRF awardees should hold a position either as a doctoral student
 or postdoctoral fellow (or equivalent) throughout the tenure of the award.
 SSRC GRF awardees are required to inform MOE through the host AU once this
@@ -281,7 +300,7 @@ eligibility criterion is no longer met, and awards will be closed.</p>
 <td rowspan="1" colspan="1">
 <p>4</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>SSRC GRF awardees will inform MOE through the host AU should they receive
 other scholarships from the Singapore Government post-award. In such instances,
 the awards will be closed with effect from scholarship start date.</p>
@@ -291,7 +310,7 @@ the awards will be closed with effect from scholarship start date.</p>
 <td rowspan="1" colspan="1">
 <p>5</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>SSRC GRF awardees will inform MOE through the host AU immediately in the
 event that the ethics or other research-related approvals are withdrawn
 or suspended. MOE reserves the right to withhold funding if these approvals
@@ -302,14 +321,14 @@ are not obtained, withdrawn or suspended.</p>
 <td rowspan="1" colspan="1">
 <p>6</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Prospective SSRC GRF awardees may only accept one GRF offer from one host
 AU at any point in time.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
-<p><sup>1</sup><em>The participating AUs are Nanyang Technological University, National University of Singapore, Singapore Management University and Singapore University of Technology &amp; Design.</em>
+<td rowspan="1" colspan="3">
+<p><sup>1 </sup><em>The participating AUs are Nanyang Technological University, National University of Singapore, Singapore Management University and Singapore University of Technology &amp; Design.</em>
 </p>
 </td>
 </tr>
