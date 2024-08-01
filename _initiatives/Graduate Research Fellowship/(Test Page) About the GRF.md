@@ -328,7 +328,7 @@ AU at any point in time.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p><sup>1 </sup><em>The participating AUs are Nanyang Technological University, National University of Singapore, Singapore Management University and Singapore University of Technology &amp; Design.</em>
+<p><sup>1 </sup><em><sup>The participating AUs are Nanyang Technological University, National University of Singapore, Singapore Management University and Singapore University of Technology &amp; Design.</sup></em>
 </p>
 </td>
 </tr>
