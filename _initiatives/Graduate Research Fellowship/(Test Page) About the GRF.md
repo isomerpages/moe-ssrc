@@ -372,7 +372,7 @@ the webpages listed below.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Application Link</strong>
+<p><strong>External Link</strong>
 </p>
 </td>
 </tr>
