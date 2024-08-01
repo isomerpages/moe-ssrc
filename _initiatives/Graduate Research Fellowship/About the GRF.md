@@ -22,10 +22,24 @@ an opportunity to be mentored by an experienced researcher in the local
 Autonomous Universities (AUs). This will broaden the potential pipeline
 of Singaporean researchers who may eventually take up appointments within
 the local research ecosystem.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p><a href="https://staging-lite.dbcd9c711ewro.amplifyapp.com/files/SSRC_GRF_Infosheet__2024_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>SSRC GRF Infosheet</u></a>
 </p>
+</th>
+<th rowspan="1" colspan="1">
 <p><a href="https://staging-lite.dbcd9c711ewro.amplifyapp.com/files/SSRC_GRF_Non_Fundable_Items__2024_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>SSRC GRF Non-Fundable Items</u></a>
 </p>
+</th>
+</tr>
+</tbody>
+</table>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -33,7 +47,7 @@ the local research ecosystem.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<h4>Eligibility</h4>
+<h4><strong>Eligibility</strong></h4>
 </th>
 </tr>
 <tr>
@@ -87,6 +101,83 @@ Talent Scheme (START) PhD Scholarships and Postdoctoral Fellowship Awards.</p>
 <p></p>
 <p><sup>1 </sup><em><sup>Applicants must provide supporting documents to show that their home university does not offer postdoctoral fellow positions, and their current position could be considered equivalent to that of a postdoctoral fellow.</sup></em>
 </p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<h4><strong>Award Outcomes</strong></h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SSRC GRF applicants in the last year of their PhD programme may be offered
+conditional awards should they have an offer for a suitable postdoctoral
+position which they would assume upon graduation. Holders of conditional
+awards will inform MOE and the AU should there be any changes to the pre-agreed
+postdoctoral training plans, for review.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SSRC GRF applicants who have applied but yet to secure a PhD programme
+or postdoctoral position may be offered in-principle awards by the AUs.
+The fellowship will only be confirmed when applicants have secured a place
+in the pre-agreed PhD programme or postdoctoral position. Applicants should
+update the AUs on their application status and provide supporting documentation
+by the acceptance deadline.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Prospective SSRC GRF awardees may only accept one (1) GRF offer from one
+(1) host AU at any point in time.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SSRC GRF awardees may apply for a second award after the end of the Term
+of their first award. However, an individual will be limited to a maximum
+of two (2) awards in total throughout their career (regardless of category).
+All applications for the award will compete on an equal basis.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Appeals for unsuccessful applications will not be considered.</p>
+</td>
+</tr>
+</tbody>
+</table>
 </td>
 </tr>
 </tbody>
