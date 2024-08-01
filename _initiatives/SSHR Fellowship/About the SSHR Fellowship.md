@@ -151,6 +151,11 @@ career progression in becoming an independent researcher</p>
 <td rowspan="1" colspan="1">
 <p>The 2023 Call for SSHR Fellowship applications will open in October 2023
 and <strong>close in January 2024</strong>.</p>
+<p>The results of the previous 2023 SSHRF Call can be found <a href="https://www.ssrc.edu.sg/grant-recipients/2022/sshrf2022/" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -203,11 +208,6 @@ and <strong>close in January 2024</strong>.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>July 2024</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>The results of the previous 2023 SSHRF Call can be found <a href="https://www.ssrc.edu.sg/grant-recipients/2022/sshrf2022/" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
 </td>
 </tr>
 </tbody>
