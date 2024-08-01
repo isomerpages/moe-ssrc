@@ -22,24 +22,16 @@ an opportunity to be mentored by an experienced researcher in the local
 Autonomous Universities (AUs). This will broaden the potential pipeline
 of Singaporean researchers who may eventually take up appointments within
 the local research ecosystem.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p><a href="https://staging-lite.dbcd9c711ewro.amplifyapp.com/files/SSRC_GRF_Infosheet__2024_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>SSRC GRF Infosheet</u></a>
 </p>
-</th>
-<th rowspan="1" colspan="1">
+</li>
+<li>
 <p><a href="https://staging-lite.dbcd9c711ewro.amplifyapp.com/files/SSRC_GRF_Non_Fundable_Items__2024_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>SSRC GRF Non-Fundable Items</u></a>
 </p>
-</th>
-</tr>
-</tbody>
-</table>
+</li>
+</ul>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
