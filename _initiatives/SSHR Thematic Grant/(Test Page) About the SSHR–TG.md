@@ -8,12 +8,8 @@ third_nav_title: SSHR Thematic Grant
 <h3><strong>Social Science &amp; Humanities Research Thematic Grant</strong></h3>
 <p>The Social Science &amp; Humanities Research Thematic Grant (SSHR-TG)
 is the first major initiative launched in 2016 by the Social Science Research
-Council (SSRC) aimed at boosting SSH research in areas of strategic relevance
-to Singapore and Asia.</p>
-<p>The SSRC is proud to have supported research and researchers, whose innovative
-approaches have advanced our understanding of the key issues facing Singapore
-and Singaporeans today. The projects supported span a variety of disciplines
-across the social sciences, humanities and even business fields.</p>
+Council (SSRC) aimed at boosting social science and humanities research
+in areas of strategic relevance to Singapore and Asia.</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
