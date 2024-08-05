@@ -17,7 +17,7 @@ in areas of strategic relevance to Singapore and Asia.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<h4><strong>1. Funding Tiers</strong></h4>
+<h4><strong>Funding Tiers</strong></h4>
 </th>
 </tr>
 <tr>
@@ -99,7 +99,7 @@ interests</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<h4><strong>2. Eligibility</strong></h4>
+<h4><strong>Eligibility</strong></h4>
 </td>
 </tr>
 <tr>
@@ -216,7 +216,7 @@ proposal and approved as part of the grant.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<h4><strong>3. Evaluation Criteria</strong></h4>
+<h4><strong>Evaluation Criteria</strong></h4>
 </td>
 </tr>
 <tr>
@@ -311,7 +311,7 @@ the cost-effectiveness and value-for-money of the research</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<h4><strong>4. Timeline</strong></h4>
+<h4><strong>Timeline</strong></h4>
 </th>
 </tr>
 <tr>
