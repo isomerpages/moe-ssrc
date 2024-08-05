@@ -10,16 +10,9 @@ third_nav_title: SSHR Thematic Grant
 is the first major initiative launched in 2016 by the Social Science Research
 Council (SSRC) aimed at boosting social science and humanities research
 in areas of strategic relevance to Singapore and Asia.</p>
-<p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">2024 Themes </div><div class="isomer-card-description">Explore the themes for the latest grant call</div><div class="isomer-card-link">Find out more</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">Past Projects</div>
-<div class="isomer-card-description">Curious about our past awardees and projects?</div>
-<div class="isomer-card-link">Find out more</div>
-</div>
-</a>
-</div>
+<p>This section covers important information on the funding, eligibility
+and evaluation criteria of the SSHR-TG. The themes for the latest grant
+call can be found <a href="https://staging-lite.dbcd9c711ewro.amplifyapp.com/test-page-themes-for-the-2024-sshr-tg-call/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p></p>
 <table style="minWidth: 25px">
 <colgroup>
