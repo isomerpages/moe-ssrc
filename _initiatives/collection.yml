@@ -2,7 +2,7 @@ collections:
   initiatives:
     output: true
     order:
-      - Find the right Funding Scheme for you.md
+      - Find the right funding scheme for you.md
       - SSHR Thematic Grant/.keep
       - SSHR Thematic Grant/(Test Page) About the SSHR–TG.md
       - SSHR Thematic Grant/(Test Page) Themes for the 2024 SSHR–TG Call.md
