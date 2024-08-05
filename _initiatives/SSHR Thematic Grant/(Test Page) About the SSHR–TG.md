@@ -12,9 +12,8 @@ Council (SSRC) aimed at boosting social science and humanities research
 in areas of strategic relevance to Singapore and Asia.</p>
 <p>The call for proposals opens once every year, and the themes for the latest
 grant call can be found <a href="https://staging-lite.dbcd9c711ewro.amplifyapp.com/test-page-themes-for-the-2024-sshr-tg-call/" rel="noopener noreferrer nofollow" target="_blank">here</a>.
-A comprehensive list of past awardees and projects may also be found on
-the '<a href="https://www.ssrc.edu.sg/grant-recipients/2023/ssrtg2023/" rel="noopener noreferrer nofollow" target="_blank">Grant Recipients</a>'
-page.</p>
+A full list of past awardees and projects may also be found on the '
+<a href="https://www.ssrc.edu.sg/grant-recipients/2023/ssrtg2023/" rel="noopener noreferrer nofollow" target="_blank">Grant Recipients</a>' page.</p>
 <p>This section covers important information on the funding, eligibility
 and evaluation criteria of the SSHR-TG.</p>
 <table style="minWidth: 25px">
