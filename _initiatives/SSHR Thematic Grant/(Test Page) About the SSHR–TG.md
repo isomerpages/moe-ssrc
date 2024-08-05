@@ -14,20 +14,6 @@ to Singapore and Asia.</p>
 approaches have advanced our understanding of the key issues facing Singapore
 and Singaporeans today. The projects supported span a variety of disciplines
 across the social sciences, humanities and even business fields.</p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="2024 Grant Call" src="/images/SSRC website.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">2024 Thematic Grant Call [Closing 2 Aug]</div><div class="isomer-card-description">Find out more about the thematic areas for the latest grant call</div><div class="isomer-card-link">Click here</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Past Awardees" src="/images/updates3.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Our Awardees</div>
-<div class="isomer-card-description">Find out more about our past awardees and their diverse projects</div>
-<div class="isomer-card-link">Click here</div>
-</div>
-</a>
-</div>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -41,46 +27,67 @@ across the social sciences, humanities and even business fields.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>There are three tiers of funding available:</p>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="3">
 <p><strong>Type A: S$100,000 to S$1 million / 3 – 5 years</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><sup>For smaller-scale investigator-led research in areas of strategic relevance</sup>
-</p>
+<ul data-tight="true" class="tight">
+<li>
+<p></p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>For smaller-scale investigator-led research in areas of strategic relevance</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="3">
 <p><strong>Type B: S$1 million to S$5 million / 3 – 5 years</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><sup>For medium-scale investigator-led research in areas of strategic relevance</sup>
-</p>
+<ul data-tight="true" class="tight">
+<li>
+<p></p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>For medium-scale investigator-led research in areas of strategic relevance</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="3">
 <p><strong>Type C: S$5 million to S$10 million / 3 – 5 years</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><sup>For large-scale research where research performers are encouraged to collaborate to pursue more ambitious inter-disciplinary research on issues of cross-cutting interests</sup>
-</p>
+<ul data-tight="true" class="tight">
+<li>
+<p></p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>For large-scale research where research performers are encouraged to collaborate
+to pursue more ambitious inter-disciplinary research on issues of cross-cutting
+interests</p>
 </td>
 </tr>
 </tbody>
