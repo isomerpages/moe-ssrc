@@ -241,6 +241,7 @@ to the conditions of the SSHR-TG.</p>
 be channelled to fund research and development activities overseas. Expenditure
 on overseas fieldwork must be specifically provided for in the research
 proposal and approved as part of the grant.</p>
+<p></p>
 </td>
 </tr>
 </tbody>
