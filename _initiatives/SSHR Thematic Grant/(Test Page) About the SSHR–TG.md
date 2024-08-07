@@ -6,37 +6,29 @@ description: ""
 third_nav_title: SSHR Thematic Grant
 ---
 <h3><strong>Social Science &amp; Humanities Research Thematic Grant</strong></h3>
-<p>The call for proposals to the 2024 Social Science &amp; Humanities Resarch
-Thematic Grant (SSHR-TG) was opened on 13 May 2024. All applications must
-be submitted through the respective Offices of Research (or equivalent)
-by 2 Aug 2024 at 5pm.</p>
-<p>The results of the previous 2023 SSRTG Call can be found <a href="https://www.ssrc.edu.sg/grant-recipients/2023/ssrtg2023/" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<h4><strong>About the Thematic Grant</strong></h4>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>The Social Science &amp; Humanities Research Thematic Grant (SSHR-TG)
 is the first major initiative launched in 2016 by the Social Science Research
 Council (SSRC) aimed at boosting social science and humanities research
 in areas of strategic relevance to Singapore and Asia.</p>
-<p>The following section covers the funding, eligibility and evaluation criteria
-of the SSHR-TG. For information about the latest thematic areas or past
-projects and awardees, click the links below.</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
 </colgroup>
 <tbody>
 <tr>
+<th rowspan="1" colspan="1">
+<h4><strong>Application Process</strong></h4>
+</th>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
+<p>The 2024 Call for proposals was launched on 13 May 2024. All applications
+must be submitted through the respective Offices of Research (or equivalent)
+by 2 Aug 2024 at 5pm.</p>
+<p></p>
+<p>For information about the latest thematic areas or past projects and awardees,
+click the links below.</p>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://staging-lite.dbcd9c711ewro.amplifyapp.com/test-page-themes-for-the-2024-sshr-tg-call/" rel="noopener noreferrer nofollow" target="_blank">List of SSHR-TG Themes</a>
@@ -47,10 +39,9 @@ projects and awardees, click the links below.</p>
 </p>
 </li>
 </ul>
-</td>
-</tr>
-</tbody>
-</table>
+<p></p>
+<p>First time applicants are encouraged to read through the following sections
+which cover the funding, eligibility and evaluation criteria of the SSHR-TG.</p>
 </td>
 </tr>
 </tbody>
