@@ -17,14 +17,14 @@ in areas of strategic relevance to Singapore and Asia.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<h4><strong>Application Process</strong></h4>
+<h4><strong>How to Apply</strong></h4>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>The 2024 Call for proposals was launched on 13 May 2024. All applications
-must be submitted through the respective Offices of Research (or equivalent)
-by 2 Aug 2024 at 5pm.</p>
+<p><strong>The 2024 Call for proposals was launched on 13 May 2024. </strong>All
+applications must be submitted through the respective Offices of Research
+(or equivalent) by 2 Aug 2024 at 5pm.</p>
 <p></p>
 <p>For information about the latest thematic areas or past projects and awardees,
 click the links below.</p>
