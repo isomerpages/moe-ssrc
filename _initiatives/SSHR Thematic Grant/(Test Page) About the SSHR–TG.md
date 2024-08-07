@@ -6,10 +6,11 @@ description: ""
 third_nav_title: SSHR Thematic Grant
 ---
 <h3><strong>Social Science &amp; Humanities Research Thematic Grant</strong></h3>
-<p>The call for proposals to the 2024 SSHR-TG Call for 2024 opened on 13
-May. All applications must be submitted through the respective Offices
-of Research (or equivalent) by 2 Aug 2024 at 5pm.</p>
-<p>Past results of the 2023 SSRTG Call can be found <a href="https://www.ssrc.edu.sg/grant-recipients/2023/ssrtg2023/" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
+<p>The call for proposals to the 2024 Social Science &amp; Humanities Resarch
+Thematic Grant (SSHR-TG) was opened on 13 May 2024. All applications must
+be submitted through the respective Offices of Research (or equivalent)
+by 2 Aug 2024 at 5pm.</p>
+<p>The results of the previous 2023 SSRTG Call can be found <a href="https://www.ssrc.edu.sg/grant-recipients/2023/ssrtg2023/" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
