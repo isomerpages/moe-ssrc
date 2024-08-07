@@ -26,8 +26,8 @@ in areas of strategic relevance to Singapore and Asia.</p>
 applications must be submitted through the respective Offices of Research
 (or equivalent) by 2 Aug 2024 at 5pm.</p>
 <p></p>
-<p>For information about the latest thematic areas or past projects and awardees,
-click the links below.</p>
+<p>For information about the latest thematic areas, as well as past projects
+and awardees, click on the links below.</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
