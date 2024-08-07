@@ -20,6 +20,7 @@ and Academic Research Talent (START) scheme. Awardees of the SSHR Fellowship
 will receive a research grant of up to S$1m over five years for any research
 project in any social sciences and humanities discipline.</p>
 <p>For a list of past fellowship awardees and their projects, click <a href="https://www.ssrc.edu.sg/2023-fellows/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p></p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
