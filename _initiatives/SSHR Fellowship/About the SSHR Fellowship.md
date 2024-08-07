@@ -6,10 +6,10 @@ description: ""
 third_nav_title: SSHR Fellowship
 ---
 <h3><strong>Social Science and Humanities Research Fellowship</strong></h3>
-<p>The Social Science and Humanities Research (SSHR) Fellowship was established
-by the Social Science Research Council (SSRC) as part of its efforts to
-nurture local talents and strengthen the social science and humanities
-research ecosystem in Singapore.</p>
+<p>The <strong>Social Science and Humanities Research (SSHR) Fellowship </strong>was
+established by the Social Science Research Council (SSRC) as part of its
+efforts to nurture local talents and strengthen the social science and
+humanities research ecosystem in Singapore.</p>
 <p>As SSRC’s first talent development scheme, the SSHR Fellowship aims to
 support promising Singaporean social science and humanities researchers
 in the early stages of their academic careers in our Autonomous Universities.
