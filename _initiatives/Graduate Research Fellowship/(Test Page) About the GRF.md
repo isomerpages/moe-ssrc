@@ -44,10 +44,9 @@ the local research ecosystem.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>The 2024 Call for Applications has opened on 8 July 2024 and will close
-on <strong>6 September 2024</strong>. Applications must be submitted to
-the host universities using the SSRC GRF application form available on
-the webpages listed below.</p>
+<p><strong>The 2024 Call for Applications has opened on 8 Jul 2024 and will close on 6 Sep 2024</strong>.
+Applications must be submitted to the host universities using the SSRC
+GRF application form available on the webpages listed below.</p>
 <p></p>
 <p>The results of the 2024 SSRC GRF Call will be announced in February 2025.</p>
 </td>
