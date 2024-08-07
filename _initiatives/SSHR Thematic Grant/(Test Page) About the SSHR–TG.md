@@ -13,6 +13,17 @@ in areas of strategic relevance to Singapore and Asia.</p>
 <p>This section covers the funding, eligibility and evaluation criteria of
 the SSHR-TG. For information about the latest thematic areas or past projects
 and awardees, click the links below.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://staging-lite.dbcd9c711ewro.amplifyapp.com/test-page-themes-for-the-2024-sshr-tg-call/" rel="noopener noreferrer nofollow" target="_blank">List of SSHR-TG Themes</a>
@@ -23,6 +34,10 @@ and awardees, click the links below.</p>
 </p>
 </li>
 </ul>
+</td>
+</tr>
+</tbody>
+</table>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
