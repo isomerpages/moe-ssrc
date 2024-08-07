@@ -10,11 +10,19 @@ third_nav_title: SSHR Thematic Grant
 is the first major initiative launched in 2016 by the Social Science Research
 Council (SSRC) aimed at boosting social science and humanities research
 in areas of strategic relevance to Singapore and Asia.</p>
-<p>The themes for the latest grant call can be found <a href="https://staging-lite.dbcd9c711ewro.amplifyapp.com/test-page-themes-for-the-2024-sshr-tg-call/" rel="noopener noreferrer nofollow" target="_blank">here</a>.
-A full list of past awardees and projects may also be found on the '
-<a href="https://www.ssrc.edu.sg/grant-recipients/2023/ssrtg2023/" rel="noopener noreferrer nofollow" target="_blank">Grant Recipients</a>' page.</p>
-<p>This section covers important information on the funding, eligibility
-and evaluation criteria of the SSHR-TG.</p>
+<p>This section covers the funding, eligibility and evaluation criteria of
+the SSHR-TG. For information about the latest thematic areas or past projects
+and awardees, click the links below.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://staging-lite.dbcd9c711ewro.amplifyapp.com/test-page-themes-for-the-2024-sshr-tg-call/" rel="noopener noreferrer nofollow" target="_blank">List of SSHR-TG Themes</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.ssrc.edu.sg/grant-recipients/2023/ssrtg2023/" rel="noopener noreferrer nofollow" target="_blank">List of Past Projects &amp; Awardees</a>
+</p>
+</li>
+</ul>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
