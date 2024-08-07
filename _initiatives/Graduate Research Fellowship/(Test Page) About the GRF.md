@@ -39,6 +39,86 @@ the local research ecosystem.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
+<h4><strong>How to Apply</strong></h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>The 2024 Call for Applications has opened on 8 July 2024 and will close
+on <strong>6 September 2024</strong>. Applications must be submitted to
+the host universities using the SSRC GRF application form available on
+the webpages listed below.</p>
+<p></p>
+<p>The results of the 2024 SSRC GRF Call will be announced in February 2025.</p>
+<p></p>
+<p>If you have any questions, please email the SSRC Secretariat at&nbsp;
+<a href="mailto:MOE_SSRC_Secretariat@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>MOE_SSRC_Secretariat@moe.gov.sg</u>
+</a>.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Host University</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>External Link</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National University of Singapore</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://nus.infoready4.com/#bulletinboardDetail/1798992" rel="noopener noreferrer nofollow" target="_blank">Apply here</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nanyang Technological University</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.ntu.edu.sg/research/research-careers/social-science-research-council-(ssrc)-graduate-research-fellowship-(grf)" rel="noopener noreferrer nofollow" target="_blank">Apply here</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Management University</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.smu.edu.sg/call-proposals-july-2024" rel="noopener noreferrer nofollow" target="_blank">Apply here</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore University of Technology and Design</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.sutd.edu.sg/About/Overview/Careers-with-SUTD/SSRC-Graduate-Research-Fellowship" rel="noopener noreferrer nofollow" target="_blank">Apply here</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <h4><strong>Eligibility</strong></h4>
 </th>
 </tr>
@@ -338,82 +418,4 @@ AU at any point in time.</p>
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<h4><strong>Timeline</strong></h4>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>The 2024 Call for Applications has opened on 8 July 2024 and will close
-on <strong>6 September 2024</strong>. Applications must be submitted to
-the host universities using the SSRC GRF application form available on
-the webpages listed below.</p>
 <p></p>
-<p>The results of the 2024 SSRC GRF Call will be announced in February 2025.</p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Host University</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>External Link</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>National University of Singapore</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://nus.infoready4.com/#bulletinboardDetail/1798992" rel="noopener noreferrer nofollow" target="_blank">Apply here</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Nanyang Technological University</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.ntu.edu.sg/research/research-careers/social-science-research-council-(ssrc)-graduate-research-fellowship-(grf)" rel="noopener noreferrer nofollow" target="_blank">Apply here</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Singapore Management University</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.smu.edu.sg/call-proposals-july-2024" rel="noopener noreferrer nofollow" target="_blank">Apply here</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Singapore University of Technology and Design</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.sutd.edu.sg/About/Overview/Careers-with-SUTD/SSRC-Graduate-Research-Fellowship" rel="noopener noreferrer nofollow" target="_blank">Apply here</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>If you have any questions, please email the SSRC Secretariat at&nbsp;
-<a href="mailto:MOE_SSRC_Secretariat@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>MOE_SSRC_Secretariat@moe.gov.sg</u>
-</a>.</p>
