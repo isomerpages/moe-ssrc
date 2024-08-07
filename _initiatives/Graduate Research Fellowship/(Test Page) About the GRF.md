@@ -50,10 +50,6 @@ the host universities using the SSRC GRF application form available on
 the webpages listed below.</p>
 <p></p>
 <p>The results of the 2024 SSRC GRF Call will be announced in February 2025.</p>
-<p></p>
-<p>If you have any questions, please email the SSRC Secretariat at&nbsp;
-<a href="mailto:MOE_SSRC_Secretariat@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>MOE_SSRC_Secretariat@moe.gov.sg</u>
-</a>.</p>
 </td>
 </tr>
 </tbody>
@@ -112,6 +108,9 @@ the webpages listed below.</p>
 </tr>
 </tbody>
 </table>
+<p><em>If you have any questions, please email the SSRC Secretariat at&nbsp; </em>
+<a href="mailto:MOE_SSRC_Secretariat@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>MOE_SSRC_Secretariat@moe.gov.sg</u>
+</a>.</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
