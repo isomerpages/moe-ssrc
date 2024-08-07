@@ -10,6 +10,9 @@ third_nav_title: SSHR Thematic Grant
 is the first major initiative launched in 2016 by the Social Science Research
 Council (SSRC) aimed at boosting social science and humanities research
 in areas of strategic relevance to Singapore and Asia.</p>
+<p>First time applicants are encouraged to read through the following sections
+which cover the application process, funding, eligibility and evaluation
+criteria of the SSHR-TG.</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -39,9 +42,6 @@ and awardees, click on the links below.</p>
 </p>
 </li>
 </ul>
-<p></p>
-<p>First time applicants are encouraged to read through the following sections
-which cover the funding, eligibility and evaluation criteria of the SSHR-TG.</p>
 </td>
 </tr>
 </tbody>
