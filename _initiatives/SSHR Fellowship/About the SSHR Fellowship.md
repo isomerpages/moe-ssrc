@@ -190,7 +190,7 @@ close in January 2025.</p>
 <p>Opening date for applications</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>October 2023</p>
+<p>October 2024</p>
 </td>
 </tr>
 <tr>
@@ -198,7 +198,7 @@ close in January 2025.</p>
 <p>Closing date for applications</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>January 2024</p>
+<p>January 2025</p>
 </td>
 </tr>
 <tr>
@@ -206,7 +206,7 @@ close in January 2025.</p>
 <p>Evaluation of applications by SSRC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>February to May 2024</p>
+<p>February to May 2025</p>
 </td>
 </tr>
 <tr>
@@ -214,7 +214,7 @@ close in January 2025.</p>
 <p>Interview of shortlisted applicants</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>April to May 2024</p>
+<p>April to May 2025</p>
 </td>
 </tr>
 <tr>
@@ -222,7 +222,7 @@ close in January 2025.</p>
 <p>Announcement of awardees</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>July 2024</p>
+<p>July 2025</p>
 </td>
 </tr>
 </tbody>
