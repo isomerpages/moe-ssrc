@@ -59,69 +59,6 @@ and awardees, click on the links below.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>There are three tiers of funding available:</p>
-<p></p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Type</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Funding Quantum</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Description</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>A</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>S$100,000 to S$1 million / 3 – 5 years</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>For smaller-scale investigator-led research in areas of strategic relevance</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>B</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>S$1 million to S$5 million / 3 – 5 years</p>
-</td>
-<td rowspan="2" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>For large-scale research where research performers are encouraged to collaborate
-to pursue more ambitious inter-disciplinary research on issues of cross-cutting
-interests</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>C</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>S$5 million to S$10 million / 3 – 5 years</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
