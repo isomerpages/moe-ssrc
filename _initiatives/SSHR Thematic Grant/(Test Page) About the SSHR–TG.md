@@ -91,18 +91,6 @@ and awardees, click on the links below.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
-<ul data-tight="true" class="tight">
-<li>
-<p></p>
-</li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
-<p>For medium-scale investigator-led research in areas of strategic relevance</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="3">
 <p><strong>Type C: S$5 million to S$10 million / 3 – 5 years</strong>
 </p>
