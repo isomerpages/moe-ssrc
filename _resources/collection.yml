@@ -2,5 +2,6 @@ collections:
   resources:
     output: true
     order:
+      - Databases.md
       - Opportunities.md
       - Databases/.keep
