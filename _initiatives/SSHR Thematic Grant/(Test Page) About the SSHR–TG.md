@@ -81,12 +81,13 @@ and awardees, click on the links below.</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>For smaller-scale investigator-led research in areas of strategic relevance</p>
+<p>(Type A) For smaller-scale investigator-led research in areas of strategic
+relevance</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p><strong>Type B: S$1 million to S$5 million / 3 – 5 years</strong>
+<p><strong>Type B: S$1 million to S$5 million / 3 – 5 years </strong>
 </p>
 </td>
 </tr>
@@ -105,9 +106,9 @@ and awardees, click on the links below.</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>For large-scale research where research performers are encouraged to collaborate
-to pursue more ambitious inter-disciplinary research on issues of cross-cutting
-interests</p>
+<p>(Type B &amp; C) For large-scale research where research performers are
+encouraged to collaborate to pursue more ambitious inter-disciplinary research
+on issues of cross-cutting interests</p>
 </td>
 </tr>
 </tbody>
