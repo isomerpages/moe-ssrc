@@ -21,7 +21,7 @@ will receive a research grant of up to S$1m over five years for any research
 project in any social sciences and humanities discipline.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.ssrc.edu.sg/2023-fellows/" rel="noopener noreferrer nofollow" target="_blank">List of SSHR Fellowship recipients</a>
+<p><a href="https://www.ssrc.edu.sg/2023-fellows/" rel="noopener noreferrer nofollow" target="_blank">List of SSHR Fellowship awardees</a>
 </p>
 </li>
 </ul>
