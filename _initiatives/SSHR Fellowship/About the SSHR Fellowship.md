@@ -74,8 +74,9 @@ at the time of application for the SSHR Fellowship.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Nominees will be evaluated based on the following considerations:</p>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -84,11 +85,14 @@ at the time of application for the SSHR Fellowship.</p>
 <td rowspan="1" colspan="1">
 <p>a)</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Research track record, including:</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -101,10 +105,16 @@ at the time of application for the SSHR Fellowship.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>ii) Grants, awards and/or prizes won</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -116,7 +126,7 @@ at the time of application for the SSHR Fellowship.</p>
 <td rowspan="1" colspan="1">
 <p>b)</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Strong potential and motivation to pursue an academic career and be a
 future university leader</p>
 </td>
@@ -125,7 +135,7 @@ future university leader</p>
 <td rowspan="1" colspan="1">
 <p>c)</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Potential of the proposed research having a demonstrable impact on their
 career progression in becoming an independent researcher</p>
 </td>
@@ -134,7 +144,7 @@ career progression in becoming an independent researcher</p>
 <td rowspan="1" colspan="1">
 <p>d)</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Potential of the proposed research to contribute to knowledge and practice</p>
 </td>
 </tr>
@@ -142,7 +152,7 @@ career progression in becoming an independent researcher</p>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p></p>
 </td>
 </tr>
