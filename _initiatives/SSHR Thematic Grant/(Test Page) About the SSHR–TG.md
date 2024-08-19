@@ -38,7 +38,7 @@ and awardees, click on the links below.</p>
 </p>
 </li>
 <li>
-<p><a href="https://www.ssrc.edu.sg/grant-recipients/2023/ssrtg2023/" rel="noopener noreferrer nofollow" target="_blank">List of Past Projects &amp; Awardees</a>
+<p><a href="https://www.ssrc.edu.sg/grant-recipients/2023/ssrtg2023/" rel="noopener noreferrer nofollow" target="_blank">List of past projects &amp; awardees</a>
 </p>
 </li>
 </ul>
