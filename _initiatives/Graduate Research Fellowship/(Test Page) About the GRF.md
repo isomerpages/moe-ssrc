@@ -328,7 +328,7 @@ used for travel or other research-related expenses;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Awardees will be assigned a mentor who is an experienced researcher in
-local Autonomous Universities (AUs)<sup>1</sup>&nbsp;based on their proposed
+local Autonomous Universities (AUs)<sup>2</sup>&nbsp;based on their proposed
 area of research, who can provide access to valuable academic and career
 guidance;</p>
 </td>
@@ -410,7 +410,7 @@ AU at any point in time.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p><sup>1 </sup><em><sup>The participating AUs are Nanyang Technological University, National University of Singapore, Singapore Management University and Singapore University of Technology &amp; Design.</sup></em>
+<p><sup>2 </sup><em><sup>The participating AUs are Nanyang Technological University, National University of Singapore, Singapore Management University and Singapore University of Technology &amp; Design.</sup></em>
 </p>
 </td>
 </tr>
