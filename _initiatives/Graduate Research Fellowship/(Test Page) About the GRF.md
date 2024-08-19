@@ -31,6 +31,10 @@ the local research ecosystem.</p>
 <p><a href="https://staging-lite.dbcd9c711ewro.amplifyapp.com/files/SSRC_GRF_Non_Fundable_Items__2024_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>SSRC GRF Non-Fundable Items</u></a>
 </p>
 </li>
+<li>
+<p><a href="https://www.ssrc.edu.sg/grant-recipients/2023/grf2023/" rel="noopener noreferrer nofollow" target="_blank">List of GRF Awardees</a>
+</p>
+</li>
 </ul>
 <table style="minWidth: 25px">
 <colgroup>
