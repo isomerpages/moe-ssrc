@@ -34,7 +34,7 @@ click on the links below.</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/initiatives/thematic-grant/overview/" rel="noopener noreferrer nofollow" target="_blank">List of SSHR-TG Themes</a>
+<p><a href="https://www.ssrc.edu.sg/initiatives/thematic-grant/themes/" rel="noopener noreferrer nofollow" target="_blank">List of SSHR-TG Themes</a>
 </p>
 </li>
 <li>
