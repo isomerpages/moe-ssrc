@@ -176,7 +176,6 @@ career progression in becoming an independent researcher</p>
 <td rowspan="1" colspan="1">
 <p>The 2024 SSHRF Call for nominations will open in <strong>October 2024 </strong>and
 close in January 2025.</p>
-<p>The results of the previous 2023 SSHRF Call can be found <a href="https://www.ssrc.edu.sg/grant-recipients/2022/sshrf2022/" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
 </td>
 </tr>
 </tbody>
@@ -237,4 +236,4 @@ close in January 2025.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>The results of the previous 2023 SSHRF Call can be found <a href="https://www.ssrc.edu.sg/grant-recipients/2022/sshrf2022/" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
