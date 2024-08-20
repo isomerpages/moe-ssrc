@@ -20,7 +20,7 @@ sections:
           url: initiatives/SSRC-graduate-research/overview/
       title: Launch of the 2024 Graduate Research Fellowship Call
       button: find out more
-      url: initiatives/ssrc-graduate-research/timeline/
+      url: https://www.ssrc.edu.sg/initiatives/grf/overview/
   - infopic:
       title: Results of the 2023 SSHRF Call
       subtitle: Announcements
