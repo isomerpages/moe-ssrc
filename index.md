@@ -17,7 +17,7 @@ sections:
           url: initiatives/social-science-and-humanities/overview/
         - title: Social Science Research Council Graduate Research Fellowship
           description: ""
-          url: initiatives/SSRC-graduate-research/overview/
+          url: initiatives/grf/overview/
       title: Launch of the 2024 Graduate Research Fellowship Call
       button: find out more
       url: https://www.ssrc.edu.sg/initiatives/grf/overview/
