@@ -11,10 +11,10 @@ sections:
       key_highlights:
         - title: Social Science & Humanities Research Thematic Grant
           description: ""
-          url: /initiatives/social-science-research/overview/
+          url: /initiatives/thematic-grant/overview/
         - title: Social Science & Humanities Research Fellowship
           description: ""
-          url: initiatives/social-science-and-humanities/overview/
+          url: initiatives/sshr-fellowship/overview/
         - title: Social Science Research Council Graduate Research Fellowship
           description: ""
           url: initiatives/grf/overview/
