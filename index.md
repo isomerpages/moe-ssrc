@@ -33,7 +33,7 @@ sections:
       subtitle: Announcements
       id: infopic
       button: CLICK HERE
-      url: initiatives/ssrc-graduate-research/timeline/
+      url: initiatives/grf/overview/
       image: /images/updates7.jpg
       alt: Image alt text
   - resources:
