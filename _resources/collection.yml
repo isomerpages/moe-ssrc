@@ -3,4 +3,3 @@ collections:
     output: true
     order:
       - Opportunities.md
-      - Publications/.keep

@@ -11,16 +11,16 @@ sections:
       key_highlights:
         - title: Social Science & Humanities Research Thematic Grant
           description: ""
-          url: /initiatives/social-science-research/overview/
+          url: /initiatives/thematic-grant/overview/
         - title: Social Science & Humanities Research Fellowship
           description: ""
-          url: initiatives/social-science-and-humanities/overview/
+          url: initiatives/sshr-fellowship/overview/
         - title: Social Science Research Council Graduate Research Fellowship
           description: ""
-          url: initiatives/SSRC-graduate-research/overview/
+          url: initiatives/grf/overview/
       title: Launch of the 2024 Graduate Research Fellowship Call
       button: find out more
-      url: initiatives/ssrc-graduate-research/timeline/
+      url: https://www.ssrc.edu.sg/initiatives/grf/overview/
   - infopic:
       title: Results of the 2023 SSHRF Call
       subtitle: Announcements
@@ -33,7 +33,7 @@ sections:
       subtitle: Announcements
       id: infopic
       button: CLICK HERE
-      url: initiatives/ssrc-graduate-research/timeline/
+      url: initiatives/grf/overview/
       image: /images/updates7.jpg
       alt: Image alt text
   - resources:
