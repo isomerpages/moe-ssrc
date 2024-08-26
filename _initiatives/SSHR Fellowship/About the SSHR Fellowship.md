@@ -236,4 +236,4 @@ close in January 2025.</p>
 </tr>
 </tbody>
 </table>
-<p>The results of the previous 2023 SSHRF Call can be found <a href="https://www.ssrc.edu.sg/grant-recipients/2022/sshrf2023/" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
+<p>The results of the previous 2023 SSHRF Call can be found <a href="https://www.ssrc.edu.sg/2023-fellows/" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
