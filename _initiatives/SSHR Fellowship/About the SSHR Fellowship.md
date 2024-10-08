@@ -174,8 +174,8 @@ career progression in becoming an independent researcher</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>The 2024 SSHRF Call for nominations will open in <strong>October 2024 </strong>and
-close in January 2025.</p>
+<p>The 2024 SSHRF Call for nominations is open and will close on 24 January
+2025.</p>
 </td>
 </tr>
 </tbody>
@@ -199,7 +199,7 @@ close in January 2025.</p>
 <p>Opening date for applications</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>October 2024</p>
+<p>7 October 2024</p>
 </td>
 </tr>
 <tr>
@@ -207,7 +207,7 @@ close in January 2025.</p>
 <p>Closing date for applications</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>January 2025</p>
+<p>24 January 2025</p>
 </td>
 </tr>
 <tr>
