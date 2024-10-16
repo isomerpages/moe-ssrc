@@ -74,7 +74,8 @@ variant: tiptap
 </p>
 <p><strong>Ms Tan Gee Keow</strong> 
 <br><em>Permanent Secretary</em> 
-<br>Ministry of Culture, Community and Youth</p>
+<br><em>Public Service Division</em>
+</p>
 <p><strong>Professor Lionel Wee</strong> 
 <br><em>Dean, Faculty of Arts and Social Sciences;</em> 
 <br><em>Co-dean, College of Humanities &amp; Sciences</em> 
