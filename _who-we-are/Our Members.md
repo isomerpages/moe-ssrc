@@ -50,8 +50,7 @@ variant: tiptap
 <br><em>Nanyang Technological University</em>
 </p>
 <p><strong>Professor May Oo Lwin</strong> 
-<br><em>Chair, Wee Kim Wee School of Communication &amp; Information</em> 
-<br><em>Nanyang Technological University</em>
+<br><em>Associate Provost (Faculty Affairs)<br>President's Chair Professor of Communication Studies, Wee Kim Wee School of Communication &amp; Information <br>Nanyang Technological University</em>
 </p>
 <p><strong>Professor Ivan Png</strong> 
 <br><em>Distinguished Professor</em> 
@@ -74,7 +73,8 @@ variant: tiptap
 </p>
 <p><strong>Ms Tan Gee Keow</strong> 
 <br><em>Permanent Secretary</em> 
-<br>Ministry of Culture, Community and Youth</p>
+<br><em>Public Service Division</em>
+</p>
 <p><strong>Professor Lionel Wee</strong> 
 <br><em>Dean, Faculty of Arts and Social Sciences;</em> 
 <br><em>Co-dean, College of Humanities &amp; Sciences</em> 
