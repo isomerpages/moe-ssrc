@@ -50,8 +50,7 @@ variant: tiptap
 <br><em>Nanyang Technological University</em>
 </p>
 <p><strong>Professor May Oo Lwin</strong> 
-<br><em>Chair, Wee Kim Wee School of Communication &amp; Information</em> 
-<br><em>Nanyang Technological University</em>
+<br><em>Associate Provost (Faculty Affairs)<br>President's Chair Professor of Communication Studies, Wee Kim Wee School of Communication &amp; Information <br>Nanyang Technological University</em>
 </p>
 <p><strong>Professor Ivan Png</strong> 
 <br><em>Distinguished Professor</em> 
