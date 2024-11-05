@@ -4,7 +4,7 @@ permalink: /news-and-events/latest-updates/permalink/
 description: ""
 variant: markdown
 ---
-<p><a href="https://www.ssrc.edu.sg/news-and-events/latest-updates/update9/"><img src="/images/insights3_DChan" style="width:40%;margin-left:15px;" align="right"></a></p>
+<p><a href="https://www.ssrc.edu.sg/news-and-events/latest-updates/update9/"><img src="/images/insights3_DChan.jpg" style="width:40%;margin-left:15px;" align="right"></a></p>
 
 29 October 2024<br>
 **[Results of the 2023 SSHRF Call](https://www.ssrc.edu.sg/news-archive/2024/update14/)**
