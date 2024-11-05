@@ -6,8 +6,9 @@ variant: tiptap
 description: ""
 third_nav_title: "2024"
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20241029_102830.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/insights3_DChan.jpg">
 </div>
 <p>The third&nbsp;<em>Insights from the Inside</em>&nbsp;engagement session
 was delivered by Professor David Chan, Lee Kong Chian Professor of Psychology
