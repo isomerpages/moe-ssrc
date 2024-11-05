@@ -12,7 +12,14 @@ variant: markdown
 <br clear="left"><br clear="left">
 
 -----------------------------------------------------------
+<p><a href="https://www.ssrc.edu.sg/news-and-events/latest-updates/update9/"><img src="/images/updates5.jpg" style="width:40%;margin-left:15px;" align="right"></a></p>
 
+8 July 2024<br>
+**[Launch of the 2024 Graduate Research Fellowship Call](https://www.ssrc.edu.sg/initiatives/grf/overview/)**
+
+<br clear="left"><br clear="left">
+
+-----------------------------------------------------------
 
 <p><a href="https://www.ssrc.edu.sg/news-and-events/latest-updates/update9/"><img src="/images/updates2.jpg" style="width:40%;margin-left:15px;" align="right"></a></p>
 
