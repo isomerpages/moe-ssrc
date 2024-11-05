@@ -7,6 +7,8 @@ description: ""
 third_nav_title: "2024"
 ---
 <p></p>
+<h4>Making meaningful impact and building a career in psychology and the social-behavioural sciences: A Scientist-Practitioner Perspective in the Singapore Context</h4>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/20241029_102830.jpg">
 </div>
