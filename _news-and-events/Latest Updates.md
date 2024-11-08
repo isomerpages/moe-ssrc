@@ -4,6 +4,23 @@ permalink: /news-and-events/latest-updates/permalink/
 description: ""
 variant: markdown
 ---
+<p><a href="https://www.ssrc.edu.sg/news-and-events/latest-updates/update9/"><img src="/images/insights3_DChan.jpg" style="width:40%;margin-left:15px;" align="right"></a></p>
+
+29 October 2024<br>
+**[Insights from the Inside 3: Making Meaningful Impact and Building a Career in Psychology and the Social-Behavioural Sciences](https://www.ssrc.edu.sg/news-archive/2024/insights-from-the-inside-3/)**
+
+<br clear="left"><br clear="left">
+
+-----------------------------------------------------------
+<p><a href="https://www.ssrc.edu.sg/news-and-events/latest-updates/update9/"><img src="/images/updates5.jpg" style="width:40%;margin-left:15px;" align="right"></a></p>
+
+8 July 2024<br>
+**[Launch of the 2024 Graduate Research Fellowship (GRF) Call](https://www.ssrc.edu.sg/initiatives/grf/overview/)**
+
+<br clear="left"><br clear="left">
+
+-----------------------------------------------------------
+
 <p><a href="https://www.ssrc.edu.sg/news-and-events/latest-updates/update9/"><img src="/images/updates2.jpg" style="width:40%;margin-left:15px;" align="right"></a></p>
 
 5 July 2024<br>
@@ -50,7 +67,7 @@ variant: markdown
 <p><a href="https://www.ssrc.edu.sg/news-and-events/latest-updates/update9/"><img src="/images/updates5.jpg" style="width:40%;margin-left:15px;" align="right"></a></p>
 
 3 July 2023<br>
-**[Launch of the 2023 Graduate Research Fellowship Call](https://www.ssrc.edu.sg/initiatives/ssrc-graduate-research/timeline/)**
+**[Launch of the 2023 Graduate Research Fellowship Call](https://www.ssrc.edu.sg/initiatives/grf/overview/)**
 
 <br clear="left"><br clear="left">
 
