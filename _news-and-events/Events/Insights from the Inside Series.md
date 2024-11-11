@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Events
 ---
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.ssrc.edu.sg/news-archive/2024/insights-from-the-inside-3/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="insights 3" src="/images/insights3_DChan.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Insights from the Inside 3: Making Meaningful Impact and Building a Career in Psychology and Social-Behavioural Science</div><div class="isomer-card-description">October 29, 2024</div><div class="isomer-card-link">Find out more</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.ssrc.edu.sg/news-archive/2024/insights-from-the-inside-3/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="insights 3" src="/images/insights3_DChan.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Insights from the Inside 3: Making Meaningful Impact and Building a Career in Psychology and Social-Behavioural Sciences</div><div class="isomer-card-description">October 29, 2024</div><div class="isomer-card-link">Find out more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.ssrc.edu.sg/news-archive/2023/insightstty/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
