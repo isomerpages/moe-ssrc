@@ -1,6 +1,6 @@
 ---
 title: "Insights 3: Making Meaningful Impact and Building a Career in Psychology
-  and Behavioural Science"
+  and Behavioural Sciences"
 permalink: /news-archive/2024/insights-from-the-inside-3/
 variant: tiptap
 description: ""
