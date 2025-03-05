@@ -29,17 +29,13 @@ variant: tiptap
 <br><em>Chief Scientist, AI Singapore;<br>Deputy President (Innovation &amp; Enterprise)</em> 
 <br><em>National University of Singapore</em>
 </p>
-<p><strong>Mr Frederick Chew</strong> 
-<br><em>Chief Executive Officer</em> 
-<br><em>Agency for Science, Technology and Research (A*STAR)</em>
-</p>
 <p><strong>Professor Chua Beng Huat</strong> 
 <br><em>Professor</em> 
 <br><em>Social Science (Urban Studies)</em> 
 <br><em>Yale-NUS College</em>
 </p>
-<p><strong>Professor Timothy Clark</strong> 
-<br><em>Provost</em> 
+<p><strong>Professor Kenneth Benoit</strong>
+<br><em>Dean, School of Social Sciences</em>
 <br><em>Singapore Management University</em>
 </p>
 <p><strong>Professor Robbie Goh</strong> 
