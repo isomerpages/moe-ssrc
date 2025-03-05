@@ -63,10 +63,6 @@ variant: tiptap
 <br><em>School of Social Sciences</em> 
 <br><em>Nanyang Technological University</em>
 </p>
-<p><strong>Mr Edward Robinson</strong> 
-<br><em>Deputy Managing Director (Economic Policy) and<br>Chief Economist</em> 
-<br><em>Monetary Authority of Singapore</em>
-</p>
 <p><strong>Ms Tan Gee Keow</strong> 
 <br><em>Permanent Secretary</em> 
 <br><em>Public Service Division</em>
