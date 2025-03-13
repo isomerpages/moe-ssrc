@@ -4,7 +4,7 @@ permalink: /news-and-events/latest-updates/permalink/
 description: ""
 variant: markdown
 ---
-<p><a href="https://www.ssrc.edu.sg/news-and-events/latest-updates/update9/"><img src="/images/Euston_1.jpg" style="width:40%;margin-left:15px;" align="right"></a></p>
+<p><a href="https://www.ssrc.edu.sg/news-and-events/latest-updates/update9/"><img src="/images/Euston_3.png" style="width:40%;margin-left:15px;" align="right"></a></p>
 
 29 October 2024<br>
 **[Insights from the Inside 4: Economics for Society](https://www.ssrc.edu.sg/news-archive/2025/insights-from-the-inside-4)**
