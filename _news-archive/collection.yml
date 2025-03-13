@@ -2,6 +2,7 @@ collections:
   news-archive:
     output: true
     order:
+      - "2025/Insights 4: Economics for Society.md"
       - 2025/.keep
       - "2024/Insights 3: Making Meaningful Impact and Building a Career in
         Psychology and Behavioural Sciences.md"
