@@ -5,20 +5,37 @@ variant: tiptap
 description: ""
 third_nav_title: Events
 ---
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.ssrc.edu.sg/news-archive/2024/insights-from-the-inside-3/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="insights 3" src="/images/insights3_DChan.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Insights from the Inside 3: Making Meaningful Impact and Building a Career in Psychology and Social-Behavioural Sciences</div><div class="isomer-card-description">October 29, 2024</div><div class="isomer-card-link">Find out more</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.ssrc.edu.sg/news-archive/2023/insightstty/" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.ssrc.edu.sg/news-archive/2025/insights-from-the-inside-4" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Euston_1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Insights from the Inside 4: Economics for Society</div><div class="isomer-card-description">March 12, 2025</div><div class="isomer-card-link">Find out more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.ssrc.edu.sg/news-archive/2024/insights-from-the-inside-3/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Insights 2" src="/images/insights_tty2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/insights3_DChan.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Insights from the Inside 2: A Historian's History</div>
-<div class="isomer-card-description">April 10, 2023</div>
+<div class="isomer-card-title">Insights from the Inside 3: Making Meaningful Impact and Building a Career
+in Psychology and Social-Behavioural Sciences</div>
+<div class="isomer-card-description">October 29, 2024</div>
 <div class="isomer-card-link">Find out more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.ssrc.edu.sg/news-archive/2022/insightsjliow/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Insights 1" src="/images/8f6a5591_light.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Insights from the Inside 1: Building a Career in Political Science and Regional Studies</div><div class="isomer-card-description">September 5, 2022</div><div class="isomer-card-link">Find out more</div></div></a>
+</a>
 </div>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.ssrc.edu.sg/news-archive/2023/insightstty/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Insights 2" src="/images/insights_tty2.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Insights from the Inside 2: A Historian's History</div><div class="isomer-card-description">April 10, 2023</div><div class="isomer-card-link">Find out more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.ssrc.edu.sg/news-archive/2022/insightsjliow/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Insights 1" src="/images/8f6a5591_light.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Insights from the Inside 1: Building a Career in Political Science and
+Regional Studies</div>
+<div class="isomer-card-description">September 5, 2022</div>
+<div class="isomer-card-link">Find out more</div>
+</div>
+</a>
+</div>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
