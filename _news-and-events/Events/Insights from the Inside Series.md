@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Events
 ---
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Euston_1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Insights from the Inside 4: Economics for Society</div><div class="isomer-card-description">March 12, 2025</div><div class="isomer-card-link">Find out more</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.ssrc.edu.sg/news-archive/2025/insights-from-the-inside-4" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Euston_1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Insights from the Inside 4: Economics for Society</div><div class="isomer-card-description">March 12, 2025</div><div class="isomer-card-link">Find out more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.ssrc.edu.sg/news-archive/2024/insights-from-the-inside-3/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
