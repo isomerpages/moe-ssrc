@@ -6,12 +6,13 @@ date: 2018-08-14
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 |  |  |
 |---|---|
 | **Name of Recipent** | **Associate Professor Laavanya Kathiravelu**<br>_2018 Social Science and Humanities Research Fellowship Awardee_ |
 | **Project Title** | Does Citizenship Matter? Interrogating Second-generation (Im)migrant Incorporation in Singapore and Qatar |
-| **Project Status** | Ongoing |
+| **Project Status** | Completed |
 | **Year Awarded** | 2018 |
 | **Type of Grant** | Social Science and Humanities Research Fellowship |
 |
