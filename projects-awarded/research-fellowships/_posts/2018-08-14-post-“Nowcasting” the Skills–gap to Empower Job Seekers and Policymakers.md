@@ -5,12 +5,13 @@ date: 2018-08-14
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 |  |  |
 |---|---|
 | **Name of Recipent** | **Assistant Professor Reuben Ng**<br>_2018 Social Science and Humanities Research Fellowship Awardee_ |
 | **Project Title** | “Nowcasting” the Skills-gap to Empower Job Seekers and Policymakers |
-| **Project Status** | Ongoing |
+| **Project Status** | Completed |
 | **Year Awarded** | 2018 |
 | **Type of Grant** | Social Science and Humanities Research Fellowship |
 |
