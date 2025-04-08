@@ -15,8 +15,7 @@ colors:
       color: "#00838f"
     - title: media-color-five
       color: "#00838f"
-description: "The official webpage of the Singapore Social Science Research
-  Council (SSRC). "
+description: The official webpage of the Singapore Social Science Research Council (SSRC).
 permalink: none
 baseurl: ""
 exclude:
@@ -58,3 +57,4 @@ facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
 resources_name: projects-awarded
+google_analytics_ga4: ""
