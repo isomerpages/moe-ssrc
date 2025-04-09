@@ -32,7 +32,7 @@ the local research ecosystem.</p>
 </p>
 </li>
 <li>
-<p><a href="https://www.ssrc.edu.sg/grant-recipients/2023/grf2023/" rel="noopener noreferrer nofollow" target="_blank">List of GRF Awardees</a>
+<p><a href="https://www.ssrc.edu.sg/grant-recipients/2024/grf2024/" rel="noopener noreferrer nofollow" target="_blank">List of GRF Awardees</a>
 </p>
 </li>
 </ul>
