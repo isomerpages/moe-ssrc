@@ -3,6 +3,7 @@ title: 2021 GRF Fellows
 permalink: /grant-recipients/2021/grf2021/
 description: ""
 third_nav_title: Graduate Research Fellows
+variant: markdown
 ---
 The following recipients were awarded during the inaugural 2021 SSRC GRF call. 
 
@@ -15,9 +16,8 @@ The following recipients were awarded during the inaugural 2021 SSRC GRF call.
 | 5 | NTU | Kunalan Manokara | University of Amsterdam | Bridging the Gap: How Positive Emotions can Promote Intercultural Cooperation | 
 |6| NTU | Charlotte Hand | University of Oxford | Recalibrating Modern Womanhood: Time, Region, and Gender in Nineteenth-Century America| 
 |7| NTU | Guan Xinyu | Cornell University | Heartlanders: Citizenship, Intimacy and Public Housing in Singapore| 
-|8| NTU | Jiemin Looi | University of Texas at Austin | Artificial Intelligence in Advertising: A Mixed-Method Comparison of Human and Virtual Social Media Influencers | 
-|9| NTU | Wan Jian Yong, Darren | Cornell University | Documenting Belonging: Citizenship Claims and Bureaucratic Encounters in British Southeast Asia| 
-|10| NTU | Lydia Cheng Rui Jun | The University of Sydney| A Changing Media Landscape: Exploring the Production and Consumption of Lifestyle Content in Singapore | 
-|11| SMU | Robin Ng Jui Pin | Université Catholique de Louvain | Ratings with Heterogenous Preferences| 
-|12| SMU| Mathew Koo Ming Yew | Yale University | Who Manages the Watchmen? Organisational Structure and Ambition among Coercive Agents| 
-|13| SUTD | Loh Yui Leh Timothy | Massachusetts Institute of Technology | Assistive Technologies for Deaf People in Jordan: Entanglements of Language, Religion, and Disability
+|8| NTU | Wan Jian Yong, Darren | Cornell University | Documenting Belonging: Citizenship Claims and Bureaucratic Encounters in British Southeast Asia| 
+|9| NTU | Lydia Cheng Rui Jun | The University of Sydney| A Changing Media Landscape: Exploring the Production and Consumption of Lifestyle Content in Singapore | 
+|10| SMU | Robin Ng Jui Pin | Université Catholique de Louvain | Ratings with Heterogenous Preferences| 
+|11| SMU| Mathew Koo Ming Yew | Yale University | Who Manages the Watchmen? Organisational Structure and Ambition among Coercive Agents| 
+|12| SUTD | Loh Yui Leh Timothy | Massachusetts Institute of Technology | Assistive Technologies for Deaf People in Jordan: Entanglements of Language, Religion, and Disability
