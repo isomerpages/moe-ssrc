@@ -4,6 +4,15 @@ permalink: /news-and-events/latest-updates/permalink/
 description: ""
 variant: markdown
 ---
+<p><a href="https://www.ssrc.edu.sg/initiatives/thematic-grant/themes/"><img src="/images/updates1.jpg" style="width:40%;margin-left:15px;" align="right"></a></p>
+
+9 May 2025<br>
+**[Launch of the 2025 SSRTG Call](https://www.ssrc.edu.sg/initiatives/thematic-grant/themes/)**
+
+<br clear="left"><br clear="left">
+
+-----------------------------------------------------------
+
 <p><a href="https://www.ssrc.edu.sg/news-and-events/latest-updates/update9/"><img src="/images/Euston_3.png" style="width:40%;margin-left:15px;" align="right"></a></p>
 
 12 March 2025<br>
