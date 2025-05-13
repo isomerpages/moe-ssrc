@@ -4,16 +4,16 @@ permalink: /news-and-events/latest-updates/permalink/
 description: ""
 variant: markdown
 ---
-<p><a href="https://www.ssrc.edu.sg/initiatives/thematic-grant/themes/"><img src="/images/updates1.jpg" style="width:40%;margin-left:15px;" align="right"></a></p>
+<p><a href="https://www.ssrc.edu.sg/initiatives/thematic-grant/overview/"><img src="/images/updates1.jpg" style="width:40%;margin-left:15px;" align="right"></a></p>
 
 9 May 2025<br>
-**[Launch of the 2025 SSRTG Call](https://www.ssrc.edu.sg/initiatives/thematic-grant/themes/)**
+**[Launch of the 2025 SSRTG Call](https://www.ssrc.edu.sg/initiatives/thematic-grant/overview/)**
 
 <br clear="left"><br clear="left">
 
 -----------------------------------------------------------
 
-<p><a href="https://www.ssrc.edu.sg/news-and-events/latest-updates/update9/"><img src="/images/Euston_3.png" style="width:40%;margin-left:15px;" align="right"></a></p>
+<p><a href="https://www.ssrc.edu.sg/news-archive/2025/insights-from-the-inside-4"><img src="/images/Euston_3.png" style="width:40%;margin-left:15px;" align="right"></a></p>
 
 12 March 2025<br>
 **[Insights from the Inside 4: Economics for Society](https://www.ssrc.edu.sg/news-archive/2025/insights-from-the-inside-4)**
@@ -22,7 +22,7 @@ variant: markdown
 
 -----------------------------------------------------------
 
-<p><a href="https://www.ssrc.edu.sg/news-and-events/latest-updates/update9/"><img src="/images/insights3_DChan.jpg" style="width:40%;margin-left:15px;" align="right"></a></p>
+<p><a href="https://www.ssrc.edu.sg/news-archive/2024/insights-from-the-inside-3"><img src="/images/insights3_DChan.jpg" style="width:40%;margin-left:15px;" align="right"></a></p>
 
 29 October 2024<br>
 **[Insights from the Inside 3: Making Meaningful Impact and Building a Career in Psychology and the Social-Behavioural Sciences](https://www.ssrc.edu.sg/news-archive/2024/insights-from-the-inside-3/)**
@@ -30,7 +30,7 @@ variant: markdown
 <br clear="left"><br clear="left">
 
 -----------------------------------------------------------
-<p><a href="https://www.ssrc.edu.sg/news-and-events/latest-updates/update9/"><img src="/images/updates5.jpg" style="width:40%;margin-left:15px;" align="right"></a></p>
+<p><a href="https://www.ssrc.edu.sg/initiatives/grf/overview/"><img src="/images/updates5.jpg" style="width:40%;margin-left:15px;" align="right"></a></p>
 
 8 July 2024<br>
 **[Launch of the 2024 Graduate Research Fellowship (GRF) Call](https://www.ssrc.edu.sg/initiatives/grf/overview/)**
@@ -39,7 +39,7 @@ variant: markdown
 
 -----------------------------------------------------------
 
-<p><a href="https://www.ssrc.edu.sg/news-and-events/latest-updates/update9/"><img src="/images/updates2.jpg" style="width:40%;margin-left:15px;" align="right"></a></p>
+<p><a href="https://www.ssrc.edu.sg/news-archive/2024/update14/"><img src="/images/updates2.jpg" style="width:40%;margin-left:15px;" align="right"></a></p>
 
 5 July 2024<br>
 **[Results of the 2023 SSHRF Call](https://www.ssrc.edu.sg/news-archive/2024/update14/)**
@@ -48,7 +48,7 @@ variant: markdown
 
 -----------------------------------------------------------
 
-<p><a href="https://www.ssrc.edu.sg/news-and-events/latest-updates/update9/"><img src="/images/updates1.jpg" style="width:40%;margin-left:15px;" align="right"></a></p>
+<p><a href="https://www.ssrc.edu.sg/news-archive/2024/update13/"><img src="/images/updates1.jpg" style="width:40%;margin-left:15px;" align="right"></a></p>
 
 13 May 2024<br>
 **[Launch of the 2024 SSHR-TG Call](https://www.ssrc.edu.sg/news-archive/2024/update13/)**
@@ -57,7 +57,7 @@ variant: markdown
 
 -----------------------------------------------------------
 
-<p><a href="https://www.ssrc.edu.sg/news-and-events/latest-updates/update9/"><img src="/images/updates5.jpg" style="width:40%;margin-left:15px;" align="right"></a></p>
+<p><a href="https://www.ssrc.edu.sg/grant-recipients/2023/grf2023/"><img src="/images/updates5.jpg" style="width:40%;margin-left:15px;" align="right"></a></p>
 
 27 March 2024<br>
 **[Results of the 2023 GRF Call](https://www.ssrc.edu.sg/grant-recipients/2023/grf2023/)**
@@ -66,7 +66,7 @@ variant: markdown
 
 -----------------------------------------------------------
 
-<p><a href="https://www.ssrc.edu.sg/news-and-events/latest-updates/update9/"><img src="/images/Launch_Event_2.jpg" style="width:40%;margin-left:15px;" align="right"></a></p>
+<p><a href="https://www.ideasfestival.edu.sg/ideas-festival-launch/"><img src="/images/Launch_Event_2.jpg" style="width:40%;margin-left:15px;" align="right"></a></p>
 
 20 March 2024<br>
 **[Launch of the Ideas Festival](https://www.ideasfestival.edu.sg/ideas-festival-launch/)**
@@ -74,7 +74,7 @@ variant: markdown
 <br clear="left"><br clear="left">
 
 -----------------------------------------------------------
-<p><a href="https://www.ssrc.edu.sg/news-and-events/latest-updates/update9/"><img src="/images/updates2.jpg" style="width:40%;margin-left:15px;" align="right"></a></p>
+<p><a href="https://www.ssrc.edu.sg/grant-recipients/2022/sshrf2022/"><img src="/images/updates2.jpg" style="width:40%;margin-left:15px;" align="right"></a></p>
 
 23 August 2023<br>
 **[Results of the 2022 SSHRF Call](https://www.ssrc.edu.sg/grant-recipients/2022/sshrf2022/)**
@@ -82,7 +82,7 @@ variant: markdown
 <br clear="left"><br clear="left">
 
 -----------------------------------------------------------
-<p><a href="https://www.ssrc.edu.sg/news-and-events/latest-updates/update9/"><img src="/images/updates5.jpg" style="width:40%;margin-left:15px;" align="right"></a></p>
+<p><a href="https://www.ssrc.edu.sg/initiatives/grf/overview/"><img src="/images/updates5.jpg" style="width:40%;margin-left:15px;" align="right"></a></p>
 
 3 July 2023<br>
 **[Launch of the 2023 Graduate Research Fellowship Call](https://www.ssrc.edu.sg/initiatives/grf/overview/)**
@@ -91,7 +91,7 @@ variant: markdown
 
 -----------------------------------------------------------
 
-<p><a href="https://www.ssrc.edu.sg/news-and-events/latest-updates/update10/"><img src="/images/updates1.jpg" style="width:40%;margin-left:15px;" align="right"></a></p>
+<p><a href="https://www.ssrc.edu.sg/news-archive/2023/update11/"><img src="/images/updates1.jpg" style="width:40%;margin-left:15px;" align="right"></a></p>
 
 22 May 2023<br>
 **[Launch of the 2023 SSRTG Call](https://www.ssrc.edu.sg/news-archive/2023/update11/)**
@@ -99,7 +99,7 @@ variant: markdown
 <br clear="left"><br clear="left">
 
 -----------------------------------------------------------
-<p><a href="https://www.ssrc.edu.sg/news-and-events/latest-updates/update9/"><img src="/images/updates2.jpg" style="width:40%;margin-left:15px;" align="right"></a></p>
+<p><a href="https://www.ssrc.edu.sg/news-and-events/latest-updates/update10/"><img src="/images/updates2.jpg" style="width:40%;margin-left:15px;" align="right"></a></p>
 
 21 June 2022<br>
 **[Results of the 2021 SSHRF Call and Launch of the 2022 SSHRF Call](https://www.ssrc.edu.sg/news-and-events/latest-updates/update10/)**

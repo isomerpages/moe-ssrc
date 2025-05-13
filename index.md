@@ -20,7 +20,7 @@ sections:
           url: initiatives/grf/overview/
       title: Launch of the 2025 SSHR Thematic Grant Call
       button: find out more
-      url: https://www.ssrc.edu.sg/initiatives/thematic-grant/themes/
+      url: https://www.ssrc.edu.sg/initiatives/thematic-grant/overview/
   - infopic:
       title: Results of the 2023 SSHRF Call
       subtitle: Announcements
