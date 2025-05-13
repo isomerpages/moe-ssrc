@@ -9,7 +9,7 @@ third_nav_title: SSHR Thematic Grant
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SSRC website.png">
 </div>
-<p>The <strong>2024 Social Science &amp; Humanities Research Thematic Grant</strong> (SSHR-TG)
+<p>The <strong>2025 Social Science &amp; Humanities Research Thematic Grant</strong> (SSHR-TG)
 Call invites proposals which address the following themes using various
 perspectives in the social sciences and humanities, with special focus
 on understanding Singapore and its place in the region (ASEAN and the rest
@@ -84,7 +84,7 @@ and communities to address them.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>Theme 4: The Human Condition </strong>
+<p><strong>Theme 4: The Human Condition</strong>
 </p>
 </th>
 </tr>
@@ -117,5 +117,5 @@ using perspectives from the social sciences and humanities.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>All applications must be submitted through the respective Offices of Research (or equivalent) by 2 Aug 2024 at 5pm.</strong> The
+<p><strong>All applications must be submitted through the respective Offices of Research (or equivalent) by 1 Aug 2024 at 5pm.</strong> The
 results of the previous 2023 SSRTG Call can be found <a href="https://www.ssrc.edu.sg/grant-recipients/2023/ssrtg2023/" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
