@@ -27,7 +27,7 @@ criteria of the SSHR-TG.</p>
 <td rowspan="1" colspan="1">
 <p><strong>The 2025 Call for proposals was launched on 9 May 2025. </strong>All
 applications must be submitted through the respective Offices of Research
-(or equivalent) by 1 Aug 2024 at 5pm.</p>
+(or equivalent) by 1 Aug 2025 at 5pm.</p>
 <p></p>
 <p>For information about the latest thematic areas or past projects and awardees,
 click on the links below.</p>
