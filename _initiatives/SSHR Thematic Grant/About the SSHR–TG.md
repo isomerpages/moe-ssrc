@@ -213,6 +213,14 @@ the eligible Host Institution, at time of application.</p>
 <p>Singapore-Eidgenössische Technische Hochschule Centre</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>University of the Arts Singapore (UAS)</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
