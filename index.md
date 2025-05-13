@@ -18,9 +18,9 @@ sections:
         - title: Social Science Research Council Graduate Research Fellowship
           description: ""
           url: initiatives/grf/overview/
-      title: Results of the 2024 Graduate Research Fellowship Call
+      title: Launch of the 2025 SSHR Thematic Grant Call
       button: find out more
-      url: https://www.ssrc.edu.sg/grant-recipients/2024/grf2024/
+      url: https://www.ssrc.edu.sg/initiatives/thematic-grant/themes/
   - infopic:
       title: Results of the 2023 SSHRF Call
       subtitle: Announcements
