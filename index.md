@@ -27,6 +27,7 @@ sections:
       button: Click here
       url: https://www.ssrc.edu.sg/grant-recipients/2024/sshrtg2024/
       image: /images/updates1.jpg
+      alt: ssrtg
   - infopic:
       title: Launch of the 2024 Graduate Research Fellowship Call
       subtitle: Announcements
