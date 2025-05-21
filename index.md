@@ -22,10 +22,10 @@ sections:
       button: find out more
       url: https://www.ssrc.edu.sg/initiatives/thematic-grant/overview/
   - infopic:
-      title: Results of the 2023 SSHRF Call
+      title: Results of the 2024 SSHR-TG Call
       subtitle: Announcements
       button: Click here
-      url: /2023-fellows/
+      url: https://www.ssrc.edu.sg/grant-recipients/2024/sshrtg2024/
       image: /images/updates2.jpg
       alt: Result of the 2023 SSHRF Call
   - infopic:
