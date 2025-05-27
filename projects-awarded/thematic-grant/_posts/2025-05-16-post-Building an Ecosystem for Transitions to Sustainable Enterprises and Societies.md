@@ -9,7 +9,7 @@ variant: markdown
 ---
 |  |  |
 |---|---|
-| **Name of Recipent** | **Professor Sumit Agarwal**<br>_Low Tuck Kwong Distinguished Professor of Finance, Economics and Real Estate / Associate Professor of Finance and Dean’s Chair, NUS_ |
+| **Name of Recipent** | **Professor Sumit Agarwal**<br>_Low Tuck Kwong Distinguished Professor of Finance, Economics and Real Estate,  Associate Professor of Finance and Dean’s Chair, NUS_ |
 | **Project Title** | Building an Ecosystem for Transitions to Sustainable Enterprises and Societies |
 | **Project Status** | Ongoing |
 | **Year Awarded** | 2024 |
