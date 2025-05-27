@@ -9,7 +9,7 @@ variant: markdown
 ---
 |  |  |
 |---|---|
-| **Name of Recipent** | **Associate Professor Damien Joseph**<br>_Nanyang Business School_ |
+| **Name of Recipent** | **Associate Professor Damien Joseph**<br>_Nanyang Business School, NTU_ |
 | **Project Title** | AI and the Changing Nature of Work in Acute Healthcare Settings |
 | **Project Status** | Ongoing |
 | **Year Awarded** | 2024 |
