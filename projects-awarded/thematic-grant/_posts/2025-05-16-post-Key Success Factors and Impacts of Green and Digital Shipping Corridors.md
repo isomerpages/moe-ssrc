@@ -9,7 +9,7 @@ variant: markdown
 ---
 |  |  |
 |---|---|
-| **Name of Recipent** | **Assistant Professor Yan Ran**<br> School of Civil and Environmental Engineering, NTU |
+| **Name of Recipent** | **Assistant Professor Yan Ran**<br> *School of Civil and Environmental Engineering, NTU* |
 | **Project Title** | Key Success Factors and Impacts of Green and Digital Shipping Corridors |
 | **Project Status** | Ongoing |
 | **Year Awarded** | 2024 |
