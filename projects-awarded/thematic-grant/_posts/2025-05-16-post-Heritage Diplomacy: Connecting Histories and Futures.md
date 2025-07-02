@@ -18,7 +18,7 @@ variant: markdown
 
 The project brings together experts from the humanities, computing studies and the social sciences to produce new, field defining scholarship and platforms of knowledge exchange between academia and institutions that see cultural heritage as a productive means for promoting societal cohesion within and across borders, and the values of internationalism and international diplomacy. It is oriented by the concept of heritage diplomacy, and innovation comes from integrating two distinct ways of approaching this term.  
   
-The first addresses the heritage sector as an increasingly important actor in foreign policy, diplomatic strategy, people-people ties and international cooperation. To that end, heritage is seen as a series of intersecting ecosystems operating at different scales, involving multiple actors and sectors of public and cultural policy.  
+The first approach addresses the heritage sector as an increasingly important actor in foreign policy, diplomatic strategy, people-people ties and international cooperation. To that end, heritage is seen as a series of intersecting ecosystems operating at different scales, involving multiple actors and sectors of public and cultural policy.  
   
 The second approach involves examining Asia’s long history of diplomatic gifting as a legacy of intercultural conduct. Understanding material culture histories of diplomacy as a form of shared heritage foregrounds narratives of connected pasts for both scholars and public audiences in ways that foster productive connections in the present.  
   
