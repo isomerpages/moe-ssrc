@@ -1,7 +1,7 @@
 ---
 title: Key Success Factors and Impacts of Green and Digital Shipping Corridors
 permalink: /projects/thematic-grant/yan2024/
-date: 2025-05-16
+date: 2024-05-13
 layout: post
 description: ""
 image: ""

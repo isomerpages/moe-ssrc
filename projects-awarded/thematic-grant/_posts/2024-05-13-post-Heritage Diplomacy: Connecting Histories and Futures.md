@@ -1,7 +1,7 @@
 ---
 title: "Heritage Diplomacy: Connecting Histories and Futures"
 permalink: /projects/thematic-grant/winter2024/
-date: 2025-05-16
+date: 2024-05-13
 layout: post
 description: ""
 image: ""

@@ -1,7 +1,7 @@
 ---
 title: Alternatives to Confucian Capitalism
 permalink: /projects/thematic-grant/dean2024/
-date: 2025-05-16
+date: 2024-05-13
 layout: post
 description: ""
 image: ""

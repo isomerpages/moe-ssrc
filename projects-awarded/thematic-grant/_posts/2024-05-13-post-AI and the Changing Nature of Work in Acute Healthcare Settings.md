@@ -1,7 +1,7 @@
 ---
 title: AI and the Changing Nature of Work in Acute Healthcare Settings
 permalink: /projects/thematic-grant/joseph2024/
-date: 2025-05-16
+date: 2024-05-13
 layout: post
 description: ""
 image: ""

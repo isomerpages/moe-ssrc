@@ -1,7 +1,7 @@
 ---
 title: Building an Ecosystem for Transitions to Sustainable Enterprises and Societies
 permalink: /projects/thematic-grant/agarwal2024/
-date: 2025-05-16
+date: 2024-05-13
 layout: post
 description: ""
 image: ""

@@ -2,7 +2,7 @@
 title: Social Challenges in Resource Allocation through AI across the Healthcare
   Ecosystem
 permalink: /projects/thematic-grant/goh2024/
-date: 2025-05-16
+date: 2024-05-13
 layout: post
 description: ""
 image: ""
