@@ -22,18 +22,18 @@ sections:
       button: find out more
       url: https://www.ssrc.edu.sg/initiatives/thematic-grant/overview/
   - infopic:
-      title: Results of the 2023 SSHRF Call
+      title: Results of the 2024 SSHR-TG Call
       subtitle: Announcements
       button: Click here
-      url: /2023-fellows/
-      image: /images/updates2.jpg
-      alt: Result of the 2023 SSHRF Call
+      url: https://www.ssrc.edu.sg/grant-recipients/2024/sshrtg2024/
+      image: /images/updates1.jpg
+      alt: ssrtg
   - infopic:
-      title: Launch of the 2024 Graduate Research Fellowship Call
+      title: Results of the 2024 Graduate Research Fellowship Call
       subtitle: Announcements
       id: infopic
       button: CLICK HERE
-      url: initiatives/grf/overview/
+      url: https://www.ssrc.edu.sg/grant-recipients/2024/grf2024/
       image: /images/updates7.jpg
       alt: Image alt text
   - resources:
