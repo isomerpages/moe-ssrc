@@ -26,7 +26,7 @@ sections:
       subtitle: Announcements
       id: infopic
       button: CLICK HERE
-      url: https://www.ssrc.edu.sg/2024-fellows
+      url: https://www.ssrc.edu.sg/grant-recipients/2024-fellows/
       image: /images/updates2.jpg
       alt: Image alt text
   - infopic:
