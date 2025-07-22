@@ -21,7 +21,7 @@ will receive a research grant of up to S$1m over five years for any research
 project in any social sciences and humanities discipline.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.ssrc.edu.sg/2023-fellows/" rel="noopener noreferrer nofollow" target="_blank">List of SSHR Fellowship awardees</a>
+<p><a href="https://www.ssrc.edu.sg/grant-recipients/2024-fellows/" rel="noopener noreferrer nofollow" target="_blank">List of SSHR Fellowship awardees</a>
 </p>
 </li>
 </ul>
@@ -236,4 +236,4 @@ career progression in becoming an independent researcher</p>
 </tr>
 </tbody>
 </table>
-<p>The results of the previous 2023 SSHRF Call can be found <a href="https://www.ssrc.edu.sg/2023-fellows/" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
+<p>The results of the 2024 SSHRF Call can be found <a href="https://www.ssrc.edu.sg/grant-recipients/2024-fellows/" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
