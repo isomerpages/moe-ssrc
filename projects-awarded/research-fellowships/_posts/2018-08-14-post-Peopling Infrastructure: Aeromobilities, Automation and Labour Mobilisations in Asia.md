@@ -10,7 +10,7 @@ variant: markdown
 ---
 |  |  |
 |---|---|
-| **Name of Recipent** | **Assistant Professor Lin Weiqiang**<br>_2018 Social Science and Humanities Research Fellowship Awardee_ |
+| **Name of Recipent** | **Associate Professor Lin Weiqiang**<br>_2018 Social Science and Humanities Research Fellowship Awardee_ |
 | **Project Title** | Peopling Infrastructure: Aeromobilities, Automation and Labour Mobilisations in Asia |
 | **Project Status** | Completed |
 | **Year Awarded** | 2018 |
