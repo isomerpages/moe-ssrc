@@ -22,7 +22,7 @@ sections:
       button: find out more
       url: https://www.ssrc.edu.sg/initiatives/thematic-grant/overview/
   - infopic:
-      title: Results of the 2024 SSHR Research Fellowship Call
+      title: Results of the 2024 SSHR Fellowship Call
       subtitle: Announcements
       id: infopic
       button: CLICK HERE
