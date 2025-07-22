@@ -6,10 +6,11 @@ date: 2021-10-11
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 |  |  |
 |---|---|
-| **Name of Recipent** | **Assistant Professor Benjamin Li**<br>_Wee Kim Wee School of Communication and Information, Nanyang Technological University_ |
+| **Name of Recipent** | **Associate Professor Benjamin Li**<br>_Wee Kim Wee School of Communication and Information, Nanyang Technological University_ |
 | **Project Title** | Exploring the Efficacy of Virtual Reality to Improve Outgroup Attitudes in the Context of Young and Older Singaporeans |
 | **Project Status** | Ongoing |
 | **Year Awarded** | 2021 |
