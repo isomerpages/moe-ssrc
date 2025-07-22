@@ -7,7 +7,7 @@ variant: markdown
 <p><a href="https://www.ssrc.edu.sg/initiatives/thematic-grant/overview/"><img src="/images/updates1.jpg" style="width:40%;margin-left:15px;" align="right"></a></p>
 
 9 May 2025<br>
-**[Launch of the 2025 SSRTG Call](https://www.ssrc.edu.sg/initiatives/thematic-grant/overview/)**
+**[Launch of the 2025 SSHR-TG Call](https://www.ssrc.edu.sg/initiatives/thematic-grant/overview/)**
 
 <br clear="left"><br clear="left">
 
