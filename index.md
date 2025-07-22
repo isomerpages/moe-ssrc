@@ -27,7 +27,7 @@ sections:
       id: infopic
       button: CLICK HERE
       url: https://www.ssrc.edu.sg/2024-fellows
-      image: /images/updates7.jpg
+      image: /images/updates2.jpg
       alt: Image alt text
   - infopic:
       title: Results of the 2024 SSHR-TG Call
