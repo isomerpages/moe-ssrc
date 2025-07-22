@@ -5,10 +5,11 @@ date: 2020-10-09
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 |  |  |
 |---|---|
-| **Principal Investigator** | **Assistant Professor Chia Meng Tat Jack**<br>_Department of History, Faculty of Arts &amp; Social Sciences, NUS_ |
+| **Principal Investigator** | **Associate Professor Chia Meng Tat Jack**<br>_Department of History, Faculty of Arts &amp; Social Sciences, NUS_ |
 | **Project Title** | Diplomatic Dharma: Buddhist Diplomacy in Modern Asia, 1950s – Present |
 | **Project Status** | Ongoing |
 | **Year Awarded** | 2020 |
