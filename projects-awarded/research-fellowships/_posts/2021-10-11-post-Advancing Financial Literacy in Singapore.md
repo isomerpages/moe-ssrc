@@ -5,10 +5,11 @@ date: 2021-10-11
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 |  |  |
 |---|---|
-| **Name of Recipent** | **Assistant Professor Joelle H. Fong**<br>_Lee Kuan Yew School of Public Policy_ |
+| **Name of Recipent** | **Associate Professor Joelle H. Fong**<br>_Lee Kuan Yew School of Public Policy_ |
 | **Project Title** | Advancing Financial Literacy in Singapore |
 | **Project Status** | Ongoing |
 | **Year Awarded** | 2021 |

@@ -1,8 +1,9 @@
 ---
 title: 2019 Fellows
-permalink: /grant-recipients/2019/sshrf2019/
+permalink: /grant-recipients/2019-fellows/
 description: ""
 third_nav_title: SSHR Fellows
+variant: tiptap
 ---
 #### **Results of 2019 Social Science & Humanities Research Fellowship Call**
 ![](/images/updates2cropped.jpg)

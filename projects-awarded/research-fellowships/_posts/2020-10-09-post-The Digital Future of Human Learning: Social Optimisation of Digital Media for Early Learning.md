@@ -6,10 +6,11 @@ date: 2020-10-09
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 |  |  |
 |---|---|
-| **Principal Investigator** | **Associate Professor Victoria Leong Vik Ee**<br>_Department of Psychology, NTU_ |
+| **Principal Investigator** | **Professor Victoria Leong Vik Ee**<br>_Department of Psychology, NTU_ |
 | **Project Title** | The Digital Future of Human Learning: Social Optimisation of Digital Media for Early Learning |
 | **Project Status** | Ongoing |
 | **Year Awarded** | 2020 |

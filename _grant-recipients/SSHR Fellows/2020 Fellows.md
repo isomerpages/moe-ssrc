@@ -1,6 +1,6 @@
 ---
 title: 2020 Fellows
-permalink: /grant-recipients/2020/sshrf2020/
+permalink: /grant-recipients/2020-fellows/
 description: ""
 third_nav_title: SSHR Fellows
 variant: markdown

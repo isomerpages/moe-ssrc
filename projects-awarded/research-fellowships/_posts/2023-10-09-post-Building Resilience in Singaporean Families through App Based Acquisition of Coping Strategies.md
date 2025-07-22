@@ -10,7 +10,7 @@ variant: markdown
 ---
 |  |  |
 |---|---|
-| **Name of Recipent** | **Dr Atiqah Azhari**<br>_School of Humanities and Behavioural Sciences, Singapore University of Social Sciences_ |
+| **Name of Recipent** | **Associate Professor Atiqah Azhari**<br>_School of Humanities and Behavioural Sciences, Singapore University of Social Sciences_ |
 | **Project Title** | Building Resilience in Singaporean Families through App-Based Acquisition of Coping Strategies: An Interpersonal Neuroscience-Informed Approach |
 | **Project Status** | Ongoing |
 | **Year Awarded** | 2023 |

@@ -1,6 +1,6 @@
 ---
 title: 2022 Fellows
-permalink: /grant-recipients/2022/sshrf2022/
+permalink: /grant-recipients/2022-fellows/
 description: ""
 third_nav_title: SSHR Fellows
 variant: markdown
