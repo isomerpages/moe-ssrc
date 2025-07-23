@@ -24,11 +24,11 @@ of Singaporean researchers who may eventually take up appointments within
 the local research ecosystem.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://staging-lite.dbcd9c711ewro.amplifyapp.com/files/SSRC_GRF_Infosheet__2024_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>SSRC GRF Infosheet</u></a>
+<p><a href="/files/SSRC_GRF_Infosheet__2025_.pdf" rel="noopener nofollow" target="_blank">SSRC GRF Infosheet 2025</a>
 </p>
 </li>
 <li>
-<p><a href="https://staging-lite.dbcd9c711ewro.amplifyapp.com/files/SSRC_GRF_Non_Fundable_Items__2024_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>SSRC GRF Non-Fundable Items</u></a>
+<p><a href="/files/SSRC_GRF_Non_Fundable_Items__2025_.pdf" rel="noopener nofollow" target="_blank">SSRC GRF Non Fundable Items 2025</a>
 </p>
 </li>
 <li>
@@ -48,11 +48,11 @@ the local research ecosystem.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>The 2024 Call for Applications has opened on 8 Jul 2024 and will close on 6 Sep 2024</strong>.
+<p><strong>The 2025 Call for Applications has opened on 15 Jul 2025 and will close on 15 Sep 2025</strong>.
 All applications must be submitted to the host universities using the SSRC
 GRF application form available on the webpages listed below.</p>
 <p></p>
-<p>The results of the 2024 SSRC GRF Call will be announced in February 2025.</p>
+<p>The results of the 2025 SSRC GRF Call will be announced in February 2026.</p>
 </td>
 </tr>
 </tbody>
@@ -78,7 +78,7 @@ GRF application form available on the webpages listed below.</p>
 <p>National University of Singapore</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://nus.infoready4.com/#bulletinboardDetail/1798992" rel="noopener noreferrer nofollow" target="_blank">Apply here</a>
+<p><a href="https://nus.infoready4.com/#bulletinboardDetail/1799454" rel="noopener noreferrer nofollow" target="_blank">Apply here</a>
 </p>
 </td>
 </tr>
@@ -96,7 +96,7 @@ GRF application form available on the webpages listed below.</p>
 <p>Singapore Management University</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.smu.edu.sg/call-proposals-july-2024" rel="noopener noreferrer nofollow" target="_blank">Apply here</a>
+<p><a href="https://www.smu.edu.sg/call-proposals-july-2025" rel="noopener noreferrer nofollow" target="_blank">Apply here</a>
 </p>
 </td>
 </tr>
@@ -105,7 +105,7 @@ GRF application form available on the webpages listed below.</p>
 <p>Singapore University of Technology and Design</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.sutd.edu.sg/About/Overview/Careers-with-SUTD/SSRC-Graduate-Research-Fellowship" rel="noopener noreferrer nofollow" target="_blank">Apply here</a>
+<p><a href="https://www.sutd.edu.sg/about/careers/ssrc-graduate-research-fellowship/" rel="noopener noreferrer nofollow" target="_blank">Apply here</a>
 </p>
 </td>
 </tr>
