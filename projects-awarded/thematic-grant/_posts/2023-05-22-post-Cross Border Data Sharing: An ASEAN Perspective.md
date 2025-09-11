@@ -11,7 +11,7 @@ variant: markdown
 |---|---|
 | **Name of Recipent** | **Assistant Professor Deng Liuchun**<br>_Assistant Professor of Economics, Yale-NUS College_ |
 | **Project Title** | Cross Border Data Sharing: An ASEAN Perspective |
-| **Project Status** | Ongoing |
+| **Project Status** | Closed |
 | **Year Awarded** | 2023 |
 | **Type of Grant** | Social Science Research Thematic Grant |
 | **Funding Type** | A |
