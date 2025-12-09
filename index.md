@@ -18,7 +18,7 @@ sections:
         - title: Social Science Research Council Graduate Research Fellowship
           description: ""
           url: initiatives/grf/overview/
-      title: Launch of the 2025 SSHR Thematic Grant Call
+      title: Tech Demo
       button: find out more
       url: https://www.ssrc.edu.sg/initiatives/thematic-grant/overview/
   - infopic:
