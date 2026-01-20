@@ -67,8 +67,3 @@ variant: tiptap
 <br><em>Permanent Secretary</em> 
 <br><em>Public Service Division</em>
 </p>
-<p><strong>Professor Lionel Wee</strong> 
-<br><em>Dean, Faculty of Arts and Social Sciences;</em> 
-<br><em>Co-dean, College of Humanities &amp; Sciences</em> 
-<br><em>National University of Singapore</em>
-</p>
