@@ -26,13 +26,12 @@ variant: tiptap
 <br><em>Singapore Management University</em>
 </p>
 <p><strong>Professor Chen Tsuhan</strong> 
-<br><em>Chief Scientist, AI Singapore;<br>Deputy President (Innovation &amp; Enterprise)</em> 
+<br><em>Chief Scientist, AI Singapore;<br>Distinguished Professor</em>
 <br><em>National University of Singapore</em>
 </p>
 <p><strong>Professor Chua Beng Huat</strong> 
-<br><em>Professor</em> 
-<br><em>Social Science (Urban Studies)</em> 
-<br><em>Yale-NUS College</em>
+<br><em>Emeritus Professor</em> 
+<br><em>National University of Singapore</em>
 </p>
 <p><strong>Professor Kenneth Benoit</strong>
 <br><em>Dean, School of Social Sciences</em>
@@ -42,8 +41,9 @@ variant: tiptap
 <br><em>Provost<br>Singapore University of Social Sciences</em>
 </p>
 <p><strong>Professor Joseph Liow</strong> 
-<br><em>Dean, College of Humanities, Arts and Social Sciences</em> 
-<br><em>Nanyang Technological University</em>
+<br><em>Dean &amp; Wang Gungwu Professor in East Asian Affairs</em>
+<br><em>Lee Kuan Yew School of Public Policy</em>
+<br><em>National University of Singapore</em>
 </p>
 <p><strong>Professor May Oo Lwin</strong> 
 <br><em>Associate Provost (Faculty Affairs)<br>President's Chair Professor of Communication Studies, Wee Kim Wee School of Communication &amp; Information <br>Nanyang Technological University</em>
@@ -53,7 +53,7 @@ variant: tiptap
 <br><em>National University of Singapore</em>
 </p>
 <p><strong>Professor Danny Quah</strong> 
-<br><em>Dean and Li Ka Shing Professor in Economics</em> 
+<br><em>Li Ka Shing Professor in Economics</em> 
 <br><em>Lee Kuan Yew School of Public Policy</em> 
 <br><em>National University of Singapore</em>
 </p>
