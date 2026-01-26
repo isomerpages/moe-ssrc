@@ -41,8 +41,9 @@ variant: tiptap
 <br><em>Provost<br>Singapore University of Social Sciences</em>
 </p>
 <p><strong>Professor Joseph Liow</strong> 
-<br><em>Dean, College of Humanities, Arts and Social Sciences</em> 
-<br><em>Nanyang Technological University</em>
+<br><em>Dean &amp; Wang Gungwu Professor in East Asian Affairs</em>
+<br><em>Lee Kuan Yew School of Public Policy</em>
+<br><em>National University of Singapore</em>
 </p>
 <p><strong>Professor May Oo Lwin</strong> 
 <br><em>Associate Provost (Faculty Affairs)<br>President's Chair Professor of Communication Studies, Wee Kim Wee School of Communication &amp; Information <br>Nanyang Technological University</em>
