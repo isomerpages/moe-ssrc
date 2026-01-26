@@ -52,7 +52,7 @@ variant: tiptap
 <br><em>National University of Singapore</em>
 </p>
 <p><strong>Professor Danny Quah</strong> 
-<br><em>Dean and Li Ka Shing Professor in Economics</em> 
+<br><em>Li Ka Shing Professor in Economics</em> 
 <br><em>Lee Kuan Yew School of Public Policy</em> 
 <br><em>National University of Singapore</em>
 </p>
