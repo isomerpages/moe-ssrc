@@ -26,13 +26,12 @@ variant: tiptap
 <br><em>Singapore Management University</em>
 </p>
 <p><strong>Professor Chen Tsuhan</strong> 
-<br><em>Chief Scientist, AI Singapore;<br>Deputy President (Innovation &amp; Enterprise)</em> 
+<br><em>Chief Scientist, AI Singapore;<br>Distinguished Professor</em>
 <br><em>National University of Singapore</em>
 </p>
 <p><strong>Professor Chua Beng Huat</strong> 
-<br><em>Professor</em> 
-<br><em>Social Science (Urban Studies)</em> 
-<br><em>Yale-NUS College</em>
+<br><em>Emeritus Professor</em> 
+<br><em>National University of Singapore</em>
 </p>
 <p><strong>Professor Kenneth Benoit</strong>
 <br><em>Dean, School of Social Sciences</em>
