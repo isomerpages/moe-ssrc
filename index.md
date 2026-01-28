@@ -25,7 +25,7 @@ sections:
       title: Ideas Festival 2026
       subtitle: 26 Feb - 30 Mar 2026
       id: infopic
-      description: "Reimagining Resilience: Flourishing in a Changing World"
+      description: How can we flourish—not merely endure—in a changing world?
       button: Find out more
       url: https://www.ideasfestival.edu.sg
       image: /images/image_2026_01_29_021115022.png
