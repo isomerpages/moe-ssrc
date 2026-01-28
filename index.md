@@ -22,6 +22,15 @@ sections:
       button: find out more
       url: https://www.ssrc.edu.sg/initiatives/thematic-grant/overview/
   - infopic:
+      title: Ideas Festival 2026
+      subtitle: 26 Feb - 30 Mar 2026
+      id: infopic
+      description: "Reimagining Resilience: Flourishing in a Changing World"
+      button: Find out more
+      url: https://www.ideasfestival.edu.sg
+      image: /images/image_2026_01_29_021115022.png
+      alt: Image alt text
+  - infopic:
       title: Results of the 2024 SSHR Fellowship Call
       subtitle: Announcements
       id: infopic
