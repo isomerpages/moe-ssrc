@@ -18,9 +18,18 @@ sections:
         - title: Social Science Research Council Graduate Research Fellowship
           description: ""
           url: initiatives/grf/overview/
-      title: Launchof the 2025 SSHR Thematic Grant Call
+      title: Join us at Ideas Festival 2026!
       button: find out more
-      url: https://www.ssrc.edu.sg/initiatives/thematic-grant/overview/
+      url: https://www.ideasfestival.edu.sg
+  - infopic:
+      title: Ideas Festival 2026
+      subtitle: 26 Feb - 30 Mar 2026
+      id: infopic
+      description: How can we flourish—not merely endure—in a changing world?
+      button: Find out more
+      url: https://www.ideasfestival.edu.sg
+      image: /images/image_2026_01_29_021115022.png
+      alt: Image alt text
   - infopic:
       title: Results of the 2024 SSHR Fellowship Call
       subtitle: Announcements
