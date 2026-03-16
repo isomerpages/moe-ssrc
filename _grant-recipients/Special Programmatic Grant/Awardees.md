@@ -39,20 +39,13 @@ under the Special Programmatic Grant.</p>
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Prof Atreyi Kankanhalli</p>
+<p>Prof Atreyi Kankanhalli (NUS)</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Computational Social Science and Humanities</p>
-</li>
-</ul>
+<p>| Computational Social Science &amp; Humanities</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NUS</p>
-<p>NTU</p>
-<p>SMU</p>
-<p>SUTD</p>
+<p>NUS, NTU, SMU, SUTD</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Computational Social Simulations for Aiding Policy Design</p>
@@ -63,19 +56,13 @@ under the Special Programmatic Grant.</p>
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Prof Khong Yuen Foong</p>
+<p>Prof Khong Yuen Foong (NUS)</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Regional Studies</p>
-</li>
-</ul>
+<p>| Regional Studies</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NUS</p>
-<p>NTU</p>
-<p>SMU</p>
+<p>NUS, NTU, SMU</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Rethinking Regional Resilience in a Changing World</p>
@@ -86,20 +73,12 @@ under the Special Programmatic Grant.</p>
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Prof May Oo Lwin</p>
+<p>Prof May Oo Lwin (NTU)</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Computational Social Science and Humanities</p>
-</li>
-<li>
-<p>AI, Technology and Society</p>
-</li>
-<li>
-<p>Behavioural Science</p>
-</li>
-</ul>
+<p>| Computational Social Science &amp; Humanities
+<br>| AI Technology &amp; Society
+<br>| Behavioural Science</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>NTU</p>
@@ -114,22 +93,14 @@ Models</p>
 <p>4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Prof Orlando Woods</p>
+<p>Prof Orlando Woods (SMU)</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Computational Social Science and Humanities</p>
-</li>
-<li>
-<p>AI, Technology and Society</p>
-</li>
-</ul>
+<p>| Computational Social Science &amp; Humanities
+<br>| AI, Technology &amp; Society</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SMU</p>
-<p>NUS</p>
-<p>NTU</p>
+<p>SMU, NUS, NTU</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Inclusive AI Governance in Southeast Asian Cities</p>
