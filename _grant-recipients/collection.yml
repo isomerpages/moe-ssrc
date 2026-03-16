@@ -2,7 +2,7 @@ collections:
   grant-recipients:
     output: true
     order:
-      - Special Programmatic Grant/2025 Awardees.md
+      - Special Programmatic Grant/Awardees.md
       - Special Programmatic Grant/.keep
       - SSHR TG Awardees/2024 Call.md
       - SSHR TG Awardees/2023 Call.md
