@@ -42,7 +42,7 @@ under the Special Programmatic Grant.</p>
 <p>Prof Atreyi Kankanhalli (NUS)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>| Computational Social Science &amp; Humanities</p>
+<p>(2) Computational Social Science &amp; Humanities</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>NUS, NTU, SMU, SUTD</p>
@@ -59,7 +59,7 @@ under the Special Programmatic Grant.</p>
 <p>Prof Khong Yuen Foong (NUS)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>| Regional Studies</p>
+<p>(1) Regional Studies</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>NUS, NTU, SMU</p>
@@ -76,9 +76,9 @@ under the Special Programmatic Grant.</p>
 <p>Prof May Oo Lwin (NTU)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>| Computational Social Science &amp; Humanities
-<br>| AI Technology &amp; Society
-<br>| Behavioural Science</p>
+<p>(2) Computational Social Science &amp; Humanities;
+<br>(3) AI Technology &amp; Society;
+<br>(4) Behavioural Science</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>NTU</p>
@@ -96,8 +96,8 @@ Models</p>
 <p>Prof Orlando Woods (SMU)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>| Computational Social Science &amp; Humanities
-<br>| AI, Technology &amp; Society</p>
+<p>(2) Computational Social Science &amp; Humanities;
+<br>(3) AI, Technology &amp; Society</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SMU, NUS, NTU</p>
