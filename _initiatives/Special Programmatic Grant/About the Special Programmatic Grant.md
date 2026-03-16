@@ -210,8 +210,7 @@ the cost-effectiveness and value for money of the research.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>The list of awardees and their projects can be found on this link: Results
-of the Special Programmatic Grant.</p>
+<p>The list of awardees and their projects can be found on this link: <a href="/grant-recipients/special-programmatic-grant/awardees/" rel="noopener nofollow" target="_blank">Results of the Special Programmatic Grant</a>.</p>
 </td>
 </tr>
 </tbody>
