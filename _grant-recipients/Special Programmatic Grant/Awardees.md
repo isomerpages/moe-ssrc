@@ -76,8 +76,8 @@ under the Special Programmatic Grant.</p>
 <p>Prof May Oo Lwin (NTU)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Computational Social Science &amp; Humanities;
-<br>AI Technology &amp; Society;
+<p>Computational Social Science &amp; Humanities /
+<br>AI Technology &amp; Society /
 <br>Behavioural Science</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -96,7 +96,7 @@ Models</p>
 <p>Prof Orlando Woods (SMU)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Computational Social Science &amp; Humanities;
+<p>Computational Social Science &amp; Humanities /
 <br>AI, Technology &amp; Society</p>
 </td>
 <td rowspan="1" colspan="1">
