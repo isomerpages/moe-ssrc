@@ -192,6 +192,18 @@ the cost-effectiveness and value for money of the research.</p>
 </tr>
 </tbody>
 </table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p>The list of awardees and their projects can be found on this link: Results
 of the Special Programmatic Grant.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p></p>
