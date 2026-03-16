@@ -77,7 +77,7 @@ under the Special Programmatic Grant.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Computational Social Science &amp; Humanities /
-<br>AI Technology &amp; Society /
+<br>AI, Technology &amp; Society /
 <br>Behavioural Science</p>
 </td>
 <td rowspan="1" colspan="1">
