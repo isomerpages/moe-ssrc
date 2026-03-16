@@ -18,6 +18,9 @@ sections:
         - title: Social Science Research Council Graduate Research Fellowship
           description: ""
           url: initiatives/grf/overview/
+        - title: Special Programmatic Grant
+          description: ""
+          url: https://www.ssrc.edu.sg/initiatives/special-programmatic-grant/overview/
       title: Join us at Ideas Festival 2026!
       button: find out more
       url: https://www.ideasfestival.edu.sg
