@@ -10,6 +10,13 @@ third_nav_title: Special Programmatic Grant
 the development of ambitious Social Science and Humanities Research (SSHR)
 programmes, with an emphasis on developing longer-term capabilities in
 areas germane to establishing Singapore as a thought leader.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p>The goals of the grant were:</p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -53,6 +60,10 @@ pipeline of research manpower and attracting talent.</p>
 <td rowspan="1" colspan="1">
 <p>To enable positive societal impact and outcomes (e.g. outreach, policy
 recommendations).</p>
+</td>
+</tr>
+</tbody>
+</table>
 </td>
 </tr>
 </tbody>
