@@ -103,6 +103,25 @@ these may have evolved over time and shape contemporary society.</p>
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="1">
+<p><strong>Theme 5: The Geopolitics of a Changing World</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Understanding how geopolitical developments impact the stability, security,
+development and cohesion of Singapore and/or the region.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
 <th rowspan="1" colspan="1">
 <p><strong>Open Category</strong>
 </p>
