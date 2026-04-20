@@ -21,8 +21,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Assoc Prof Jingxia Lin</strong>
-</p>
-<p><em>School of Humanities, NTU</em>
+<br><em>School of Humanities, NTU</em>
 </p>
 </td>
 </tr>
