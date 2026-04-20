@@ -21,9 +21,9 @@ sections:
         - title: Special Programmatic Grant
           description: ""
           url: https://www.ssrc.edu.sg/initiatives/special-programmatic-grant/overview/
-      title: Join us at Ideas Festival 2026!
+      title: Results of the 2024 SSHR-TG Call
       button: find out more
-      url: https://www.ideasfestival.edu.sg
+      url: /grant-recipients/2025/sshrtg2025/
   - infopic:
       title: Ideas Festival 2026
       subtitle: 26 Feb - 30 Mar 2026
