@@ -4,6 +4,14 @@ permalink: /news-and-events/latest-updates/permalink/
 description: ""
 variant: markdown
 ---
+<p><a href="https://www.ssrc.edu.sg/grant-recipients/2025/sshrtg2025/"><img src="/images/updates1.jpg" style="width:40%;margin-left:15px;" align="right"></a></p>
+
+20 April 2026<br>
+**[Results of the 2025 SSHR-TG Call](https://www.ssrc.edu.sg/grant-recipients/2025/sshrtg2025/)**
+
+<br clear="left"><br clear="left">
+
+-----------------------------------------------------------
 <p><a href="https://www.ssrc.edu.sg/grant-recipients/2024-fellows/"><img src="/images/updates2.jpg" style="width:40%;margin-left:15px;" align="right"></a></p>
 
 22 Jul 2025<br>
