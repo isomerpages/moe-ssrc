@@ -97,9 +97,6 @@ flows of material resources and social networks; and</p>
 healthcare and eldercare needs.</p>
 </li>
 </ul>
-<p>This study will integrate quantitative and qualitative research methods
-through two work packages to develop a comprehensive understanding of foreign-
-and local-born older adults’ resource environments.</p>
 <p>This project will extend conceptual knowledge on the differentiated resource
 environments of foreign-born older adults, augmenting ageing-migration
 and life-course theories for Migration Studies and Social and Geographical
