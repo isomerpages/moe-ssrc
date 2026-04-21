@@ -83,7 +83,7 @@ gaps in existing resources and offers insights into how language reflects
 and shapes Singapore’s unique sociocultural and multilingual environment.
 It provides an empirical basis for re-examining theories of lexical variation,
 language contact, and the development of the World Chinese framework (modelled
-on World Englishes and highlighting the global diversity and localization
+on World Englishes and highlighting the global diversity and localisation
 of Chinese varieties, while also delivering a practical tool to support
 education, translation, media, and NLP development in a linguistically
 diverse context.</p>
