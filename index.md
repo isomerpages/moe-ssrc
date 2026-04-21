@@ -18,9 +18,9 @@ sections:
         - title: Social Science Research Council Graduate Research Fellowship
           description: ""
           url: initiatives/grf/overview/
-      title: Join us at Ideas Festival 2026!
+      title: 2025 SSHR-TG Call Results
       button: find out more
-      url: https://www.ideasfestival.edu.sg
+      url: /grant-recipients/2025/sshrtg2025/
   - infopic:
       title: Ideas Festival 2026
       subtitle: 26 Feb - 30 Mar 2026

@@ -1,5 +1,5 @@
 ---
-title: Themes for the 2025 SSHR–TG Call
+title: Themes for the 2026 SSHR–TG Call
 permalink: /initiatives/thematic-grant/themes/
 variant: tiptap
 description: ""
@@ -9,7 +9,7 @@ third_nav_title: SSHR Thematic Grant
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SSRC website.png">
 </div>
-<p>The <strong>2025 Social Science &amp; Humanities Research Thematic Grant</strong> (SSHR-TG)
+<p>The <strong>2026 Social Science &amp; Humanities Research Thematic Grant</strong> (SSHR-TG)
 Call invites proposals which address the following themes using various
 perspectives in the social sciences and humanities, with special focus
 on understanding Singapore and its place in the region (ASEAN and the rest
@@ -103,6 +103,25 @@ these may have evolved over time and shape contemporary society.</p>
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="1">
+<p><strong>Theme 5: The Geopolitics of a Changing World</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Understanding how geopolitical developments impact the stability, security,
+development and cohesion of Singapore and/or the region.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
 <th rowspan="1" colspan="1">
 <p><strong>Open Category</strong>
 </p>
@@ -117,6 +136,6 @@ using perspectives from the social sciences and humanities.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>All applications must be submitted through the respective Offices of Research (or equivalent) by 1 Aug 2025 at 5pm.</strong> The
+<p><strong>All applications must be submitted through the respective Offices of Research (or equivalent).</strong> The
 results of the previous SSHR-TG Call can be found <a href="https://www.ssrc.edu.sg/grant-recipients/2024/sshrtg2024/" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
 <p></p>
