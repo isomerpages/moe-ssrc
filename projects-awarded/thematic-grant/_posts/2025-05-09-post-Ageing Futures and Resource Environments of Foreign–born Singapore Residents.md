@@ -80,14 +80,17 @@ progress into older age, what are their local and transnational resource
 environments like (compared to the local-born), and how do they draw on
 or plan to draw on these resource environments to meet their eldercare
 needs?</p>
-<p>The research objectives are to understand (through comparative analysis):</p>
+<p>This project will integrate quantitative and qualitative research methods
+through two work packages to develop a comprehensive understanding of foreign-
+and local-born older adults' resource environments. The research objectives
+are to understand:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>How foreign-born Singapore residents experience and perceive ageing.</p>
+<p>How foreign-born Singapore residents experience and perceive ageing;</p>
 </li>
 <li>
 <p>What their resource environments are like in terms of local and transnational
-flows of material resources and social networks.</p>
+flows of material resources and social networks; and</p>
 </li>
 <li>
 <p>How they strategically navigate their resource environments to serve their
