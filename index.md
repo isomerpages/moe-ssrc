@@ -18,9 +18,6 @@ sections:
         - title: Social Science Research Council Graduate Research Fellowship
           description: ""
           url: initiatives/grf/overview/
-        - title: Special Programmatic Grant
-          description: ""
-          url: https://www.ssrc.edu.sg/initiatives/special-programmatic-grant/overview/
       title: 2025 SSHR-TG Call Results
       button: find out more
       url: /grant-recipients/2025/sshrtg2025/
