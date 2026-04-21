@@ -73,7 +73,7 @@ variant: tiptap
 </table>
 <p>This project aims to address biases in AI, and its interaction with potentially
 biased human users, constituting an urgent and dynamic policy challenge.</p>
-<p>This project is structured in three work packages to conceptualize, measure,
+<p>This project is structured in three work packages to conceptualise, measure,
 and counteract these biases.</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -88,7 +88,7 @@ experimental designs to identify and mitigate biases in AI and in humans.</p>
 <p>In the measurement work package, the team will implement the concepts
 developed using techniques to generate a large number of test cases algorithmically,
 and deploy them in large-scale digital experiments in Large Language Models
-(LLMs) and humans. The team will also characterize how humans, who bring
+(LLMs) and humans. The team will also characterise how humans, who bring
 their own biases to the table, use AI and how this affects workplace interactions.
 The team will also branch out into newer models, including Large Reasoning
 Models (LRMs).</p>
