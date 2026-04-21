@@ -80,8 +80,8 @@ modelling the informational fits and misfits in human–AI interaction.</p>
 <p>Specifically, the project aims to:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Identify key informational vectors (i.e., user informational demands,
-user informational capabilities, and AI informational features) that influence
+<p>Identify key informational vectors (i.e. user informational demands, user
+informational capabilities, and AI informational features) that influence
 user identification of information disorder;</p>
 </li>
 <li>
@@ -90,7 +90,7 @@ framework that captures true and false positives and negatives;</p>
 </li>
 <li>
 <p>Construct a vector-based model to quantify four types of informational
-fits (demand–feature, feature– capability, within-demand, and demand–capability)
+fits (demand–feature, feature–capability, within-demand, and demand–capability)
 and their effects on identification performance; and</p>
 </li>
 <li>
@@ -102,8 +102,8 @@ fit, reduce misfit, and inform governance strategies.</p>
 and methodological frontiers by introducing a scalable, empirically validated
 framework for studying human–AI informational fit. It bridges the gap between
 behavioural sciences and technical AI design, offering new conceptual tools
-(e.g., vector-based fit metrics, adjusted confusion matrix for human classifiers)
-and analytical approaches (e.g., latent class fit archetypes, agent-based
+(e.g. vector-based fit metrics, adjusted confusion matrix for human classifiers)
+and analytical approaches (e.g. latent class fit archetypes, agent-based
 simulations) to the study of information disorder. Non-academically, it
 offers timely, evidence-based insights to guide national and regional policies
 on AI explainability, digital literacy, and media governance.</p>
