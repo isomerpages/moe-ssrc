@@ -11,7 +11,7 @@ variant: markdown
 |---|---|
 | **Name of Recipent** | **Professor Tim Winter**<br>_Asia Research Institute Research Cluster Leader (Inter-Asian Engagements), Senior Research Fellow, NUS_ |
 | **Project Title** | Heritage Diplomacy: connecting histories and futures |
-| **Project Status** | Ongoing |
+| **Project Status** | Closed |
 | **Year Awarded** | 2024 |
 | **Type of Grant** | Social Science &amp; Humanities Research Thematic Grant |
 |**Funding Type** | B |
