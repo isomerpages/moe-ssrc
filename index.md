@@ -18,7 +18,7 @@ sections:
         - title: Social Science Research Council Graduate Research Fellowship
           description: ""
           url: initiatives/grf/overview/
-      title: 2025 SSHR-TG Call Results
+      title: Launch of the 2026 SSHR-TG Call
       button: find out more
       url: /grant-recipients/2025/sshrtg2025/
   - infopic:
