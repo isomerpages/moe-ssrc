@@ -20,7 +20,7 @@ sections:
           url: initiatives/grf/overview/
       title: Launch of the 2026 SSHR-TG Call
       button: find out more
-      url: /grant-recipients/2025/sshrtg2025/
+      url: /initiatives/thematic-grant/overview/
   - infopic:
       title: Ideas Festival 2026
       subtitle: 26 Feb - 30 Mar 2026
