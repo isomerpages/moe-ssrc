@@ -18,9 +18,16 @@ sections:
         - title: Social Science Research Council Graduate Research Fellowship
           description: ""
           url: initiatives/grf/overview/
-      title: 2025 SSHR-TG Call Results
+      title: Launch of the 2026 SSHR-TG Call
       button: find out more
-      url: /grant-recipients/2025/sshrtg2025/
+      url: /initiatives/thematic-grant/overview/
+  - infopic:
+      title: Results of the 2025 SSHR-TG Call
+      subtitle: Announcements
+      button: Click here
+      url: https://www.ssrc.edu.sg/grant-recipients/2025/sshrtg2025/
+      image: /images/updates1.jpg
+      alt: ssrtg
   - infopic:
       title: Ideas Festival 2026
       subtitle: 26 Feb - 30 Mar 2026
@@ -38,13 +45,6 @@ sections:
       url: https://www.ssrc.edu.sg/grant-recipients/2024-fellows/
       image: /images/updates2.jpg
       alt: Image alt text
-  - infopic:
-      title: Results of the 2024 SSHR-TG Call
-      subtitle: Announcements
-      button: Click here
-      url: https://www.ssrc.edu.sg/grant-recipients/2024/sshrtg2024/
-      image: /images/updates1.jpg
-      alt: ssrtg
   - resources:
       title: Curious about the SSRC's latest projects?
       subtitle: projects awarded
