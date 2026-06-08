@@ -25,7 +25,7 @@ sections:
       title: Results of the 2025 SSHR-TG Call
       subtitle: Announcements
       button: Click here
-      url: https://www.ssrc.edu.sg/grant-recipients/2024/sshrtg2024/
+      url: https://www.ssrc.edu.sg/grant-recipients/2025/sshrtg2025/
       image: /images/updates1.jpg
       alt: ssrtg
   - infopic:
