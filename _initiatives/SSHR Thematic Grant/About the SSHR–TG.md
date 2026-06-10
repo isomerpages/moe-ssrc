@@ -68,7 +68,7 @@ click on the links below.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
-<p><strong>Type A: S$100,000 to S$1.5 million / 3 – 5 years</strong>
+<p><strong>Type A: S$100,000 to S$1.5 million / up to 3 years</strong>
 </p>
 </td>
 </tr>
