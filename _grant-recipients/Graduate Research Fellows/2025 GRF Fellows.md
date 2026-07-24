@@ -17,7 +17,6 @@ The following recipients were awarded during the 2025 SSRC GRF call.
 |6| NTU | Fidellithy Tan | Cornell University | ‘Innocence’ and Imperialism: A History of Child Protection across British India and Malaya |
 |7| NTU | Wendy He Qingli | Eberhard Karl University of Tübingen | Making Peace with Nature: Confidence, Trust, and the Political Psychology of Climate Diplomacy |
 |8| NTU | Soh Kay Min | University of Westminster | Weather as Witness: Political Ecologies of Southeast Asia Through a Curatorial Lens |
-|9| NTU | Adeline Tay | University of Sydney | Exploring Parental Sharenting of Young Children |
-|10| SMU | Micah Tan ChongSheng | Princeton University | Delayed Retirement and Population Health Equity in Singapore: Implications for Work, Aging, and Well-Being |
-|11| SMU | Ng Yi Ming | Northwestern University | Institutionalizing Corporate Purpose: Standardization, Governance & Socialization Pathways |
-|12| SMU | Verity Lua Yu Qing | Stanford University | Conceptualizations of Well-Being in Singapore |
+|9| SMU | Micah Tan ChongSheng | Princeton University | Delayed Retirement and Population Health Equity in Singapore: Implications for Work, Aging, and Well-Being |
+|10| SMU | Ng Yi Ming | Northwestern University | Institutionalizing Corporate Purpose: Standardization, Governance & Socialization Pathways |
+|11| SMU | Verity Lua Yu Qing | Stanford University | Conceptualizations of Well-Being in Singapore |
